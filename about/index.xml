@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on dsgarage.org</title>
-    <link>/about/</link>
-    <description>Recent content in Publications on dsgarage.org</description>
+    <title>Publications on ellrottlab.org</title>
+    <link>https://ellrottlab.org/about/</link>
+    <description>Recent content in Publications on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ellrottlab.org/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

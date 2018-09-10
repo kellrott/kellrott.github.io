@@ -1,32 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on dsgarage.org</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on dsgarage.org</description>
+    <title>Publications on ellrottlab.org</title>
+    <link>https://ellrottlab.org/publication/</link>
+    <description>Recent content in Publications on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ellrottlab.org/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Smc</title>
-      <link>/publication/smc/</link>
-      <pubDate>Sun, 19 Aug 2018 23:17:11 -0700</pubDate>
+      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
+      <link>https://ellrottlab.org/publication/mc3/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
       
-      <guid>/publication/smc/</guid>
+      <guid>https://ellrottlab.org/publication/mc3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
-      <link>/publication/mc3/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
+      <link>https://ellrottlab.org/publication/28988802/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
       
-      <guid>/publication/mc3/</guid>
+      <guid>https://ellrottlab.org/publication/28988802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
+      <link>https://ellrottlab.org/publication/29092953/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/29092953/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
+      <link>https://ellrottlab.org/publication/25984700/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/25984700/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
+      <link>https://ellrottlab.org/publication/24675517/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/24675517/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
+      <link>https://ellrottlab.org/publication/24071850/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/24071850/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cancer Genome Atlas Pan-Cancer analysis project.</title>
+      <link>https://ellrottlab.org/publication/24071849/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/24071849/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
+      <link>https://ellrottlab.org/publication/23109555/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOPSAN: a dynamic web database for structural genomics.</title>
+      <link>https://ellrottlab.org/publication/20961957/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      
+      <guid>https://ellrottlab.org/publication/20961957/</guid>
       <description></description>
     </item>
     
