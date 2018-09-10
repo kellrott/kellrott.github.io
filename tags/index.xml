@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ellrottlab.org</title>
-    <link>https://ellrottlab.org/tags/</link>
+    <link>http://ellrottlab.org/tags/</link>
     <description>Recent content in Tags on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://ellrottlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ellrottlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://ellrottlab.org/tags/academic/</link>
+      <link>http://ellrottlab.org/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://ellrottlab.org/tags/academic/</guid>
+      <guid>http://ellrottlab.org/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Alumni</title>
-      <link>https://ellrottlab.org/tags/alumni/</link>
+      <link>http://ellrottlab.org/tags/alumni/</link>
       <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/alumni/</guid>
+      <guid>http://ellrottlab.org/tags/alumni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis</title>
-      <link>https://ellrottlab.org/tags/analysis/</link>
+      <link>http://ellrottlab.org/tags/analysis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/analysis/</guid>
+      <guid>http://ellrottlab.org/tags/analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Challenge</title>
-      <link>https://ellrottlab.org/tags/challenge/</link>
+      <link>http://ellrottlab.org/tags/challenge/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/challenge/</guid>
+      <guid>http://ellrottlab.org/tags/challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current</title>
-      <link>https://ellrottlab.org/tags/current/</link>
+      <link>http://ellrottlab.org/tags/current/</link>
       <pubDate>Mon, 20 Aug 2018 10:34:10 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/current/</guid>
+      <guid>http://ellrottlab.org/tags/current/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Systems</title>
-      <link>https://ellrottlab.org/tags/data-systems/</link>
+      <link>http://ellrottlab.org/tags/data-systems/</link>
       <pubDate>Wed, 22 Aug 2018 09:06:36 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/data-systems/</guid>
+      <guid>http://ellrottlab.org/tags/data-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data-systems</title>
-      <link>https://ellrottlab.org/tags/data-systems/</link>
+      <link>http://ellrottlab.org/tags/data-systems/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/data-systems/</guid>
+      <guid>http://ellrottlab.org/tags/data-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep-learning</title>
-      <link>https://ellrottlab.org/tags/deep-learning/</link>
+      <link>http://ellrottlab.org/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/deep-learning/</guid>
+      <guid>http://ellrottlab.org/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://ellrottlab.org/tags/development/</link>
+      <link>http://ellrottlab.org/tags/development/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/development/</guid>
+      <guid>http://ellrottlab.org/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dream</title>
-      <link>https://ellrottlab.org/tags/dream/</link>
+      <link>http://ellrottlab.org/tags/dream/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/dream/</guid>
+      <guid>http://ellrottlab.org/tags/dream/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rna</title>
-      <link>https://ellrottlab.org/tags/rna/</link>
+      <link>http://ellrottlab.org/tags/rna/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/tags/rna/</guid>
+      <guid>http://ellrottlab.org/tags/rna/</guid>
       <description></description>
     </item>
     

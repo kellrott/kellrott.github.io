@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on ellrottlab.org</title>
-    <link>https://ellrottlab.org/talk/</link>
+    <link>http://ellrottlab.org/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="https://ellrottlab.org/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ellrottlab.org/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Talk</title>
-      <link>https://ellrottlab.org/talk/example-talk/</link>
+      <link>http://ellrottlab.org/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>https://ellrottlab.org/talk/example-talk/</guid>
+      <guid>http://ellrottlab.org/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ellrottlab.org</title>
-    <link>https://ellrottlab.org/</link>
+    <link>http://ellrottlab.org/</link>
     <description>Recent content on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,73 +12,73 @@
     
     <item>
       <title>GA4GH Task Execution Schema</title>
-      <link>https://ellrottlab.org/project/tes/</link>
+      <link>http://ellrottlab.org/project/tes/</link>
       <pubDate>Wed, 22 Aug 2018 09:06:36 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/tes/</guid>
+      <guid>http://ellrottlab.org/project/tes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GA4GH G2P</title>
-      <link>https://ellrottlab.org/project/g2p/</link>
+      <link>http://ellrottlab.org/project/g2p/</link>
       <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/g2p/</guid>
+      <guid>http://ellrottlab.org/project/g2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Malisa Smith</title>
-      <link>https://ellrottlab.org/people/smith/</link>
+      <link>http://ellrottlab.org/people/smith/</link>
       <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/smith/</guid>
+      <guid>http://ellrottlab.org/people/smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeena Lee</title>
-      <link>https://ellrottlab.org/people/lee/</link>
+      <link>http://ellrottlab.org/people/lee/</link>
       <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/lee/</guid>
+      <guid>http://ellrottlab.org/people/lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMC  Het</title>
-      <link>https://ellrottlab.org/project/smc-het/</link>
+      <link>http://ellrottlab.org/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/smc-het/</guid>
+      <guid>http://ellrottlab.org/project/smc-het/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Walsh</title>
-      <link>https://ellrottlab.org/people/walsh/</link>
+      <link>http://ellrottlab.org/people/walsh/</link>
       <pubDate>Mon, 20 Aug 2018 10:34:10 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/walsh/</guid>
+      <guid>http://ellrottlab.org/people/walsh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan Spangler</title>
-      <link>https://ellrottlab.org/people/spangler/</link>
+      <link>http://ellrottlab.org/people/spangler/</link>
       <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/spangler/</guid>
+      <guid>http://ellrottlab.org/people/spangler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Ellrott</title>
-      <link>https://ellrottlab.org/people/ellrott/</link>
+      <link>http://ellrottlab.org/people/ellrott/</link>
       <pubDate>Mon, 20 Aug 2018 10:03:18 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/ellrott/</guid>
+      <guid>http://ellrottlab.org/people/ellrott/</guid>
       <description>&lt;p&gt;My primary research goal is the application of large scale computing techniques and data integration for the analysis of genomics and systems biology. My current focus has been on biological systems analysis of cancer biology where I specialize in large scale computing problems that require heterogeneous analysis and data. For the past several years I have been extensively involved in the TCGA project, coordinating large scale variant calling efforts and enabling integrative analysis. I worked as the data coordinator for the TCGA PanCancer project, which was the joint effort of more than 100 scientists and my critical role allowed the publication of seventeen manuscripts.I have worked on several large compute platform projects, including working as the OHSU technical lead on the OHSU/Intel Collaborative Cancer Cloud and for the BioMedical Evidence Graph(BMEG). These projects have sought to enable researchers to utilize powerful computational systems to do large scale integrative analysis. I plan to use this experience to enable the next generation of integrative analysis. Despite an extensive history in computer engineering and the technological development of platforms for analysis, my work is guided by enabling actual analytical problems, with a principle goal of working with biological collaborators with to drive relevant research.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -95,65 +95,65 @@
     
     <item>
       <title>Allison Creason</title>
-      <link>https://ellrottlab.org/people/creason/</link>
+      <link>http://ellrottlab.org/people/creason/</link>
       <pubDate>Mon, 20 Aug 2018 09:57:24 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/creason/</guid>
+      <guid>http://ellrottlab.org/people/creason/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alex Buchanan</title>
-      <link>https://ellrottlab.org/people/buchanan/</link>
+      <link>http://ellrottlab.org/people/buchanan/</link>
       <pubDate>Mon, 20 Aug 2018 09:56:25 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/buchanan/</guid>
+      <guid>http://ellrottlab.org/people/buchanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Struck</title>
-      <link>https://ellrottlab.org/people/struck/</link>
+      <link>http://ellrottlab.org/people/struck/</link>
       <pubDate>Mon, 20 Aug 2018 09:34:46 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/struck/</guid>
+      <guid>http://ellrottlab.org/people/struck/</guid>
       <description>&lt;p&gt;Adam Struck&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Grip</title>
-      <link>https://ellrottlab.org/project/grip/</link>
+      <link>http://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/grip/</guid>
+      <guid>http://ellrottlab.org/project/grip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
-      <link>https://ellrottlab.org/publication/mc3/</link>
+      <link>http://ellrottlab.org/publication/mc3/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/publication/mc3/</guid>
+      <guid>http://ellrottlab.org/publication/mc3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
-      <link>https://ellrottlab.org/publication/28988802/</link>
+      <link>http://ellrottlab.org/publication/28988802/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/publication/28988802/</guid>
+      <guid>http://ellrottlab.org/publication/28988802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>https://ellrottlab.org/publication/29092953/</link>
+      <link>http://ellrottlab.org/publication/29092953/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/publication/29092953/</guid>
+      <guid>http://ellrottlab.org/publication/29092953/</guid>
       <description></description>
     </item>
     

@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on ellrottlab.org</title>
-    <link>https://ellrottlab.org/project/</link>
+    <link>http://ellrottlab.org/project/</link>
     <description>Recent content in Projects on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 22 Aug 2018 09:06:36 -0700</lastBuildDate>
     
-	<atom:link href="https://ellrottlab.org/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ellrottlab.org/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GA4GH Task Execution Schema</title>
-      <link>https://ellrottlab.org/project/tes/</link>
+      <link>http://ellrottlab.org/project/tes/</link>
       <pubDate>Wed, 22 Aug 2018 09:06:36 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/tes/</guid>
+      <guid>http://ellrottlab.org/project/tes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GA4GH G2P</title>
-      <link>https://ellrottlab.org/project/g2p/</link>
+      <link>http://ellrottlab.org/project/g2p/</link>
       <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/g2p/</guid>
+      <guid>http://ellrottlab.org/project/g2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMC  Het</title>
-      <link>https://ellrottlab.org/project/smc-het/</link>
+      <link>http://ellrottlab.org/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/smc-het/</guid>
+      <guid>http://ellrottlab.org/project/smc-het/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grip</title>
-      <link>https://ellrottlab.org/project/grip/</link>
+      <link>http://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/grip/</guid>
+      <guid>http://ellrottlab.org/project/grip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BMEG</title>
-      <link>https://ellrottlab.org/project/bmeg/</link>
+      <link>http://ellrottlab.org/project/bmeg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/bmeg/</guid>
+      <guid>http://ellrottlab.org/project/bmeg/</guid>
       <description>The BioMedical Evidence Graph (BMEG) integrates different types of biomedical data into a unified graph for efficient application of machine learning and discovery algorithms across heterogeneous data types. BMEG will leverage the petabytes of genomics data available for tumor samples from repositories like the National Cancer Institute’s Genomic Data Commons to predict drug sensitivity, patient outcomes, and other clinically relevant phenotypes. The BMEG data model is instantiated in a scalable graph database optimized for storing and querying graphs containing terabytes of vertices and edges distributed across a multi-machine cluster.</description>
     </item>
     
     <item>
       <title>DREAM-SMC</title>
-      <link>https://ellrottlab.org/project/dream-smc/</link>
+      <link>http://ellrottlab.org/project/dream-smc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/dream-smc/</guid>
+      <guid>http://ellrottlab.org/project/dream-smc/</guid>
       <description>https://www.synapse.org/DREAM_SMC
 The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge) is an international effort to improve standard methods for identifying cancer-associated mutations and rearrangements in whole-genome sequencing (WGS) data. Leaders of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.</description>
     </item>
     
     <item>
       <title>DREAM-SMC-RNA</title>
-      <link>https://ellrottlab.org/project/dream-rna/</link>
+      <link>http://ellrottlab.org/project/dream-rna/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/dream-rna/</guid>
+      <guid>http://ellrottlab.org/project/dream-rna/</guid>
       <description>https://www.synapse.org/SMC_RNA
 The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge) is an international effort to improve standard methods for identifying cancer-associated mutations and rearrangements in whole-genome sequencing (WGS) data. Leaders of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.</description>
     </item>
     
     <item>
       <title>Funnel</title>
-      <link>https://ellrottlab.org/project/funnel/</link>
+      <link>http://ellrottlab.org/project/funnel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/funnel/</guid>
+      <guid>http://ellrottlab.org/project/funnel/</guid>
       <description>https://ohsu-comp-bio.github.io/funnel/
 Funnel is a toolkit for distributed task execution with a simple API.
 A task describes metadata, state, input/output files, resource requests, commands, and logs. The task API has four actions: create, get, list, and cancel. Given a task, Funnel will queue it, schedule it to a worker, and track its state and logs. A worker will download input files, run a sequence of Docker containers, upload output files, and emits events and logs along the way.</description>
@@ -90,10 +90,10 @@ A task describes metadata, state, input/output files, resource requests, command
     
     <item>
       <title>MC3</title>
-      <link>https://ellrottlab.org/project/mc3/</link>
+      <link>http://ellrottlab.org/project/mc3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/project/mc3/</guid>
+      <guid>http://ellrottlab.org/project/mc3/</guid>
       <description>The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis.</description>
     </item>
     

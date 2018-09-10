@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumni on ellrottlab.org</title>
-    <link>https://ellrottlab.org/tags/alumni/</link>
+    <link>http://ellrottlab.org/tags/alumni/</link>
     <description>Recent content in Alumni on ellrottlab.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 22 Aug 2018 08:43:02 -0700</lastBuildDate>
     
-	<atom:link href="https://ellrottlab.org/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ellrottlab.org/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Malisa Smith</title>
-      <link>https://ellrottlab.org/people/smith/</link>
+      <link>http://ellrottlab.org/people/smith/</link>
       <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/smith/</guid>
+      <guid>http://ellrottlab.org/people/smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeena Lee</title>
-      <link>https://ellrottlab.org/people/lee/</link>
+      <link>http://ellrottlab.org/people/lee/</link>
       <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/lee/</guid>
+      <guid>http://ellrottlab.org/people/lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan Spangler</title>
-      <link>https://ellrottlab.org/people/spangler/</link>
+      <link>http://ellrottlab.org/people/spangler/</link>
       <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
       
-      <guid>https://ellrottlab.org/people/spangler/</guid>
+      <guid>http://ellrottlab.org/people/spangler/</guid>
       <description></description>
     </item>
     
