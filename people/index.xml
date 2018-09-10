@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on dsgarage.org</title>
+    <link>/people/</link>
+    <description>Recent content in People on dsgarage.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Malisa Smith</title>
+      <link>/people/smith/</link>
+      <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
+      
+      <guid>/people/smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeena Lee</title>
+      <link>/people/lee/</link>
+      <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
+      
+      <guid>/people/lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Walsh</title>
+      <link>/people/walsh/</link>
+      <pubDate>Mon, 20 Aug 2018 10:34:10 -0700</pubDate>
+      
+      <guid>/people/walsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Spangler</title>
+      <link>/people/spangler/</link>
+      <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
+      
+      <guid>/people/spangler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellrott</title>
+      <link>/people/ellrott/</link>
+      <pubDate>Mon, 20 Aug 2018 10:03:18 -0700</pubDate>
+      
+      <guid>/people/ellrott/</guid>
+      <description>My primary research goal is the application of large scale computing techniques and data integration for the analysis of genomics and systems biology. My current focus has been on biological systems analysis of cancer biology where I specialize in large scale computing problems that require heterogeneous analysis and data. For the past several years I have been extensively involved in the TCGA project, coordinating large scale variant calling efforts and enabling integrative analysis.</description>
+    </item>
+    
+    <item>
+      <title>Allison Creason</title>
+      <link>/people/creason/</link>
+      <pubDate>Mon, 20 Aug 2018 09:57:24 -0700</pubDate>
+      
+      <guid>/people/creason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Buchanan</title>
+      <link>/people/buchanan/</link>
+      <pubDate>Mon, 20 Aug 2018 09:56:25 -0700</pubDate>
+      
+      <guid>/people/buchanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Struck</title>
+      <link>/people/struck/</link>
+      <pubDate>Mon, 20 Aug 2018 09:34:46 -0700</pubDate>
+      
+      <guid>/people/struck/</guid>
+      <description>Adam Struck</description>
+    </item>
+    
+  </channel>
+</rss>

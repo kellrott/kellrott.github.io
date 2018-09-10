@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dream on dsgarage.org</title>
+    <link>/tags/dream/</link>
+    <description>Recent content in Dream on dsgarage.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/dream/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DREAM-SMC</title>
+      <link>/project/dream-smc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/dream-smc/</guid>
+      <description>https://www.synapse.org/DREAM_SMC
+The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge) is an international effort to improve standard methods for identifying cancer-associated mutations and rearrangements in whole-genome sequencing (WGS) data. Leaders of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.</description>
+    </item>
+    
+    <item>
+      <title>DREAM-SMC-RNA</title>
+      <link>/project/dream-rna/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/dream-rna/</guid>
+      <description>https://www.synapse.org/SMC_RNA
+The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge) is an international effort to improve standard methods for identifying cancer-associated mutations and rearrangements in whole-genome sequencing (WGS) data. Leaders of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.</description>
+    </item>
+    
+  </channel>
+</rss>

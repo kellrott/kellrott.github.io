@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on dsgarage.org</title>
+    <link>/tags/development/</link>
+    <description>Recent content in Development on dsgarage.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handling Failures from OpenStack Swift in Funnel</title>
+      <link>/post/network-failures/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/post/network-failures/</guid>
+      <description>Handling Failures from OpenStack Swift in Funnel When building distributed services, handling failures from other services is a fact of life.
+We use OpenStack Swift as our object storage service, and we use Funnel to transfer thousands of objects to and from Swift. Failed transfers have been common; the Swift server ca be unavailable, overloaded, and even lose chunks of data during upload.
+It’s been challenging to make Funnel tolerant to all these failures, improved our logs and tools available for debugging, improved our code, and we’ve learned a lot along the way.</description>
+    </item>
+    
+  </channel>
+</rss>
