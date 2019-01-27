@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gustavo Stolovitzky on The Data Science Garage</title>
+    <link>/authors/gustavo-stolovitzky/</link>
+    <description>Recent content in Gustavo Stolovitzky on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/gustavo-stolovitzky/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
+      <link>/publication/28988802/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/28988802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
+      <link>/publication/25984700/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/25984700/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
+      <link>/publication/24675517/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/24675517/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

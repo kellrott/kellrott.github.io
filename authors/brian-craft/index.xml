@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Craft on The Data Science Garage</title>
+    <link>/authors/brian-craft/</link>
+    <description>Recent content in Brian Craft on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/brian-craft/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
+      <link>/publication/23109555/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/23109555/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

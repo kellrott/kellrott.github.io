@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer Biology on The Data Science Garage</title>
+    <link>/tags/cancer-biology/</link>
+    <description>Recent content in Cancer Biology on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/cancer-biology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GDAN</title>
+      <link>/project/gdan/</link>
+      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
+      
+      <guid>/project/gdan/</guid>
+      <description>The NCI&amp;rsquo;s Genomic Data Analysis Network (GDAN) was launched in 2016 to continue the work started by the TCGA in the analysis of large cancer cohorts.</description>
+    </item>
+    
+    <item>
+      <title>MC3</title>
+      <link>/project/mc3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/mc3/</guid>
+      <description>The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

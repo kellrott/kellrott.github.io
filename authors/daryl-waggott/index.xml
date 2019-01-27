@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daryl Waggott on The Data Science Garage</title>
+    <link>/authors/daryl-waggott/</link>
+    <description>Recent content in Daryl Waggott on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/daryl-waggott/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
+      <link>/publication/25984700/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/25984700/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

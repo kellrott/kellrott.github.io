@@ -4,15 +4,47 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/tes/</loc>
-      <lastmod>2018-08-22T09:06:36-07:00</lastmod>
+      <loc>/project/gdan/</loc>
+      <lastmod>2019-01-27T10:34:25-08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>http://ellrottlab.org/project/g2p/</loc>
+      <loc>/project/anvil/</loc>
+      <lastmod>2019-01-27T10:27:20-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/walsh/</loc>
+      <lastmod>2019-01-25T16:44:24-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/anvil/</loc>
+      <lastmod>2018-11-25T15:12:50-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/network-failures/</loc>
+      <lastmod>2018-08-25T11:09:22-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/g2p/</loc>
       <lastmod>2018-08-22T09:02:16-07:00</lastmod>
     </url>
     
@@ -20,7 +52,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/smith/</loc>
+      <loc>/people/smith/</loc>
       <lastmod>2018-08-22T08:43:02-07:00</lastmod>
     </url>
     
@@ -28,7 +60,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/lee/</loc>
+      <loc>/people/lee/</loc>
       <lastmod>2018-08-22T08:41:04-07:00</lastmod>
     </url>
     
@@ -36,7 +68,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/smc-het/</loc>
+      <loc>/project/smc-het/</loc>
       <lastmod>2018-08-22T08:37:15-07:00</lastmod>
     </url>
     
@@ -44,15 +76,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/walsh/</loc>
-      <lastmod>2018-08-20T10:34:10-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://ellrottlab.org/people/spangler/</loc>
+      <loc>/people/spangler/</loc>
       <lastmod>2018-08-20T10:08:23-07:00</lastmod>
     </url>
     
@@ -60,7 +84,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/ellrott/</loc>
+      <loc>/people/ellrott/</loc>
       <lastmod>2018-08-20T10:03:18-07:00</lastmod>
     </url>
     
@@ -68,7 +92,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/creason/</loc>
+      <loc>/people/creason/</loc>
       <lastmod>2018-08-20T09:57:24-07:00</lastmod>
     </url>
     
@@ -76,7 +100,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/buchanan/</loc>
+      <loc>/people/buchanan/</loc>
       <lastmod>2018-08-20T09:56:25-07:00</lastmod>
     </url>
     
@@ -84,7 +108,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/struck/</loc>
+      <loc>/people/struck/</loc>
       <lastmod>2018-08-20T09:34:46-07:00</lastmod>
     </url>
     
@@ -92,7 +116,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/grip/</loc>
+      <loc>/project/grip/</loc>
       <lastmod>2018-08-19T23:19:31-07:00</lastmod>
     </url>
     
@@ -100,7 +124,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/mc3/</loc>
+      <loc>/publication/mc3/</loc>
       <lastmod>2018-04-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -108,7 +132,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/28988802/</loc>
+      <loc>/publication/28988802/</loc>
       <lastmod>2017-11-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -116,7 +140,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/29092953/</loc>
+      <loc>/publication/29092953/</loc>
       <lastmod>2017-11-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -124,7 +148,15 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/academic/</loc>
+      <loc>/post/g2p-whitepaper/</loc>
+      <lastmod>2017-01-01T11:06:01-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -132,7 +164,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/talk/example-talk/</loc>
+      <loc>/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -140,7 +172,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/people/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -148,7 +180,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/post/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -156,7 +188,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -164,15 +196,15 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <loc>/post/reproducible-cloud/</loc>
+      <lastmod>2016-09-06T11:01:41-08:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>http://ellrottlab.org/project/bmeg/</loc>
+      <loc>/project/bmeg/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -180,7 +212,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/dream-smc/</loc>
+      <loc>/project/dream-smc/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -188,7 +220,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/dream-rna/</loc>
+      <loc>/project/dream-rna/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -196,7 +228,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/funnel/</loc>
+      <loc>/project/funnel/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -204,7 +236,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/mc3/</loc>
+      <loc>/project/mc3/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     </url>
     
@@ -212,15 +244,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/post/network-failures/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://ellrottlab.org/publication/25984700/</loc>
+      <loc>/publication/25984700/</loc>
       <lastmod>2015-07-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -228,7 +252,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/24675517/</loc>
+      <loc>/publication/24675517/</loc>
       <lastmod>2014-04-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -236,7 +260,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/24071850/</loc>
+      <loc>/publication/24071850/</loc>
       <lastmod>2013-10-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -244,7 +268,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/24071849/</loc>
+      <loc>/publication/24071849/</loc>
       <lastmod>2013-10-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -252,7 +276,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/23109555/</loc>
+      <loc>/publication/23109555/</loc>
       <lastmod>2013-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -260,7 +284,7 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication/20961957/</loc>
+      <loc>/publication/20961957/</loc>
       <lastmod>2011-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -268,7 +292,16 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/</loc>
+      <loc>/authors/</loc>
+      <lastmod>2019-01-25T16:44:24-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
     </url>
     
@@ -276,7 +309,21 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication_types/2/</loc>
+      <loc>/author/kellrott/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/author/walsh/</loc>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
       <lastmod>2018-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -285,7 +332,106 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/alumni/</loc>
+      <loc>/tags/api/</loc>
+      <lastmod>2018-08-22T09:02:16-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-a-margolin/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-d-ewing/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-godzik/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-m-novak/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adam-margolin/</loc>
+      <lastmod>2017-01-01T11:06:01-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/adrian-bivol/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alana-s-weinstein/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alden-deran/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alex-buchanan/</loc>
+      <lastmod>2018-08-25T11:09:22-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/alok-jaiswal/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/alumni/</loc>
       <lastmod>2018-08-22T08:43:02-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -294,8 +440,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/analysis/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/authors/antti-airola/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -303,7 +449,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/categories/</loc>
+      <loc>/authors/artem-sokolov/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -311,7 +458,257 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/challenge/</loc>
+      <loc>/author/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/</loc>
+      <lastmod>2019-01-25T16:44:24-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/aviad-tsherniak/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/barbara-a-weir/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/brad-a-ozenberger/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/brian-craft/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/broad-dream-community/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/bruce-hoff/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cancer-biology/</loc>
+      <lastmod>2019-01-27T10:34:25-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cancer-genome-atlas-research-network/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chris-sander/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chris-wilks/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/chris-wong/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/christian-m-zmasek/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/christine-png/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/christine-suver/</loc>
+      <lastmod>2014-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/constantina-bakolitsa/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cristian-caloian/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/cyriac-kandoth/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/dana-weekes/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/daniel-carlin/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/daniel-marbach/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/daryl-waggott/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/data-systems/</loc>
+      <lastmod>2019-01-27T10:27:20-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/david-e-root/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/david-haussler/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/development/</loc>
+      <lastmod>2018-08-25T11:09:22-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/dream-challenge/</loc>
       <lastmod>2018-08-22T08:37:15-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -320,8 +717,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/current/</loc>
-      <lastmod>2018-08-20T10:34:10-07:00</lastmod>
+      <loc>/authors/duncan-c-mccoll/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -329,8 +726,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/data-systems/</loc>
-      <lastmod>2018-08-22T09:06:36-07:00</lastmod>
+      <loc>/authors/eric-a-collisson/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -338,8 +735,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/data-systems/</loc>
-      <lastmod>2018-08-19T23:19:31-07:00</lastmod>
+      <loc>/authors/evan-paull/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -347,8 +744,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/authors/fan-zhu/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -356,8 +753,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/development/</loc>
-      <lastmod>2018-01-13T00:00:00-08:00</lastmod>
+      <loc>/authors/francisca-vazquez/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -365,8 +762,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/dream/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/tags/g2p/</loc>
+      <lastmod>2017-01-01T11:06:01-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -374,8 +771,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/project/</loc>
-      <lastmod>2018-08-22T09:06:36-07:00</lastmod>
+      <loc>/tags/ga4gh/</loc>
+      <lastmod>2017-01-01T11:06:01-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -383,7 +780,214 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/publication_types/</loc>
+      <loc>/authors/glenn-s-cowley/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gordon-b-mills/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/guanghua-xiao/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/gustavo-stolovitzky/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/han-liang/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hao-tang/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/hiroshi-mamitsuka/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/ilya-shmulevich/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/j-christopher-bare/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jesse-s-boehm/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jing-tang/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/jingchun-zhu/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/john-n-weinstein/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/john-wooley/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/josh-stuart/</loc>
+      <lastmod>2017-01-01T11:06:01-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/joshua-m-stuart/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kathleen-e-houlahan/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kenna-r-mills-shaw/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kerstin-bunte/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kiley-graim/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kristen-k-dang/</loc>
+      <lastmod>2014-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/krister-wennerberg/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/kyle-ellrott/</loc>
       <lastmod>2018-04-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -392,15 +996,8 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/about/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://ellrottlab.org/tags/rna/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <loc>/authors/larsson-omberg/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -408,8 +1005,386 @@
     
     <url>
     
-      <loc>http://ellrottlab.org/tags/</loc>
+      <loc>/authors/lincoln-d-stein/</loc>
+      <lastmod>2014-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/manu-chopra/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mark-diekhans/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mary-goldman/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/masayuki-karasuyama/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/mehmet-g%C3%B6nen/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/melissa-cline/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/michael-r-kellen/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/olena-morozova/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/paul-c-boutros/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/paul-t-spellman/</loc>
+      <lastmod>2014-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/peddinti-gopalacharyulu/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/people/</loc>
+      <lastmod>2019-01-25T16:44:24-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2019-01-27T10:34:25-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-04-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/robert-baertsch/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/s-sri-krishna/</loc>
+      <lastmod>2011-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sahil-chopra/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sam-ng/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/samuel-kaski/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sara-howell/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/singer-ma/</loc>
+      <lastmod>2013-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/sofie-r-salama/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/staff/</loc>
+      <lastmod>2019-01-25T16:44:24-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/stephen-h-friend/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/suleiman-a-khan/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/takafumi-n-yamaguchi/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tao-wang/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tapio-pahikkala/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/teresa-swatloski/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/tero-aittokallio/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/thea-c-norman/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/theodore-c-goldstein/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/veronica-y-sabelnykova/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/vladislav-uzunangelov/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/william-c-hahn/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/xiaowei-zhan/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yang-xie/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yin-hu/</loc>
+      <lastmod>2015-07-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yuan-yuan/</loc>
+      <lastmod>2013-10-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yuanfang-guan/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/yulia-newton/</loc>
+      <lastmod>2017-11-01T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     

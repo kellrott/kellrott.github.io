@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric A Collisson on The Data Science Garage</title>
+    <link>/authors/eric-a-collisson/</link>
+    <description>Recent content in Eric A Collisson on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2013 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/eric-a-collisson/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Cancer Genome Atlas Pan-Cancer analysis project.</title>
+      <link>/publication/24071849/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/24071849/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

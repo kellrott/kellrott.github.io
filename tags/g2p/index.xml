@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G2P on The Data Science Garage</title>
+    <link>/tags/g2p/</link>
+    <description>Recent content in G2P on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 11:06:01 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/g2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>G2P Whitepaper</title>
+      <link>/post/g2p-whitepaper/</link>
+      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
+      
+      <guid>/post/g2p-whitepaper/</guid>
+      <description>In 2014, Dr. Margolin, Dr. Stuart and Dr. Ellrott wrote a draft white paper outlining the need for a computational model to efficiently communicate known Genotype/Phenotype association. This working group would eventually evolve into Variant Interpretation for Cancer Consortium VICC.
+Many of the ideas and goals changed of the project changed over the years. Below is the original whitepaper draft, to show how much the project has evolved.
+GA4GH Genotypes to Phenotypes (G2P) Task Team Motivation One of the most important goals driving the collection of genome sequence information is to understand how particular variants lead to observable phenotypes and treatment options.</description>
+    </item>
+    
+  </channel>
+</rss>

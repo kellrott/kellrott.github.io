@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyriac Kandoth on The Data Science Garage</title>
+    <link>/authors/cyriac-kandoth/</link>
+    <description>Recent content in Cyriac Kandoth on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2013 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/cyriac-kandoth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
+      <link>/publication/24071850/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/24071850/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

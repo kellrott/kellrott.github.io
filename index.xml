@@ -1,84 +1,258 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ellrottlab.org</title>
-    <link>http://ellrottlab.org/</link>
-    <description>Recent content on ellrottlab.org</description>
+    <title>The Data Science Garage</title>
+    <link>/</link>
+    <description>Recent content on The Data Science Garage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>GA4GH Task Execution Schema</title>
-      <link>http://ellrottlab.org/project/tes/</link>
-      <pubDate>Wed, 22 Aug 2018 09:06:36 -0700</pubDate>
+      <title>GDAN</title>
+      <link>/project/gdan/</link>
+      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
       
-      <guid>http://ellrottlab.org/project/tes/</guid>
+      <guid>/project/gdan/</guid>
+      <description>&lt;p&gt;The NCI&amp;rsquo;s &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/blog/2016/new-genomic-data-analysis-network&#34; target=&#34;_blank&#34;&gt;Genomic Data Analysis Network (GDAN)&lt;/a&gt; was launched
+in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome.nih.gov/&#34; target=&#34;_blank&#34;&gt;TCGA&lt;/a&gt; in the analysis of large cancer cohorts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AnVIL</title>
+      <link>/project/anvil/</link>
+      <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
+      
+      <guid>/project/anvil/</guid>
+      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) is a
+project to build a data commons to allow researchers to efficiently analyze and visualize
+genomics data on the cloud.
+This project is a collaboration with Oregon Health and Science University, University of California Santa Cruz,
+University of Chicago, The Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University and Pennsylvania State University.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brian Walsh</title>
+      <link>/people/walsh/</link>
+      <pubDate>Fri, 25 Jan 2019 16:44:24 -0800</pubDate>
+      
+      <guid>/people/walsh/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Starting work on the AnVIL</title>
+      <link>/post/anvil/</link>
+      <pubDate>Sun, 25 Nov 2018 15:12:50 -0800</pubDate>
+      
+      <guid>/post/anvil/</guid>
+      <description>&lt;p&gt;The NHGRI Genomic Data Science &lt;a href=&#34;https://www.genome.gov/27569268/genomic-analysis-visualization-and-informatics-labspace-anvil/&#34; target=&#34;_blank&#34;&gt;Analysis, Visualization, and Informatics Lab-space (AnVIL)&lt;/a&gt; project
+will provide a platform for researchers to study Genomic data in the cloud. As part of this project, we will
+be providing methods to enable analysis APIs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Debugging Network Failures</title>
+      <link>/post/network-failures/</link>
+      <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
+      
+      <guid>/post/network-failures/</guid>
+      <description>
+
+&lt;h1 id=&#34;handling-failures-from-openstack-swift-in-funnel&#34;&gt;Handling Failures from OpenStack Swift in Funnel&lt;/h1&gt;
+
+&lt;p&gt;When building distributed services, handling failures from other services is a fact of life.&lt;/p&gt;
+
+&lt;p&gt;We use OpenStack Swift as our object storage service, and we use Funnel to transfer thousands of objects to and from Swift. Failed transfers have been common; the Swift server ca be unavailable, overloaded, and even lose chunks of data during upload.&lt;/p&gt;
+
+&lt;p&gt;It’s been challenging to make Funnel tolerant to all these failures, improved our logs and tools available for debugging, improved our code, and we’ve learned a lot along the way.&lt;/p&gt;
+
+&lt;p&gt;Retries
+At the core of handling failures is being able to retry failed requests.&lt;/p&gt;
+
+&lt;p&gt;In Funnel, we retry most failed requests to external services. We do this by wrapping our APIs in a generic utility which can replay the same request until it succeeds. For example,&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;// Storage is the interface we want to wrap.
+type Storage interface {
+  Put(sourcePath, destURL string) error
+}
+
+// NewStorageRetrier creates a wrapper around Storage which includes retry logic.
+func NewStorageRetrier(backend Storage) *StorageRetrier {
+  return StorageRetrier{
+    Backend: backend,
+    Retrier: util.Retrier{
+
+      // At first, retry after one second.
+      InitialInterval:     time.Second,
+
+      // Each successive retry will wait twice as long before retrying.
+      Multiplier:          2.0,
+
+      // Retry for up to an hour.
+      MaxElapsedTime:      60*time.Minute,
+
+      // ShouldRetry decides whether the error can be retried.
+      ShouldRetry: func(err error) bool {
+        switch err {
+        // Retry if the uploaded object isn&#39;t the same,
+        // the service is unavailable, etc.
+        case swift.ObjectCorrupted, swift.TimeoutError, swift.UnavailableError:
+          return true
+        default:
+          return false
+        }
+      },
+    },
+  }
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The code here is simplified for this post, the real code is here.&lt;/p&gt;
+
+&lt;p&gt;Our storage code will now attempt to upload the file multiple times until it succeeds. Funnel will try hard to upload, retrying for up to an hour.&lt;/p&gt;
+
+&lt;h2 id=&#34;testing&#34;&gt;Testing&lt;/h2&gt;
+
+&lt;p&gt;The hard part about debugging failures is that they are often intermittent and difficult to reproduce.&lt;/p&gt;
+
+&lt;p&gt;Setting up a system which can deterministically reproduce specific types of failures takes some work, but it can be very useful and may be worth the price of admission.&lt;/p&gt;
+
+&lt;p&gt;Luckily, there are tools out there to help.&lt;/p&gt;
+
+&lt;h3 id=&#34;toxy&#34;&gt;toxy&lt;/h3&gt;
+
+&lt;p&gt;toxy is a proxy server which can be configured to inject errors into network traffic.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;var toxy = require(&#39;toxy&#39;)
+var poisons = toxy.poisons
+var rules = toxy.rules
+var proxy = toxy()
+
+// Forward traffic to the actual Swift server
+proxy.forward(&#39;http://swift.actual:8080&#39;)
+
+// Inject &amp;quot;Object corrupted&amp;quot; errors into uploads,
+// which happens when the uploaded object doesn&#39;t match
+// the file being uploaded (meaning something got lost).
+proxy
+  .put(&#39;/*/buchanan/funnel-test/object-corrupted&#39;)
+  .poison(poisons.inject({
+    code: 200,
+    // Change the object&#39;s etag (checksum) in the response to the PUT.
+    //
+    // This is how swift communicates to the client the checksum of the
+    // object that was uploaded, so we force it to be corrupt here.
+    headers: {&#39;ETag&#39;: &#39;zzzzzzzzzf1a4e663f02245d42832766&#39;}
+  }))
+  // Only corrupt the object 60% of the time.
+  .withRule(rules.probability(60))
+
+// Simulate the service being unavailable.
+proxy
+  .all(&#39;/*/buchanan/funnel-test/service-unavailable&#39;)
+  .poison(poisons.inject({
+    code: 503,
+    body: &#39;{&amp;quot;error&amp;quot;: &amp;quot;toxy injected error&amp;quot;}&#39;,
+    headers: {&#39;Content-Type&#39;: &#39;application/json&#39;}
+  }))
+  .withRule(rules.probability(60))
+
+proxy.all(&amp;quot;/*&amp;quot;)
+proxy.listen(8000)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The code above will proxy Swift traffic, injecting errors into traffic 60% of the time.&lt;/p&gt;
+
+&lt;p&gt;The failures can be accessed by pointing Funnel’s Swift client to this proxy, and uploading to a specific object URL:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;export FUNNEL_SWIFT_STORAGE_URL=http://fake.swift:8000/v1/AUTH_abcedfg
+funnel storage put swift://buchanan/funnel-test/service-unavailable
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Now we can tweak the proxy errors and fix Funnel code at the same time, easily working out the kinks in error handling, and having confidence that Funnel is retrying requests correctly.&lt;/p&gt;
+
+&lt;p&gt;Retry screenshot&lt;/p&gt;
+
+&lt;h3 id=&#34;tcpdump&#34;&gt;tcpdump&lt;/h3&gt;
+
+&lt;p&gt;tcpdump allows you to monitor network traffic and inspect low-level packets. Incredibly useful for figuring out what’s going on with Swift and getting the proxy set up.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo tcpdump -n not port 22 and not icmp and not arp
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This article does a great job at explaining the power of tcpdump.&lt;/p&gt;
+
+&lt;h3 id=&#34;iptables&#34;&gt;iptables&lt;/h3&gt;
+
+&lt;p&gt;At first, I wasn’t easily able to forward Funnel’s traffic to the Swift proxy via configuration alone, so I dug into Linux’s network layer using iptables to forward traffic to the proxy server.&lt;/p&gt;
+
+&lt;p&gt;iptables is an intimdating and complex tool, but also extremely powerful and capable of routing traffic almost anyway you can imagine.&lt;/p&gt;
+
+&lt;p&gt;The rule below watch for traffic going out to the actual Swift server (at 1.2.3.4:8080) and rewrites the IP address to point to the proxy instead (at 9.8.7.6:8080).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo iptables -t nat -A OUTPUT -p tcp -d 1.2.3.4 --dport 8080 -j DNAT --to-destination 9.8.7.6
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;This article does a decent job of introducing iptables.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GA4GH G2P</title>
-      <link>http://ellrottlab.org/project/g2p/</link>
+      <link>/project/g2p/</link>
       <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/project/g2p/</guid>
+      <guid>/project/g2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Malisa Smith</title>
-      <link>http://ellrottlab.org/people/smith/</link>
+      <link>/people/smith/</link>
       <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/smith/</guid>
+      <guid>/people/smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jeena Lee</title>
-      <link>http://ellrottlab.org/people/lee/</link>
+      <link>/people/lee/</link>
       <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/lee/</guid>
+      <guid>/people/lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMC  Het</title>
-      <link>http://ellrottlab.org/project/smc-het/</link>
+      <link>/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/project/smc-het/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Walsh</title>
-      <link>http://ellrottlab.org/people/walsh/</link>
-      <pubDate>Mon, 20 Aug 2018 10:34:10 -0700</pubDate>
-      
-      <guid>http://ellrottlab.org/people/walsh/</guid>
+      <guid>/project/smc-het/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ryan Spangler</title>
-      <link>http://ellrottlab.org/people/spangler/</link>
+      <link>/people/spangler/</link>
       <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/spangler/</guid>
+      <guid>/people/spangler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Ellrott</title>
-      <link>http://ellrottlab.org/people/ellrott/</link>
+      <link>/people/ellrott/</link>
       <pubDate>Mon, 20 Aug 2018 10:03:18 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/ellrott/</guid>
+      <guid>/people/ellrott/</guid>
       <description>&lt;p&gt;My primary research goal is the application of large scale computing techniques and data integration for the analysis of genomics and systems biology. My current focus has been on biological systems analysis of cancer biology where I specialize in large scale computing problems that require heterogeneous analysis and data. For the past several years I have been extensively involved in the TCGA project, coordinating large scale variant calling efforts and enabling integrative analysis. I worked as the data coordinator for the TCGA PanCancer project, which was the joint effort of more than 100 scientists and my critical role allowed the publication of seventeen manuscripts.I have worked on several large compute platform projects, including working as the OHSU technical lead on the OHSU/Intel Collaborative Cancer Cloud and for the BioMedical Evidence Graph(BMEG). These projects have sought to enable researchers to utilize powerful computational systems to do large scale integrative analysis. I plan to use this experience to enable the next generation of integrative analysis. Despite an extensive history in computer engineering and the technological development of platforms for analysis, my work is guided by enabling actual analytical problems, with a principle goal of working with biological collaborators with to drive relevant research.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -95,65 +269,38 @@
     
     <item>
       <title>Allison Creason</title>
-      <link>http://ellrottlab.org/people/creason/</link>
+      <link>/people/creason/</link>
       <pubDate>Mon, 20 Aug 2018 09:57:24 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/creason/</guid>
+      <guid>/people/creason/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alex Buchanan</title>
-      <link>http://ellrottlab.org/people/buchanan/</link>
+      <link>/people/buchanan/</link>
       <pubDate>Mon, 20 Aug 2018 09:56:25 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/buchanan/</guid>
+      <guid>/people/buchanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Struck</title>
-      <link>http://ellrottlab.org/people/struck/</link>
+      <link>/people/struck/</link>
       <pubDate>Mon, 20 Aug 2018 09:34:46 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/people/struck/</guid>
+      <guid>/people/struck/</guid>
       <description>&lt;p&gt;Adam Struck&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Grip</title>
-      <link>http://ellrottlab.org/project/grip/</link>
+      <link>/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       
-      <guid>http://ellrottlab.org/project/grip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
-      <link>http://ellrottlab.org/publication/mc3/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      
-      <guid>http://ellrottlab.org/publication/mc3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
-      <link>http://ellrottlab.org/publication/28988802/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>http://ellrottlab.org/publication/28988802/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>http://ellrottlab.org/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>http://ellrottlab.org/publication/29092953/</guid>
+      <guid>/project/grip/</guid>
       <description></description>
     </item>
     
