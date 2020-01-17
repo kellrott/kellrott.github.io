@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Data Science Garage</title>
-    <link>http://127.0.0.1/project/</link>
-      <atom:link href="http://127.0.0.1/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/project/</link>
+      <atom:link href="https://ellrottlab.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>http://127.0.0.1/project/</link>
+      <link>https://ellrottlab.org/project/</link>
     </image>
     
     <item>
       <title>GDAN</title>
-      <link>http://127.0.0.1/project/gdan/</link>
+      <link>https://ellrottlab.org/project/gdan/</link>
       <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
-      <guid>http://127.0.0.1/project/gdan/</guid>
+      <guid>https://ellrottlab.org/project/gdan/</guid>
       <description>&lt;p&gt;The NCI&#39;s &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/blog/2016/new-genomic-data-analysis-network&#34;&gt;Genomic Data Analysis Network (GDAN)&lt;/a&gt; was launched
 in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome.nih.gov/&#34;&gt;TCGA&lt;/a&gt; in the analysis of large cancer cohorts.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@ in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome
     
     <item>
       <title>AnVIL</title>
-      <link>http://127.0.0.1/project/anvil/</link>
+      <link>https://ellrottlab.org/project/anvil/</link>
       <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
-      <guid>http://127.0.0.1/project/anvil/</guid>
+      <guid>https://ellrottlab.org/project/anvil/</guid>
       <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) is a
 project to build a data commons to allow researchers to efficiently analyze and visualize
 genomics data on the cloud.
@@ -37,33 +37,33 @@ University of Chicago, The Broad Institute, Washington University in St. Louis, 
     
     <item>
       <title>GA4GH G2P</title>
-      <link>http://127.0.0.1/project/g2p/</link>
+      <link>https://ellrottlab.org/project/g2p/</link>
       <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
-      <guid>http://127.0.0.1/project/g2p/</guid>
+      <guid>https://ellrottlab.org/project/g2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMC  Het</title>
-      <link>http://127.0.0.1/project/smc-het/</link>
+      <link>https://ellrottlab.org/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
-      <guid>http://127.0.0.1/project/smc-het/</guid>
+      <guid>https://ellrottlab.org/project/smc-het/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grip</title>
-      <link>http://127.0.0.1/project/grip/</link>
+      <link>https://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
-      <guid>http://127.0.0.1/project/grip/</guid>
+      <guid>https://ellrottlab.org/project/grip/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BMEG</title>
-      <link>http://127.0.0.1/project/bmeg/</link>
+      <link>https://ellrottlab.org/project/bmeg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/project/bmeg/</guid>
+      <guid>https://ellrottlab.org/project/bmeg/</guid>
       <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) integrates different types of biomedical data into a unified graph for efficient application of machine learning and discovery algorithms across heterogeneous data types. BMEG will leverage the petabytes of genomics data available for tumor samples from repositories like the &lt;a href=&#34;https://www.cancer.gov/&#34;&gt;National Cancer Institute&lt;/a&gt;’s &lt;a href=&#34;https://gdc.cancer.gov/&#34;&gt;Genomic Data Commons&lt;/a&gt; to predict drug sensitivity, patient outcomes, and other clinically relevant phenotypes.
 The BMEG data model is instantiated in a scalable graph database optimized for storing and querying graphs containing terabytes of vertices and edges distributed across a multi-machine cluster.   This graph is the store of record for the BMEG. It maintains the connections between projects, donors, samples, molecular data and treatment evidence and assures that these entities are associated correctly.&lt;/p&gt;
 </description>
@@ -71,9 +71,9 @@ The BMEG data model is instantiated in a scalable graph database optimized for s
     
     <item>
       <title>DREAM-SMC</title>
-      <link>http://127.0.0.1/project/dream-smc/</link>
+      <link>https://ellrottlab.org/project/dream-smc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/project/dream-smc/</guid>
+      <guid>https://ellrottlab.org/project/dream-smc/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/DREAM_SMC&#34;&gt;https://www.synapse.org/DREAM_SMC&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
 is an international effort to improve standard methods for identifying
@@ -86,9 +86,9 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     
     <item>
       <title>DREAM-SMC-RNA</title>
-      <link>http://127.0.0.1/project/dream-rna/</link>
+      <link>https://ellrottlab.org/project/dream-rna/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/project/dream-rna/</guid>
+      <guid>https://ellrottlab.org/project/dream-rna/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/SMC_RNA&#34;&gt;https://www.synapse.org/SMC_RNA&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
 is an international effort to improve standard methods for identifying
@@ -101,9 +101,9 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     
     <item>
       <title>Funnel</title>
-      <link>http://127.0.0.1/project/funnel/</link>
+      <link>https://ellrottlab.org/project/funnel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/project/funnel/</guid>
+      <guid>https://ellrottlab.org/project/funnel/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34;&gt;https://ohsu-comp-bio.github.io/funnel/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API.&lt;/p&gt;
 &lt;p&gt;A task describes metadata, state, input/output files, resource requests, commands, and logs. The task API has four actions: create, get, list, and cancel. Given a task, Funnel will queue it, schedule it to a worker, and track its state and logs. A worker will download input files, run a sequence of Docker containers, upload output files, and emits events and logs along the way.&lt;/p&gt;
@@ -124,9 +124,9 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     
     <item>
       <title>MC3</title>
-      <link>http://127.0.0.1/project/mc3/</link>
+      <link>https://ellrottlab.org/project/mc3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/project/mc3/</guid>
+      <guid>https://ellrottlab.org/project/mc3/</guid>
       <description>&lt;p&gt;The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis. We recognize the advantage to doing a uniform analysis where all the TCGA exome data was called on a standardized set of mutation callers. Further, we recognize the value of “containerizing” the procedures used, so that the methods are transparent and reproducible and sharable with the community. As detailed on this wikipage, the TCGA MC3dataset represents a uniform set of mutation calls. The BAM files used underwent a standardized local re-alignment to hg19 (Genome Reference Consortium GRCh37), six calling algorithms were applied, and a number of automated filters were applied. We strongly recommend that users review the information provided on caveats, data processing, filters, best practices, and acknowledgements before using this file.&lt;/p&gt;
 </description>
     </item>

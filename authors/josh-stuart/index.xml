@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josh Stuart | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/josh-stuart/</link>
-      <atom:link href="http://127.0.0.1/authors/josh-stuart/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/josh-stuart/</link>
+      <atom:link href="https://ellrottlab.org/authors/josh-stuart/index.xml" rel="self" type="application/rss+xml" />
     <description>Josh Stuart</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 11:06:01 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Josh Stuart</title>
-      <link>http://127.0.0.1/authors/josh-stuart/</link>
+      <link>https://ellrottlab.org/authors/josh-stuart/</link>
     </image>
     
     <item>
       <title>G2P Whitepaper</title>
-      <link>http://127.0.0.1/post/g2p-whitepaper/</link>
+      <link>https://ellrottlab.org/post/g2p-whitepaper/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/post/g2p-whitepaper/</guid>
+      <guid>https://ellrottlab.org/post/g2p-whitepaper/</guid>
       <description>&lt;p&gt;In 2014, Dr. Margolin, Dr. Stuart and Dr. Ellrott wrote a draft white paper outlining the need for a computational model to efficiently communicate known Genotype/Phenotype association. This working group would eventually evolve into Variant Interpretation for Cancer Consortium &lt;a href=&#34;http://cancervariants.org&#34;&gt;VICC&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Many of the ideas and goals changed of the project changed over the years. Below is the original whitepaper draft, to show how much the project has evolved.&lt;/p&gt;
 &lt;h2 id=&#34;ga4gh-genotypes-to-phenotypes-g2p-task-team&#34;&gt;GA4GH Genotypes to Phenotypes (G2P) Task Team&lt;/h2&gt;
@@ -79,17 +79,17 @@ We also believe that it is important to not only define the data transfer standa
     
     <item>
       <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>http://127.0.0.1/publication/24071850/</link>
+      <link>https://ellrottlab.org/publication/24071850/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/24071850/</guid>
+      <guid>https://ellrottlab.org/publication/24071850/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>http://127.0.0.1/publication/23109555/</link>
+      <link>https://ellrottlab.org/publication/23109555/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/23109555/</guid>
       <description></description>
     </item>
     

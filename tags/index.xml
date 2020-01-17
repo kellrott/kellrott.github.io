@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Data Science Garage</title>
-    <link>http://127.0.0.1/tags/</link>
-      <atom:link href="http://127.0.0.1/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/tags/</link>
+      <atom:link href="https://ellrottlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>http://127.0.0.1/tags/</link>
+      <link>https://ellrottlab.org/tags/</link>
     </image>
     
     <item>
       <title>Cancer Biology</title>
-      <link>http://127.0.0.1/tags/cancer-biology/</link>
+      <link>https://ellrottlab.org/tags/cancer-biology/</link>
       <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/cancer-biology/</guid>
+      <guid>https://ellrottlab.org/tags/cancer-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Systems</title>
-      <link>http://127.0.0.1/tags/data-systems/</link>
+      <link>https://ellrottlab.org/tags/data-systems/</link>
       <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/data-systems/</guid>
+      <guid>https://ellrottlab.org/tags/data-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://127.0.0.1/tags/development/</link>
+      <link>https://ellrottlab.org/tags/development/</link>
       <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/development/</guid>
+      <guid>https://ellrottlab.org/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>API</title>
-      <link>http://127.0.0.1/tags/api/</link>
+      <link>https://ellrottlab.org/tags/api/</link>
       <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
-      <guid>http://127.0.0.1/tags/api/</guid>
+      <guid>https://ellrottlab.org/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dream Challenge</title>
-      <link>http://127.0.0.1/tags/dream-challenge/</link>
+      <link>https://ellrottlab.org/tags/dream-challenge/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
-      <guid>http://127.0.0.1/tags/dream-challenge/</guid>
+      <guid>https://ellrottlab.org/tags/dream-challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G2P</title>
-      <link>http://127.0.0.1/tags/g2p/</link>
+      <link>https://ellrottlab.org/tags/g2p/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/g2p/</guid>
+      <guid>https://ellrottlab.org/tags/g2p/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GA4GH</title>
-      <link>http://127.0.0.1/tags/ga4gh/</link>
+      <link>https://ellrottlab.org/tags/ga4gh/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/ga4gh/</guid>
+      <guid>https://ellrottlab.org/tags/ga4gh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>http://127.0.0.1/tags/academic/</link>
+      <link>https://ellrottlab.org/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/tags/academic/</guid>
+      <guid>https://ellrottlab.org/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>

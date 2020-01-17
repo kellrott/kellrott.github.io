@@ -2,1293 +2,1293 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/</link>
-      <atom:link href="http://127.0.0.1/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/</link>
+      <atom:link href="https://ellrottlab.org/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>http://127.0.0.1/authors/</link>
+      <link>https://ellrottlab.org/authors/</link>
     </image>
     
     <item>
       <title>Boutros PC</title>
-      <link>http://127.0.0.1/authors/boutros-pc/</link>
+      <link>https://ellrottlab.org/authors/boutros-pc/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/boutros-pc/</guid>
+      <guid>https://ellrottlab.org/authors/boutros-pc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Buchanan A</title>
-      <link>http://127.0.0.1/authors/buchanan-a/</link>
+      <link>https://ellrottlab.org/authors/buchanan-a/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/buchanan-a/</guid>
+      <guid>https://ellrottlab.org/authors/buchanan-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chilton JM</title>
-      <link>http://127.0.0.1/authors/chilton-jm/</link>
+      <link>https://ellrottlab.org/authors/chilton-jm/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/chilton-jm/</guid>
+      <guid>https://ellrottlab.org/authors/chilton-jm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creason A</title>
-      <link>http://127.0.0.1/authors/creason-a/</link>
+      <link>https://ellrottlab.org/authors/creason-a/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/creason-a/</guid>
+      <guid>https://ellrottlab.org/authors/creason-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eddy J</title>
-      <link>http://127.0.0.1/authors/eddy-j/</link>
+      <link>https://ellrottlab.org/authors/eddy-j/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/eddy-j/</guid>
+      <guid>https://ellrottlab.org/authors/eddy-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ellrott K</title>
-      <link>http://127.0.0.1/authors/ellrott-k/</link>
+      <link>https://ellrottlab.org/authors/ellrott-k/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/ellrott-k/</guid>
+      <guid>https://ellrottlab.org/authors/ellrott-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guinney J</title>
-      <link>http://127.0.0.1/authors/guinney-j/</link>
+      <link>https://ellrottlab.org/authors/guinney-j/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/guinney-j/</guid>
+      <guid>https://ellrottlab.org/authors/guinney-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hoff B</title>
-      <link>http://127.0.0.1/authors/hoff-b/</link>
+      <link>https://ellrottlab.org/authors/hoff-b/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/hoff-b/</guid>
+      <guid>https://ellrottlab.org/authors/hoff-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mason M</title>
-      <link>http://127.0.0.1/authors/mason-m/</link>
+      <link>https://ellrottlab.org/authors/mason-m/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/mason-m/</guid>
+      <guid>https://ellrottlab.org/authors/mason-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saez-Rodriguez J</title>
-      <link>http://127.0.0.1/authors/saez-rodriguez-j/</link>
+      <link>https://ellrottlab.org/authors/saez-rodriguez-j/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/saez-rodriguez-j/</guid>
+      <guid>https://ellrottlab.org/authors/saez-rodriguez-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Schaffter T</title>
-      <link>http://127.0.0.1/authors/schaffter-t/</link>
+      <link>https://ellrottlab.org/authors/schaffter-t/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/schaffter-t/</guid>
+      <guid>https://ellrottlab.org/authors/schaffter-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stolovitzky G</title>
-      <link>http://127.0.0.1/authors/stolovitzky-g/</link>
+      <link>https://ellrottlab.org/authors/stolovitzky-g/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/stolovitzky-g/</guid>
+      <guid>https://ellrottlab.org/authors/stolovitzky-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stuart JM</title>
-      <link>http://127.0.0.1/authors/stuart-jm/</link>
+      <link>https://ellrottlab.org/authors/stuart-jm/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/stuart-jm/</guid>
+      <guid>https://ellrottlab.org/authors/stuart-jm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu T</title>
-      <link>http://127.0.0.1/authors/yu-t/</link>
+      <link>https://ellrottlab.org/authors/yu-t/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yu-t/</guid>
+      <guid>https://ellrottlab.org/authors/yu-t/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/struck-a/</link>
+      <link>https://ellrottlab.org/authors/struck-a/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/struck-a/</guid>
+      <guid>https://ellrottlab.org/authors/struck-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nellore A</title>
-      <link>http://127.0.0.1/authors/nellore-a/</link>
+      <link>https://ellrottlab.org/authors/nellore-a/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/nellore-a/</guid>
+      <guid>https://ellrottlab.org/authors/nellore-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nguyen A</title>
-      <link>http://127.0.0.1/authors/nguyen-a/</link>
+      <link>https://ellrottlab.org/authors/nguyen-a/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/nguyen-a/</guid>
+      <guid>https://ellrottlab.org/authors/nguyen-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thompson RF</title>
-      <link>http://127.0.0.1/authors/thompson-rf/</link>
+      <link>https://ellrottlab.org/authors/thompson-rf/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/thompson-rf/</guid>
+      <guid>https://ellrottlab.org/authors/thompson-rf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wood MA</title>
-      <link>http://127.0.0.1/authors/wood-ma/</link>
+      <link>https://ellrottlab.org/authors/wood-ma/</link>
       <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/wood-ma/</guid>
+      <guid>https://ellrottlab.org/authors/wood-ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/walsh/</link>
+      <link>https://ellrottlab.org/authors/walsh/</link>
       <pubDate>Fri, 25 Jan 2019 16:44:24 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/walsh/</guid>
+      <guid>https://ellrottlab.org/authors/walsh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bare JC</title>
-      <link>http://127.0.0.1/authors/bare-jc/</link>
+      <link>https://ellrottlab.org/authors/bare-jc/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/bare-jc/</guid>
+      <guid>https://ellrottlab.org/authors/bare-jc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caloian C</title>
-      <link>http://127.0.0.1/authors/caloian-c/</link>
+      <link>https://ellrottlab.org/authors/caloian-c/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/caloian-c/</guid>
+      <guid>https://ellrottlab.org/authors/caloian-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chen K</title>
-      <link>http://127.0.0.1/authors/chen-k/</link>
+      <link>https://ellrottlab.org/authors/chen-k/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/chen-k/</guid>
+      <guid>https://ellrottlab.org/authors/chen-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chong Z</title>
-      <link>http://127.0.0.1/authors/chong-z/</link>
+      <link>https://ellrottlab.org/authors/chong-z/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/chong-z/</guid>
+      <guid>https://ellrottlab.org/authors/chong-z/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dang K</title>
-      <link>http://127.0.0.1/authors/dang-k/</link>
+      <link>https://ellrottlab.org/authors/dang-k/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/dang-k/</guid>
+      <guid>https://ellrottlab.org/authors/dang-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Espiritu SMG</title>
-      <link>http://127.0.0.1/authors/espiritu-smg/</link>
+      <link>https://ellrottlab.org/authors/espiritu-smg/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/espiritu-smg/</guid>
+      <guid>https://ellrottlab.org/authors/espiritu-smg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ewing AD</title>
-      <link>http://127.0.0.1/authors/ewing-ad/</link>
+      <link>https://ellrottlab.org/authors/ewing-ad/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/ewing-ad/</guid>
+      <guid>https://ellrottlab.org/authors/ewing-ad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Friend SH</title>
-      <link>http://127.0.0.1/authors/friend-sh/</link>
+      <link>https://ellrottlab.org/authors/friend-sh/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/friend-sh/</guid>
+      <guid>https://ellrottlab.org/authors/friend-sh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Haussler D</title>
-      <link>http://127.0.0.1/authors/haussler-d/</link>
+      <link>https://ellrottlab.org/authors/haussler-d/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/haussler-d/</guid>
+      <guid>https://ellrottlab.org/authors/haussler-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Houlahan KE</title>
-      <link>http://127.0.0.1/authors/houlahan-ke/</link>
+      <link>https://ellrottlab.org/authors/houlahan-ke/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/houlahan-ke/</guid>
+      <guid>https://ellrottlab.org/authors/houlahan-ke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hu Y</title>
-      <link>http://127.0.0.1/authors/hu-y/</link>
+      <link>https://ellrottlab.org/authors/hu-y/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/hu-y/</guid>
+      <guid>https://ellrottlab.org/authors/hu-y/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Huang V</title>
-      <link>http://127.0.0.1/authors/huang-v/</link>
+      <link>https://ellrottlab.org/authors/huang-v/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/huang-v/</guid>
+      <guid>https://ellrottlab.org/authors/huang-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants</title>
-      <link>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+      <link>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</guid>
+      <guid>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kellen MR</title>
-      <link>http://127.0.0.1/authors/kellen-mr/</link>
+      <link>https://ellrottlab.org/authors/kellen-mr/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/kellen-mr/</guid>
+      <guid>https://ellrottlab.org/authors/kellen-mr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lee AY</title>
-      <link>http://127.0.0.1/authors/lee-ay/</link>
+      <link>https://ellrottlab.org/authors/lee-ay/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/lee-ay/</guid>
+      <guid>https://ellrottlab.org/authors/lee-ay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Margolin AA</title>
-      <link>http://127.0.0.1/authors/margolin-aa/</link>
+      <link>https://ellrottlab.org/authors/margolin-aa/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/margolin-aa/</guid>
+      <guid>https://ellrottlab.org/authors/margolin-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Norman TC</title>
-      <link>http://127.0.0.1/authors/norman-tc/</link>
+      <link>https://ellrottlab.org/authors/norman-tc/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/norman-tc/</guid>
+      <guid>https://ellrottlab.org/authors/norman-tc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yamaguchi TN</title>
-      <link>http://127.0.0.1/authors/yamaguchi-tn/</link>
+      <link>https://ellrottlab.org/authors/yamaguchi-tn/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/yamaguchi-tn/</guid>
+      <guid>https://ellrottlab.org/authors/yamaguchi-tn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alex Buchanan</title>
-      <link>http://127.0.0.1/authors/alex-buchanan/</link>
+      <link>https://ellrottlab.org/authors/alex-buchanan/</link>
       <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/alex-buchanan/</guid>
+      <guid>https://ellrottlab.org/authors/alex-buchanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/smith/</link>
+      <link>https://ellrottlab.org/authors/smith/</link>
       <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/smith/</guid>
+      <guid>https://ellrottlab.org/authors/smith/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/jeena-lee/</link>
+      <link>https://ellrottlab.org/authors/jeena-lee/</link>
       <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/jeena-lee/</guid>
+      <guid>https://ellrottlab.org/authors/jeena-lee/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/spangler/</link>
+      <link>https://ellrottlab.org/authors/spangler/</link>
       <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/spangler/</guid>
+      <guid>https://ellrottlab.org/authors/spangler/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/creason/</link>
+      <link>https://ellrottlab.org/authors/creason/</link>
       <pubDate>Mon, 20 Aug 2018 09:57:24 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/creason/</guid>
+      <guid>https://ellrottlab.org/authors/creason/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/buchanan/</link>
+      <link>https://ellrottlab.org/authors/buchanan/</link>
       <pubDate>Mon, 20 Aug 2018 09:56:25 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/buchanan/</guid>
+      <guid>https://ellrottlab.org/authors/buchanan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bailey MH</title>
-      <link>http://127.0.0.1/authors/bailey-mh/</link>
+      <link>https://ellrottlab.org/authors/bailey-mh/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/bailey-mh/</guid>
+      <guid>https://ellrottlab.org/authors/bailey-mh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chiotti KE</title>
-      <link>http://127.0.0.1/authors/chiotti-ke/</link>
+      <link>https://ellrottlab.org/authors/chiotti-ke/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/chiotti-ke/</guid>
+      <guid>https://ellrottlab.org/authors/chiotti-ke/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Covington KR</title>
-      <link>http://127.0.0.1/authors/covington-kr/</link>
+      <link>https://ellrottlab.org/authors/covington-kr/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/covington-kr/</guid>
+      <guid>https://ellrottlab.org/authors/covington-kr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ding L</title>
-      <link>http://127.0.0.1/authors/ding-l/</link>
+      <link>https://ellrottlab.org/authors/ding-l/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/ding-l/</guid>
+      <guid>https://ellrottlab.org/authors/ding-l/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getz G</title>
-      <link>http://127.0.0.1/authors/getz-g/</link>
+      <link>https://ellrottlab.org/authors/getz-g/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/getz-g/</guid>
+      <guid>https://ellrottlab.org/authors/getz-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hess J</title>
-      <link>http://127.0.0.1/authors/hess-j/</link>
+      <link>https://ellrottlab.org/authors/hess-j/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/hess-j/</guid>
+      <guid>https://ellrottlab.org/authors/hess-j/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hutter C</title>
-      <link>http://127.0.0.1/authors/hutter-c/</link>
+      <link>https://ellrottlab.org/authors/hutter-c/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/hutter-c/</guid>
+      <guid>https://ellrottlab.org/authors/hutter-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kandoth C</title>
-      <link>http://127.0.0.1/authors/kandoth-c/</link>
+      <link>https://ellrottlab.org/authors/kandoth-c/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kandoth-c/</guid>
+      <guid>https://ellrottlab.org/authors/kandoth-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ma S</title>
-      <link>http://127.0.0.1/authors/ma-s/</link>
+      <link>https://ellrottlab.org/authors/ma-s/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/ma-s/</guid>
+      <guid>https://ellrottlab.org/authors/ma-s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MC3 Working Group; Cancer Genome Atlas Research Network.</title>
-      <link>http://127.0.0.1/authors/mc3-working-group-cancer-genome-atlas-research-network./</link>
+      <link>https://ellrottlab.org/authors/mc3-working-group-cancer-genome-atlas-research-network./</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/mc3-working-group-cancer-genome-atlas-research-network./</guid>
+      <guid>https://ellrottlab.org/authors/mc3-working-group-cancer-genome-atlas-research-network./</guid>
       <description></description>
     </item>
     
     <item>
       <title>McLellan M</title>
-      <link>http://127.0.0.1/authors/mclellan-m/</link>
+      <link>https://ellrottlab.org/authors/mclellan-m/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/mclellan-m/</guid>
+      <guid>https://ellrottlab.org/authors/mclellan-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saksena G</title>
-      <link>http://127.0.0.1/authors/saksena-g/</link>
+      <link>https://ellrottlab.org/authors/saksena-g/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/saksena-g/</guid>
+      <guid>https://ellrottlab.org/authors/saksena-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sofia HJ</title>
-      <link>http://127.0.0.1/authors/sofia-hj/</link>
+      <link>https://ellrottlab.org/authors/sofia-hj/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/sofia-hj/</guid>
+      <guid>https://ellrottlab.org/authors/sofia-hj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stewart C</title>
-      <link>http://127.0.0.1/authors/stewart-c/</link>
+      <link>https://ellrottlab.org/authors/stewart-c/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/stewart-c/</guid>
+      <guid>https://ellrottlab.org/authors/stewart-c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wheeler D</title>
-      <link>http://127.0.0.1/authors/wheeler-d/</link>
+      <link>https://ellrottlab.org/authors/wheeler-d/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/wheeler-d/</guid>
+      <guid>https://ellrottlab.org/authors/wheeler-d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam A Margolin</title>
-      <link>http://127.0.0.1/authors/adam-a-margolin/</link>
+      <link>https://ellrottlab.org/authors/adam-a-margolin/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/adam-a-margolin/</guid>
+      <guid>https://ellrottlab.org/authors/adam-a-margolin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam M Novak</title>
-      <link>http://127.0.0.1/authors/adam-m-novak/</link>
+      <link>https://ellrottlab.org/authors/adam-m-novak/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/adam-m-novak/</guid>
+      <guid>https://ellrottlab.org/authors/adam-m-novak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adrian Bivol</title>
-      <link>http://127.0.0.1/authors/adrian-bivol/</link>
+      <link>https://ellrottlab.org/authors/adrian-bivol/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/adrian-bivol/</guid>
+      <guid>https://ellrottlab.org/authors/adrian-bivol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alana S Weinstein</title>
-      <link>http://127.0.0.1/authors/alana-s-weinstein/</link>
+      <link>https://ellrottlab.org/authors/alana-s-weinstein/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/alana-s-weinstein/</guid>
+      <guid>https://ellrottlab.org/authors/alana-s-weinstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alden Deran</title>
-      <link>http://127.0.0.1/authors/alden-deran/</link>
+      <link>https://ellrottlab.org/authors/alden-deran/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/alden-deran/</guid>
+      <guid>https://ellrottlab.org/authors/alden-deran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alok Jaiswal</title>
-      <link>http://127.0.0.1/authors/alok-jaiswal/</link>
+      <link>https://ellrottlab.org/authors/alok-jaiswal/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/alok-jaiswal/</guid>
+      <guid>https://ellrottlab.org/authors/alok-jaiswal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antti Airola</title>
-      <link>http://127.0.0.1/authors/antti-airola/</link>
+      <link>https://ellrottlab.org/authors/antti-airola/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/antti-airola/</guid>
+      <guid>https://ellrottlab.org/authors/antti-airola/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artem Sokolov</title>
-      <link>http://127.0.0.1/authors/artem-sokolov/</link>
+      <link>https://ellrottlab.org/authors/artem-sokolov/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/artem-sokolov/</guid>
+      <guid>https://ellrottlab.org/authors/artem-sokolov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Aviad Tsherniak</title>
-      <link>http://127.0.0.1/authors/aviad-tsherniak/</link>
+      <link>https://ellrottlab.org/authors/aviad-tsherniak/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/aviad-tsherniak/</guid>
+      <guid>https://ellrottlab.org/authors/aviad-tsherniak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barbara A Weir</title>
-      <link>http://127.0.0.1/authors/barbara-a-weir/</link>
+      <link>https://ellrottlab.org/authors/barbara-a-weir/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/barbara-a-weir/</guid>
+      <guid>https://ellrottlab.org/authors/barbara-a-weir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Broad-DREAM Community</title>
-      <link>http://127.0.0.1/authors/broad-dream-community/</link>
+      <link>https://ellrottlab.org/authors/broad-dream-community/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/broad-dream-community/</guid>
+      <guid>https://ellrottlab.org/authors/broad-dream-community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bruce Hoff</title>
-      <link>http://127.0.0.1/authors/bruce-hoff/</link>
+      <link>https://ellrottlab.org/authors/bruce-hoff/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/bruce-hoff/</guid>
+      <guid>https://ellrottlab.org/authors/bruce-hoff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel Carlin</title>
-      <link>http://127.0.0.1/authors/daniel-carlin/</link>
+      <link>https://ellrottlab.org/authors/daniel-carlin/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/daniel-carlin/</guid>
+      <guid>https://ellrottlab.org/authors/daniel-carlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniel Marbach</title>
-      <link>http://127.0.0.1/authors/daniel-marbach/</link>
+      <link>https://ellrottlab.org/authors/daniel-marbach/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/daniel-marbach/</guid>
+      <guid>https://ellrottlab.org/authors/daniel-marbach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David E Root</title>
-      <link>http://127.0.0.1/authors/david-e-root/</link>
+      <link>https://ellrottlab.org/authors/david-e-root/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/david-e-root/</guid>
+      <guid>https://ellrottlab.org/authors/david-e-root/</guid>
       <description></description>
     </item>
     
     <item>
       <title>David Haussler</title>
-      <link>http://127.0.0.1/authors/david-haussler/</link>
+      <link>https://ellrottlab.org/authors/david-haussler/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/david-haussler/</guid>
+      <guid>https://ellrottlab.org/authors/david-haussler/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Duncan C McColl</title>
-      <link>http://127.0.0.1/authors/duncan-c-mccoll/</link>
+      <link>https://ellrottlab.org/authors/duncan-c-mccoll/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/duncan-c-mccoll/</guid>
+      <guid>https://ellrottlab.org/authors/duncan-c-mccoll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evan Paull</title>
-      <link>http://127.0.0.1/authors/evan-paull/</link>
+      <link>https://ellrottlab.org/authors/evan-paull/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/evan-paull/</guid>
+      <guid>https://ellrottlab.org/authors/evan-paull/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fan Zhu</title>
-      <link>http://127.0.0.1/authors/fan-zhu/</link>
+      <link>https://ellrottlab.org/authors/fan-zhu/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/fan-zhu/</guid>
+      <guid>https://ellrottlab.org/authors/fan-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Francisca Vazquez</title>
-      <link>http://127.0.0.1/authors/francisca-vazquez/</link>
+      <link>https://ellrottlab.org/authors/francisca-vazquez/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/francisca-vazquez/</guid>
+      <guid>https://ellrottlab.org/authors/francisca-vazquez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Glenn S Cowley</title>
-      <link>http://127.0.0.1/authors/glenn-s-cowley/</link>
+      <link>https://ellrottlab.org/authors/glenn-s-cowley/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/glenn-s-cowley/</guid>
+      <guid>https://ellrottlab.org/authors/glenn-s-cowley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guanghua Xiao</title>
-      <link>http://127.0.0.1/authors/guanghua-xiao/</link>
+      <link>https://ellrottlab.org/authors/guanghua-xiao/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/guanghua-xiao/</guid>
+      <guid>https://ellrottlab.org/authors/guanghua-xiao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gustavo Stolovitzky</title>
-      <link>http://127.0.0.1/authors/gustavo-stolovitzky/</link>
+      <link>https://ellrottlab.org/authors/gustavo-stolovitzky/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/gustavo-stolovitzky/</guid>
+      <guid>https://ellrottlab.org/authors/gustavo-stolovitzky/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hao Tang</title>
-      <link>http://127.0.0.1/authors/hao-tang/</link>
+      <link>https://ellrottlab.org/authors/hao-tang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/hao-tang/</guid>
+      <guid>https://ellrottlab.org/authors/hao-tang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hiroshi Mamitsuka</title>
-      <link>http://127.0.0.1/authors/hiroshi-mamitsuka/</link>
+      <link>https://ellrottlab.org/authors/hiroshi-mamitsuka/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/hiroshi-mamitsuka/</guid>
+      <guid>https://ellrottlab.org/authors/hiroshi-mamitsuka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jesse S Boehm</title>
-      <link>http://127.0.0.1/authors/jesse-s-boehm/</link>
+      <link>https://ellrottlab.org/authors/jesse-s-boehm/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/jesse-s-boehm/</guid>
+      <guid>https://ellrottlab.org/authors/jesse-s-boehm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jing Tang</title>
-      <link>http://127.0.0.1/authors/jing-tang/</link>
+      <link>https://ellrottlab.org/authors/jing-tang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/jing-tang/</guid>
+      <guid>https://ellrottlab.org/authors/jing-tang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joshua M Stuart</title>
-      <link>http://127.0.0.1/authors/joshua-m-stuart/</link>
+      <link>https://ellrottlab.org/authors/joshua-m-stuart/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/joshua-m-stuart/</guid>
+      <guid>https://ellrottlab.org/authors/joshua-m-stuart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kerstin Bunte</title>
-      <link>http://127.0.0.1/authors/kerstin-bunte/</link>
+      <link>https://ellrottlab.org/authors/kerstin-bunte/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kerstin-bunte/</guid>
+      <guid>https://ellrottlab.org/authors/kerstin-bunte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiley Graim</title>
-      <link>http://127.0.0.1/authors/kiley-graim/</link>
+      <link>https://ellrottlab.org/authors/kiley-graim/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kiley-graim/</guid>
+      <guid>https://ellrottlab.org/authors/kiley-graim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Krister Wennerberg</title>
-      <link>http://127.0.0.1/authors/krister-wennerberg/</link>
+      <link>https://ellrottlab.org/authors/krister-wennerberg/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/krister-wennerberg/</guid>
+      <guid>https://ellrottlab.org/authors/krister-wennerberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Ellrott</title>
-      <link>http://127.0.0.1/authors/kyle-ellrott/</link>
+      <link>https://ellrottlab.org/authors/kyle-ellrott/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kyle-ellrott/</guid>
+      <guid>https://ellrottlab.org/authors/kyle-ellrott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manu Chopra</title>
-      <link>http://127.0.0.1/authors/manu-chopra/</link>
+      <link>https://ellrottlab.org/authors/manu-chopra/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/manu-chopra/</guid>
+      <guid>https://ellrottlab.org/authors/manu-chopra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Masayuki Karasuyama</title>
-      <link>http://127.0.0.1/authors/masayuki-karasuyama/</link>
+      <link>https://ellrottlab.org/authors/masayuki-karasuyama/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/masayuki-karasuyama/</guid>
+      <guid>https://ellrottlab.org/authors/masayuki-karasuyama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mehmet Gönen</title>
-      <link>http://127.0.0.1/authors/mehmet-gonen/</link>
+      <link>https://ellrottlab.org/authors/mehmet-gonen/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/mehmet-gonen/</guid>
+      <guid>https://ellrottlab.org/authors/mehmet-gonen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olena Morozova</title>
-      <link>http://127.0.0.1/authors/olena-morozova/</link>
+      <link>https://ellrottlab.org/authors/olena-morozova/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/olena-morozova/</guid>
+      <guid>https://ellrottlab.org/authors/olena-morozova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peddinti Gopalacharyulu</title>
-      <link>http://127.0.0.1/authors/peddinti-gopalacharyulu/</link>
+      <link>https://ellrottlab.org/authors/peddinti-gopalacharyulu/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/peddinti-gopalacharyulu/</guid>
+      <guid>https://ellrottlab.org/authors/peddinti-gopalacharyulu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Baertsch</title>
-      <link>http://127.0.0.1/authors/robert-baertsch/</link>
+      <link>https://ellrottlab.org/authors/robert-baertsch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/robert-baertsch/</guid>
+      <guid>https://ellrottlab.org/authors/robert-baertsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sahil Chopra</title>
-      <link>http://127.0.0.1/authors/sahil-chopra/</link>
+      <link>https://ellrottlab.org/authors/sahil-chopra/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/sahil-chopra/</guid>
+      <guid>https://ellrottlab.org/authors/sahil-chopra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sam Ng</title>
-      <link>http://127.0.0.1/authors/sam-ng/</link>
+      <link>https://ellrottlab.org/authors/sam-ng/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/sam-ng/</guid>
+      <guid>https://ellrottlab.org/authors/sam-ng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samuel Kaski</title>
-      <link>http://127.0.0.1/authors/samuel-kaski/</link>
+      <link>https://ellrottlab.org/authors/samuel-kaski/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/samuel-kaski/</guid>
+      <guid>https://ellrottlab.org/authors/samuel-kaski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sara Howell</title>
-      <link>http://127.0.0.1/authors/sara-howell/</link>
+      <link>https://ellrottlab.org/authors/sara-howell/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/sara-howell/</guid>
+      <guid>https://ellrottlab.org/authors/sara-howell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sofie R Salama</title>
-      <link>http://127.0.0.1/authors/sofie-r-salama/</link>
+      <link>https://ellrottlab.org/authors/sofie-r-salama/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/sofie-r-salama/</guid>
+      <guid>https://ellrottlab.org/authors/sofie-r-salama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suleiman A Khan</title>
-      <link>http://127.0.0.1/authors/suleiman-a-khan/</link>
+      <link>https://ellrottlab.org/authors/suleiman-a-khan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/suleiman-a-khan/</guid>
+      <guid>https://ellrottlab.org/authors/suleiman-a-khan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tao Wang</title>
-      <link>http://127.0.0.1/authors/tao-wang/</link>
+      <link>https://ellrottlab.org/authors/tao-wang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/tao-wang/</guid>
+      <guid>https://ellrottlab.org/authors/tao-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tapio Pahikkala</title>
-      <link>http://127.0.0.1/authors/tapio-pahikkala/</link>
+      <link>https://ellrottlab.org/authors/tapio-pahikkala/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/tapio-pahikkala/</guid>
+      <guid>https://ellrottlab.org/authors/tapio-pahikkala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teresa Swatloski</title>
-      <link>http://127.0.0.1/authors/teresa-swatloski/</link>
+      <link>https://ellrottlab.org/authors/teresa-swatloski/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/teresa-swatloski/</guid>
+      <guid>https://ellrottlab.org/authors/teresa-swatloski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tero Aittokallio</title>
-      <link>http://127.0.0.1/authors/tero-aittokallio/</link>
+      <link>https://ellrottlab.org/authors/tero-aittokallio/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/tero-aittokallio/</guid>
+      <guid>https://ellrottlab.org/authors/tero-aittokallio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thea C Norman</title>
-      <link>http://127.0.0.1/authors/thea-c-norman/</link>
+      <link>https://ellrottlab.org/authors/thea-c-norman/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/thea-c-norman/</guid>
+      <guid>https://ellrottlab.org/authors/thea-c-norman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theodore C Goldstein</title>
-      <link>http://127.0.0.1/authors/theodore-c-goldstein/</link>
+      <link>https://ellrottlab.org/authors/theodore-c-goldstein/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/theodore-c-goldstein/</guid>
+      <guid>https://ellrottlab.org/authors/theodore-c-goldstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vladislav Uzunangelov</title>
-      <link>http://127.0.0.1/authors/vladislav-uzunangelov/</link>
+      <link>https://ellrottlab.org/authors/vladislav-uzunangelov/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/vladislav-uzunangelov/</guid>
+      <guid>https://ellrottlab.org/authors/vladislav-uzunangelov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>William C Hahn</title>
-      <link>http://127.0.0.1/authors/william-c-hahn/</link>
+      <link>https://ellrottlab.org/authors/william-c-hahn/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/william-c-hahn/</guid>
+      <guid>https://ellrottlab.org/authors/william-c-hahn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaowei Zhan</title>
-      <link>http://127.0.0.1/authors/xiaowei-zhan/</link>
+      <link>https://ellrottlab.org/authors/xiaowei-zhan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/xiaowei-zhan/</guid>
+      <guid>https://ellrottlab.org/authors/xiaowei-zhan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Xie</title>
-      <link>http://127.0.0.1/authors/yang-xie/</link>
+      <link>https://ellrottlab.org/authors/yang-xie/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yang-xie/</guid>
+      <guid>https://ellrottlab.org/authors/yang-xie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuanfang Guan</title>
-      <link>http://127.0.0.1/authors/yuanfang-guan/</link>
+      <link>https://ellrottlab.org/authors/yuanfang-guan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yuanfang-guan/</guid>
+      <guid>https://ellrottlab.org/authors/yuanfang-guan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yulia Newton</title>
-      <link>http://127.0.0.1/authors/yulia-newton/</link>
+      <link>https://ellrottlab.org/authors/yulia-newton/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yulia-newton/</guid>
+      <guid>https://ellrottlab.org/authors/yulia-newton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Margolin</title>
-      <link>http://127.0.0.1/authors/adam-margolin/</link>
+      <link>https://ellrottlab.org/authors/adam-margolin/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/adam-margolin/</guid>
+      <guid>https://ellrottlab.org/authors/adam-margolin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Josh Stuart</title>
-      <link>http://127.0.0.1/authors/josh-stuart/</link>
+      <link>https://ellrottlab.org/authors/josh-stuart/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/josh-stuart/</guid>
+      <guid>https://ellrottlab.org/authors/josh-stuart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam D Ewing</title>
-      <link>http://127.0.0.1/authors/adam-d-ewing/</link>
+      <link>https://ellrottlab.org/authors/adam-d-ewing/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/adam-d-ewing/</guid>
+      <guid>https://ellrottlab.org/authors/adam-d-ewing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christine P&#39;ng</title>
-      <link>http://127.0.0.1/authors/christine-png/</link>
+      <link>https://ellrottlab.org/authors/christine-png/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/christine-png/</guid>
+      <guid>https://ellrottlab.org/authors/christine-png/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cristian Caloian</title>
-      <link>http://127.0.0.1/authors/cristian-caloian/</link>
+      <link>https://ellrottlab.org/authors/cristian-caloian/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/cristian-caloian/</guid>
+      <guid>https://ellrottlab.org/authors/cristian-caloian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daryl Waggott</title>
-      <link>http://127.0.0.1/authors/daryl-waggott/</link>
+      <link>https://ellrottlab.org/authors/daryl-waggott/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/daryl-waggott/</guid>
+      <guid>https://ellrottlab.org/authors/daryl-waggott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>J Christopher Bare</title>
-      <link>http://127.0.0.1/authors/j-christopher-bare/</link>
+      <link>https://ellrottlab.org/authors/j-christopher-bare/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/j-christopher-bare/</guid>
+      <guid>https://ellrottlab.org/authors/j-christopher-bare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kathleen E Houlahan</title>
-      <link>http://127.0.0.1/authors/kathleen-e-houlahan/</link>
+      <link>https://ellrottlab.org/authors/kathleen-e-houlahan/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kathleen-e-houlahan/</guid>
+      <guid>https://ellrottlab.org/authors/kathleen-e-houlahan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Michael R Kellen</title>
-      <link>http://127.0.0.1/authors/michael-r-kellen/</link>
+      <link>https://ellrottlab.org/authors/michael-r-kellen/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/michael-r-kellen/</guid>
+      <guid>https://ellrottlab.org/authors/michael-r-kellen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul C Boutros</title>
-      <link>http://127.0.0.1/authors/paul-c-boutros/</link>
+      <link>https://ellrottlab.org/authors/paul-c-boutros/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/paul-c-boutros/</guid>
+      <guid>https://ellrottlab.org/authors/paul-c-boutros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stephen H Friend</title>
-      <link>http://127.0.0.1/authors/stephen-h-friend/</link>
+      <link>https://ellrottlab.org/authors/stephen-h-friend/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/stephen-h-friend/</guid>
+      <guid>https://ellrottlab.org/authors/stephen-h-friend/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Takafumi N Yamaguchi</title>
-      <link>http://127.0.0.1/authors/takafumi-n-yamaguchi/</link>
+      <link>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/takafumi-n-yamaguchi/</guid>
+      <guid>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veronica Y Sabelnykova</title>
-      <link>http://127.0.0.1/authors/veronica-y-sabelnykova/</link>
+      <link>https://ellrottlab.org/authors/veronica-y-sabelnykova/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/veronica-y-sabelnykova/</guid>
+      <guid>https://ellrottlab.org/authors/veronica-y-sabelnykova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yin Hu</title>
-      <link>http://127.0.0.1/authors/yin-hu/</link>
+      <link>https://ellrottlab.org/authors/yin-hu/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yin-hu/</guid>
+      <guid>https://ellrottlab.org/authors/yin-hu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christine Suver</title>
-      <link>http://127.0.0.1/authors/christine-suver/</link>
+      <link>https://ellrottlab.org/authors/christine-suver/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/christine-suver/</guid>
+      <guid>https://ellrottlab.org/authors/christine-suver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kristen K Dang</title>
-      <link>http://127.0.0.1/authors/kristen-k-dang/</link>
+      <link>https://ellrottlab.org/authors/kristen-k-dang/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kristen-k-dang/</guid>
+      <guid>https://ellrottlab.org/authors/kristen-k-dang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lincoln D Stein</title>
-      <link>http://127.0.0.1/authors/lincoln-d-stein/</link>
+      <link>https://ellrottlab.org/authors/lincoln-d-stein/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/lincoln-d-stein/</guid>
+      <guid>https://ellrottlab.org/authors/lincoln-d-stein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paul T Spellman</title>
-      <link>http://127.0.0.1/authors/paul-t-spellman/</link>
+      <link>https://ellrottlab.org/authors/paul-t-spellman/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/paul-t-spellman/</guid>
+      <guid>https://ellrottlab.org/authors/paul-t-spellman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brad A Ozenberger</title>
-      <link>http://127.0.0.1/authors/brad-a-ozenberger/</link>
+      <link>https://ellrottlab.org/authors/brad-a-ozenberger/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/brad-a-ozenberger/</guid>
+      <guid>https://ellrottlab.org/authors/brad-a-ozenberger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cancer Genome Atlas Research Network</title>
-      <link>http://127.0.0.1/authors/cancer-genome-atlas-research-network/</link>
+      <link>https://ellrottlab.org/authors/cancer-genome-atlas-research-network/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/cancer-genome-atlas-research-network/</guid>
+      <guid>https://ellrottlab.org/authors/cancer-genome-atlas-research-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chris Sander</title>
-      <link>http://127.0.0.1/authors/chris-sander/</link>
+      <link>https://ellrottlab.org/authors/chris-sander/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/chris-sander/</guid>
+      <guid>https://ellrottlab.org/authors/chris-sander/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chris Wong</title>
-      <link>http://127.0.0.1/authors/chris-wong/</link>
+      <link>https://ellrottlab.org/authors/chris-wong/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/chris-wong/</guid>
+      <guid>https://ellrottlab.org/authors/chris-wong/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyriac Kandoth</title>
-      <link>http://127.0.0.1/authors/cyriac-kandoth/</link>
+      <link>https://ellrottlab.org/authors/cyriac-kandoth/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/cyriac-kandoth/</guid>
+      <guid>https://ellrottlab.org/authors/cyriac-kandoth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eric A Collisson</title>
-      <link>http://127.0.0.1/authors/eric-a-collisson/</link>
+      <link>https://ellrottlab.org/authors/eric-a-collisson/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/eric-a-collisson/</guid>
+      <guid>https://ellrottlab.org/authors/eric-a-collisson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gordon B Mills</title>
-      <link>http://127.0.0.1/authors/gordon-b-mills/</link>
+      <link>https://ellrottlab.org/authors/gordon-b-mills/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/gordon-b-mills/</guid>
+      <guid>https://ellrottlab.org/authors/gordon-b-mills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Han Liang</title>
-      <link>http://127.0.0.1/authors/han-liang/</link>
+      <link>https://ellrottlab.org/authors/han-liang/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/han-liang/</guid>
+      <guid>https://ellrottlab.org/authors/han-liang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ilya Shmulevich</title>
-      <link>http://127.0.0.1/authors/ilya-shmulevich/</link>
+      <link>https://ellrottlab.org/authors/ilya-shmulevich/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/ilya-shmulevich/</guid>
+      <guid>https://ellrottlab.org/authors/ilya-shmulevich/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John N Weinstein</title>
-      <link>http://127.0.0.1/authors/john-n-weinstein/</link>
+      <link>https://ellrottlab.org/authors/john-n-weinstein/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/john-n-weinstein/</guid>
+      <guid>https://ellrottlab.org/authors/john-n-weinstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kenna R Mills Shaw</title>
-      <link>http://127.0.0.1/authors/kenna-r-mills-shaw/</link>
+      <link>https://ellrottlab.org/authors/kenna-r-mills-shaw/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/kenna-r-mills-shaw/</guid>
+      <guid>https://ellrottlab.org/authors/kenna-r-mills-shaw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Larsson Omberg</title>
-      <link>http://127.0.0.1/authors/larsson-omberg/</link>
+      <link>https://ellrottlab.org/authors/larsson-omberg/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/larsson-omberg/</guid>
+      <guid>https://ellrottlab.org/authors/larsson-omberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuan Yuan</title>
-      <link>http://127.0.0.1/authors/yuan-yuan/</link>
+      <link>https://ellrottlab.org/authors/yuan-yuan/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/authors/yuan-yuan/</guid>
+      <guid>https://ellrottlab.org/authors/yuan-yuan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brian Craft</title>
-      <link>http://127.0.0.1/authors/brian-craft/</link>
+      <link>https://ellrottlab.org/authors/brian-craft/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/brian-craft/</guid>
+      <guid>https://ellrottlab.org/authors/brian-craft/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chris Wilks</title>
-      <link>http://127.0.0.1/authors/chris-wilks/</link>
+      <link>https://ellrottlab.org/authors/chris-wilks/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/chris-wilks/</guid>
+      <guid>https://ellrottlab.org/authors/chris-wilks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jingchun Zhu</title>
-      <link>http://127.0.0.1/authors/jingchun-zhu/</link>
+      <link>https://ellrottlab.org/authors/jingchun-zhu/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/jingchun-zhu/</guid>
+      <guid>https://ellrottlab.org/authors/jingchun-zhu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mark Diekhans</title>
-      <link>http://127.0.0.1/authors/mark-diekhans/</link>
+      <link>https://ellrottlab.org/authors/mark-diekhans/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/mark-diekhans/</guid>
+      <guid>https://ellrottlab.org/authors/mark-diekhans/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mary Goldman</title>
-      <link>http://127.0.0.1/authors/mary-goldman/</link>
+      <link>https://ellrottlab.org/authors/mary-goldman/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/mary-goldman/</guid>
+      <guid>https://ellrottlab.org/authors/mary-goldman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Melissa Cline</title>
-      <link>http://127.0.0.1/authors/melissa-cline/</link>
+      <link>https://ellrottlab.org/authors/melissa-cline/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/melissa-cline/</guid>
+      <guid>https://ellrottlab.org/authors/melissa-cline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Singer Ma</title>
-      <link>http://127.0.0.1/authors/singer-ma/</link>
+      <link>https://ellrottlab.org/authors/singer-ma/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/singer-ma/</guid>
+      <guid>https://ellrottlab.org/authors/singer-ma/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adam Godzik</title>
-      <link>http://127.0.0.1/authors/adam-godzik/</link>
+      <link>https://ellrottlab.org/authors/adam-godzik/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/adam-godzik/</guid>
+      <guid>https://ellrottlab.org/authors/adam-godzik/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Christian M Zmasek</title>
-      <link>http://127.0.0.1/authors/christian-m-zmasek/</link>
+      <link>https://ellrottlab.org/authors/christian-m-zmasek/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/christian-m-zmasek/</guid>
+      <guid>https://ellrottlab.org/authors/christian-m-zmasek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Constantina Bakolitsa</title>
-      <link>http://127.0.0.1/authors/constantina-bakolitsa/</link>
+      <link>https://ellrottlab.org/authors/constantina-bakolitsa/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/constantina-bakolitsa/</guid>
+      <guid>https://ellrottlab.org/authors/constantina-bakolitsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dana Weekes</title>
-      <link>http://127.0.0.1/authors/dana-weekes/</link>
+      <link>https://ellrottlab.org/authors/dana-weekes/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/dana-weekes/</guid>
+      <guid>https://ellrottlab.org/authors/dana-weekes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>John Wooley</title>
-      <link>http://127.0.0.1/authors/john-wooley/</link>
+      <link>https://ellrottlab.org/authors/john-wooley/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/john-wooley/</guid>
+      <guid>https://ellrottlab.org/authors/john-wooley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>S Sri Krishna</title>
-      <link>http://127.0.0.1/authors/s-sri-krishna/</link>
+      <link>https://ellrottlab.org/authors/s-sri-krishna/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/authors/s-sri-krishna/</guid>
+      <guid>https://ellrottlab.org/authors/s-sri-krishna/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/karlberg/</link>
+      <link>https://ellrottlab.org/authors/karlberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1/authors/karlberg/</guid>
+      <guid>https://ellrottlab.org/authors/karlberg/</guid>
       <description>&lt;p&gt;My research is on cancer subtype predction for the NCI Tumor Molecular Pathalogy project.&lt;/p&gt;
 &lt;p&gt;2014-2019 Student, Bioengineering, Washington State University&lt;/p&gt;
 </description>
@@ -1296,9 +1296,9 @@
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/kellrott/</link>
+      <link>https://ellrottlab.org/authors/kellrott/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1/authors/kellrott/</guid>
+      <guid>https://ellrottlab.org/authors/kellrott/</guid>
       <description>&lt;p&gt;My primary research goal is the application of large scale computing techniques and data integration for the analysis of genomics and systems biology. My current focus has been on biological systems analysis of cancer biology where I specialize in large scale computing problems that require heterogeneous analysis and data. For the past several years I have been extensively involved in the TCGA project, coordinating large scale variant calling efforts and enabling integrative analysis. I worked as the data coordinator for the TCGA PanCancer project, which was the joint effort of more than 100 scientists and my critical role allowed the publication of seventeen manuscripts.I have worked on several large compute platform projects, including working as the OHSU technical lead on the OHSU/Intel Collaborative Cancer Cloud and for the BioMedical Evidence Graph(BMEG). These projects have sought to enable researchers to utilize powerful computational systems to do large scale integrative analysis. I plan to use this experience to enable the next generation of integrative analysis. Despite an extensive history in computer engineering and the technological development of platforms for analysis, my work is guided by enabling actual analytical problems, with a principle goal of working with biological collaborators with to drive relevant research.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2000 Intern, University of California, Riverside&lt;/li&gt;
@@ -1314,9 +1314,9 @@
     
     <item>
       <title></title>
-      <link>http://127.0.0.1/authors/lee-jordan/</link>
+      <link>https://ellrottlab.org/authors/lee-jordan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://127.0.0.1/authors/lee-jordan/</guid>
+      <guid>https://ellrottlab.org/authors/lee-jordan/</guid>
       <description>&lt;p&gt;Jordan A. Lee is a computational biologist in Dr. Kyle Ellrott&#39;s lab at the OHSU Knight Cancer Institute. She is currently taking a multi-platform machine learning approach to predict tumor phenotypes through cross model performance and optimization analysis. Additionally, she is interrogating BMEG data integration builds and drug response consistency across established genomic sources and published literature to identify actionable gaps in cancer research. She is also investigating common single-cell protocols for confounding variables in order to suggest single-cell guidlines for researchers. Lastly, she is benchmarking RNA deconvolution algorithms of cancer patient samples and tumors generated through 3D bioprinting tumor cells.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2011-15 BS, University of Washington, Seattle, WA&lt;/li&gt;

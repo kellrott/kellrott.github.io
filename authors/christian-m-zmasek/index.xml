@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christian M Zmasek | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/christian-m-zmasek/</link>
-      <atom:link href="http://127.0.0.1/authors/christian-m-zmasek/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/christian-m-zmasek/</link>
+      <atom:link href="https://ellrottlab.org/authors/christian-m-zmasek/index.xml" rel="self" type="application/rss+xml" />
     <description>Christian M Zmasek</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Christian M Zmasek</title>
-      <link>http://127.0.0.1/authors/christian-m-zmasek/</link>
+      <link>https://ellrottlab.org/authors/christian-m-zmasek/</link>
     </image>
     
     <item>
       <title>TOPSAN: a dynamic web database for structural genomics.</title>
-      <link>http://127.0.0.1/publication/20961957/</link>
+      <link>https://ellrottlab.org/publication/20961957/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/publication/20961957/</guid>
+      <guid>https://ellrottlab.org/publication/20961957/</guid>
       <description></description>
     </item>
     

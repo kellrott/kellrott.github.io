@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyle Ellrott | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/kyle-ellrott/</link>
-      <atom:link href="http://127.0.0.1/authors/kyle-ellrott/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/kyle-ellrott/</link>
+      <atom:link href="https://ellrottlab.org/authors/kyle-ellrott/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle Ellrott</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kyle Ellrott</title>
-      <link>http://127.0.0.1/authors/kyle-ellrott/</link>
+      <link>https://ellrottlab.org/authors/kyle-ellrott/</link>
     </image>
     
     <item>
       <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
-      <link>http://127.0.0.1/publication/28988802/</link>
+      <link>https://ellrottlab.org/publication/28988802/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/28988802/</guid>
+      <guid>https://ellrottlab.org/publication/28988802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>http://127.0.0.1/publication/29092953/</link>
+      <link>https://ellrottlab.org/publication/29092953/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/29092953/</guid>
+      <guid>https://ellrottlab.org/publication/29092953/</guid>
       <description></description>
     </item>
     
     <item>
       <title>G2P Whitepaper</title>
-      <link>http://127.0.0.1/post/g2p-whitepaper/</link>
+      <link>https://ellrottlab.org/post/g2p-whitepaper/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/post/g2p-whitepaper/</guid>
+      <guid>https://ellrottlab.org/post/g2p-whitepaper/</guid>
       <description>&lt;p&gt;In 2014, Dr. Margolin, Dr. Stuart and Dr. Ellrott wrote a draft white paper outlining the need for a computational model to efficiently communicate known Genotype/Phenotype association. This working group would eventually evolve into Variant Interpretation for Cancer Consortium &lt;a href=&#34;http://cancervariants.org&#34;&gt;VICC&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Many of the ideas and goals changed of the project changed over the years. Below is the original whitepaper draft, to show how much the project has evolved.&lt;/p&gt;
 &lt;h2 id=&#34;ga4gh-genotypes-to-phenotypes-g2p-task-team&#34;&gt;GA4GH Genotypes to Phenotypes (G2P) Task Team&lt;/h2&gt;
@@ -95,58 +95,58 @@ We also believe that it is important to not only define the data transfer standa
     
     <item>
       <title>Reproducible Science: Cancer Researchers Embrace Containers in the Cloud</title>
-      <link>http://127.0.0.1/post/reproducible-cloud/</link>
+      <link>https://ellrottlab.org/post/reproducible-cloud/</link>
       <pubDate>Tue, 06 Sep 2016 11:01:41 -0800</pubDate>
-      <guid>http://127.0.0.1/post/reproducible-cloud/</guid>
+      <guid>https://ellrottlab.org/post/reproducible-cloud/</guid>
       <description>&lt;p&gt;We&#39;ve posted an &lt;a href=&#34;https://ai.googleblog.com/2016/09/reproducible-science-cancer-researchers.html&#34;&gt;article on the Google AI Blog&lt;/a&gt; about reproducibility in DREAM Challenges.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>http://127.0.0.1/publication/25984700/</link>
+      <link>https://ellrottlab.org/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/25984700/</guid>
+      <guid>https://ellrottlab.org/publication/25984700/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
-      <link>http://127.0.0.1/publication/24675517/</link>
+      <link>https://ellrottlab.org/publication/24675517/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/24675517/</guid>
+      <guid>https://ellrottlab.org/publication/24675517/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>http://127.0.0.1/publication/24071850/</link>
+      <link>https://ellrottlab.org/publication/24071850/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/24071850/</guid>
+      <guid>https://ellrottlab.org/publication/24071850/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Cancer Genome Atlas Pan-Cancer analysis project.</title>
-      <link>http://127.0.0.1/publication/24071849/</link>
+      <link>https://ellrottlab.org/publication/24071849/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/24071849/</guid>
+      <guid>https://ellrottlab.org/publication/24071849/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>http://127.0.0.1/publication/23109555/</link>
+      <link>https://ellrottlab.org/publication/23109555/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/23109555/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TOPSAN: a dynamic web database for structural genomics.</title>
-      <link>http://127.0.0.1/publication/20961957/</link>
+      <link>https://ellrottlab.org/publication/20961957/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/publication/20961957/</guid>
+      <guid>https://ellrottlab.org/publication/20961957/</guid>
       <description></description>
     </item>
     

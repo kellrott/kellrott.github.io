@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Garage</title>
-    <link>http://127.0.0.1/authors/buchanan/</link>
-      <atom:link href="http://127.0.0.1/authors/buchanan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/buchanan/</link>
+      <atom:link href="https://ellrottlab.org/authors/buchanan/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science Garage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Aug 2018 09:56:25 -0700</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Data Science Garage</title>
-      <link>http://127.0.0.1/authors/buchanan/</link>
+      <link>https://ellrottlab.org/authors/buchanan/</link>
     </image>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development | Data Science Garage</title>
-    <link>http://127.0.0.1/tags/development/</link>
-      <atom:link href="http://127.0.0.1/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/tags/development/</link>
+      <atom:link href="https://ellrottlab.org/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <description>Development</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2018 11:09:22 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Development</title>
-      <link>http://127.0.0.1/tags/development/</link>
+      <link>https://ellrottlab.org/tags/development/</link>
     </image>
     
     <item>
       <title>Debugging Network Failures</title>
-      <link>http://127.0.0.1/post/network-failures/</link>
+      <link>https://ellrottlab.org/post/network-failures/</link>
       <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      <guid>http://127.0.0.1/post/network-failures/</guid>
+      <guid>https://ellrottlab.org/post/network-failures/</guid>
       <description>&lt;h1 id=&#34;handling-failures-from-openstack-swift-in-funnel&#34;&gt;Handling Failures from OpenStack Swift in Funnel&lt;/h1&gt;
 &lt;p&gt;When building distributed services, handling failures from other services is a fact of life.&lt;/p&gt;
 &lt;p&gt;We use OpenStack Swift as our object storage service, and we use Funnel to transfer thousands of objects to and from Swift. Failed transfers have been common; the Swift server ca be unavailable, overloaded, and even lose chunks of data during upload.&lt;/p&gt;

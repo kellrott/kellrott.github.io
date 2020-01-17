@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Data Science Garage</title>
-    <link>http://127.0.0.1/post/</link>
-      <atom:link href="http://127.0.0.1/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/post/</link>
+      <atom:link href="https://ellrottlab.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>http://127.0.0.1/post/</link>
+      <link>https://ellrottlab.org/post/</link>
     </image>
     
     <item>
       <title>Starting work on the AnVIL</title>
-      <link>http://127.0.0.1/post/anvil/</link>
+      <link>https://ellrottlab.org/post/anvil/</link>
       <pubDate>Sun, 25 Nov 2018 15:12:50 -0800</pubDate>
-      <guid>http://127.0.0.1/post/anvil/</guid>
+      <guid>https://ellrottlab.org/post/anvil/</guid>
       <description>&lt;p&gt;The NHGRI Genomic Data Science &lt;a href=&#34;https://www.genome.gov/27569268/genomic-analysis-visualization-and-informatics-labspace-anvil/&#34;&gt;Analysis, Visualization, and Informatics Lab-space (AnVIL)&lt;/a&gt; project
 will provide a platform for researchers to study Genomic data in the cloud. As part of this project, we will
 be providing methods to enable analysis APIs.&lt;/p&gt;
@@ -25,9 +25,9 @@ be providing methods to enable analysis APIs.&lt;/p&gt;
     
     <item>
       <title>Debugging Network Failures</title>
-      <link>http://127.0.0.1/post/network-failures/</link>
+      <link>https://ellrottlab.org/post/network-failures/</link>
       <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      <guid>http://127.0.0.1/post/network-failures/</guid>
+      <guid>https://ellrottlab.org/post/network-failures/</guid>
       <description>&lt;h1 id=&#34;handling-failures-from-openstack-swift-in-funnel&#34;&gt;Handling Failures from OpenStack Swift in Funnel&lt;/h1&gt;
 &lt;p&gt;When building distributed services, handling failures from other services is a fact of life.&lt;/p&gt;
 &lt;p&gt;We use OpenStack Swift as our object storage service, and we use Funnel to transfer thousands of objects to and from Swift. Failed transfers have been common; the Swift server ca be unavailable, overloaded, and even lose chunks of data during upload.&lt;/p&gt;
@@ -139,9 +139,9 @@ funnel storage put swift://buchanan/funnel-test/service-unavailable
     
     <item>
       <title>G2P Whitepaper</title>
-      <link>http://127.0.0.1/post/g2p-whitepaper/</link>
+      <link>https://ellrottlab.org/post/g2p-whitepaper/</link>
       <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      <guid>http://127.0.0.1/post/g2p-whitepaper/</guid>
+      <guid>https://ellrottlab.org/post/g2p-whitepaper/</guid>
       <description>&lt;p&gt;In 2014, Dr. Margolin, Dr. Stuart and Dr. Ellrott wrote a draft white paper outlining the need for a computational model to efficiently communicate known Genotype/Phenotype association. This working group would eventually evolve into Variant Interpretation for Cancer Consortium &lt;a href=&#34;http://cancervariants.org&#34;&gt;VICC&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Many of the ideas and goals changed of the project changed over the years. Below is the original whitepaper draft, to show how much the project has evolved.&lt;/p&gt;
 &lt;h2 id=&#34;ga4gh-genotypes-to-phenotypes-g2p-task-team&#34;&gt;GA4GH Genotypes to Phenotypes (G2P) Task Team&lt;/h2&gt;
@@ -204,9 +204,9 @@ We also believe that it is important to not only define the data transfer standa
     
     <item>
       <title>Reproducible Science: Cancer Researchers Embrace Containers in the Cloud</title>
-      <link>http://127.0.0.1/post/reproducible-cloud/</link>
+      <link>https://ellrottlab.org/post/reproducible-cloud/</link>
       <pubDate>Tue, 06 Sep 2016 11:01:41 -0800</pubDate>
-      <guid>http://127.0.0.1/post/reproducible-cloud/</guid>
+      <guid>https://ellrottlab.org/post/reproducible-cloud/</guid>
       <description>&lt;p&gt;We&#39;ve posted an &lt;a href=&#34;https://ai.googleblog.com/2016/09/reproducible-science-cancer-researchers.html&#34;&gt;article on the Google AI Blog&lt;/a&gt; about reproducibility in DREAM Challenges.&lt;/p&gt;
 </description>
     </item>

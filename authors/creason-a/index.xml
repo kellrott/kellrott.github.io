@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Creason A | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/creason-a/</link>
-      <atom:link href="http://127.0.0.1/authors/creason-a/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/creason-a/</link>
+      <atom:link href="https://ellrottlab.org/authors/creason-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Creason A</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Creason A</title>
-      <link>http://127.0.0.1/authors/creason-a/</link>
+      <link>https://ellrottlab.org/authors/creason-a/</link>
     </image>
     
     <item>
       <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
-      <link>http://127.0.0.1/publication/31506093/</link>
+      <link>https://ellrottlab.org/publication/31506093/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/31506093/</guid>
+      <guid>https://ellrottlab.org/publication/31506093/</guid>
       <description></description>
     </item>
     

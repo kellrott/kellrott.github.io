@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cyriac Kandoth | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/cyriac-kandoth/</link>
-      <atom:link href="http://127.0.0.1/authors/cyriac-kandoth/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/cyriac-kandoth/</link>
+      <atom:link href="https://ellrottlab.org/authors/cyriac-kandoth/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyriac Kandoth</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Cyriac Kandoth</title>
-      <link>http://127.0.0.1/authors/cyriac-kandoth/</link>
+      <link>https://ellrottlab.org/authors/cyriac-kandoth/</link>
     </image>
     
     <item>
       <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>http://127.0.0.1/publication/24071850/</link>
+      <link>https://ellrottlab.org/publication/24071850/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/24071850/</guid>
+      <guid>https://ellrottlab.org/publication/24071850/</guid>
       <description></description>
     </item>
     

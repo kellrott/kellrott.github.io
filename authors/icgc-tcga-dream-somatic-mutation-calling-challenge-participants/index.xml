@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants | Data Science Garage</title>
-    <link>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
-      <atom:link href="http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+      <atom:link href="https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/index.xml" rel="self" type="application/rss+xml" />
     <description>ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Nov 2018 00:00:00 -0800</lastBuildDate>
     <image>
-      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants</title>
-      <link>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+      <link>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
     </image>
     
     <item>
       <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection.</title>
-      <link>http://127.0.0.1/publication/30400818/</link>
+      <link>https://ellrottlab.org/publication/30400818/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
-      <guid>http://127.0.0.1/publication/30400818/</guid>
+      <guid>https://ellrottlab.org/publication/30400818/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>http://127.0.0.1/publication/25984700/</link>
+      <link>https://ellrottlab.org/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>http://127.0.0.1/publication/25984700/</guid>
+      <guid>https://ellrottlab.org/publication/25984700/</guid>
       <description></description>
     </item>
     
