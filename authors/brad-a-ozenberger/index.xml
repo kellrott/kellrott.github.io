@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brad A Ozenberger on The Data Science Garage</title>
-    <link>/authors/brad-a-ozenberger/</link>
-    <description>Recent content in Brad A Ozenberger on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2013 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/brad-a-ozenberger/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Brad A Ozenberger | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/brad-a-ozenberger/</link>
+      <atom:link href="http://127.0.0.1/authors/brad-a-ozenberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brad A Ozenberger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Brad A Ozenberger</title>
+      <link>http://127.0.0.1/authors/brad-a-ozenberger/</link>
+    </image>
     
     <item>
       <title>The Cancer Genome Atlas Pan-Cancer analysis project.</title>
-      <link>/publication/24071849/</link>
+      <link>http://127.0.0.1/publication/24071849/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/24071849/</guid>
+      <guid>http://127.0.0.1/publication/24071849/</guid>
       <description></description>
     </item>
     

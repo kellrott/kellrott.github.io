@@ -1,941 +1,1328 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on The Data Science Garage</title>
-    <link>/authors/</link>
-    <description>Recent content in Authors on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 16:44:24 -0800</lastBuildDate>
+    <title>Authors | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/</link>
+      <atom:link href="http://127.0.0.1/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>http://127.0.0.1/authors/</link>
+    </image>
     
-	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boutros PC</title>
+      <link>http://127.0.0.1/authors/boutros-pc/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/boutros-pc/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Buchanan A</title>
+      <link>http://127.0.0.1/authors/buchanan-a/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/buchanan-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chilton JM</title>
+      <link>http://127.0.0.1/authors/chilton-jm/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/chilton-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creason A</title>
+      <link>http://127.0.0.1/authors/creason-a/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/creason-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eddy J</title>
+      <link>http://127.0.0.1/authors/eddy-j/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/eddy-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ellrott K</title>
+      <link>http://127.0.0.1/authors/ellrott-k/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/ellrott-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guinney J</title>
+      <link>http://127.0.0.1/authors/guinney-j/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/guinney-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hoff B</title>
+      <link>http://127.0.0.1/authors/hoff-b/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/hoff-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mason M</title>
+      <link>http://127.0.0.1/authors/mason-m/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/mason-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saez-Rodriguez J</title>
+      <link>http://127.0.0.1/authors/saez-rodriguez-j/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/saez-rodriguez-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schaffter T</title>
+      <link>http://127.0.0.1/authors/schaffter-t/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/schaffter-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stolovitzky G</title>
+      <link>http://127.0.0.1/authors/stolovitzky-g/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/stolovitzky-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stuart JM</title>
+      <link>http://127.0.0.1/authors/stuart-jm/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/stuart-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yu T</title>
+      <link>http://127.0.0.1/authors/yu-t/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/yu-t/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
-      <link>/authors/</link>
+      <link>http://127.0.0.1/authors/struck-a/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/struck-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nellore A</title>
+      <link>http://127.0.0.1/authors/nellore-a/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/nellore-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nguyen A</title>
+      <link>http://127.0.0.1/authors/nguyen-a/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/nguyen-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thompson RF</title>
+      <link>http://127.0.0.1/authors/thompson-rf/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/thompson-rf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wood MA</title>
+      <link>http://127.0.0.1/authors/wood-ma/</link>
+      <pubDate>Mon, 19 Aug 2019 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/wood-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/walsh/</link>
       <pubDate>Fri, 25 Jan 2019 16:44:24 -0800</pubDate>
-      
-      <guid>/authors/</guid>
+      <guid>http://127.0.0.1/authors/walsh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam A Margolin</title>
-      <link>/authors/adam-a-margolin/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/adam-a-margolin/</guid>
+      <title>Bare JC</title>
+      <link>http://127.0.0.1/authors/bare-jc/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/bare-jc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam D Ewing</title>
-      <link>/authors/adam-d-ewing/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/adam-d-ewing/</guid>
+      <title>Caloian C</title>
+      <link>http://127.0.0.1/authors/caloian-c/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/caloian-c/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam Godzik</title>
-      <link>/authors/adam-godzik/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/adam-godzik/</guid>
+      <title>Chen K</title>
+      <link>http://127.0.0.1/authors/chen-k/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/chen-k/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam M Novak</title>
-      <link>/authors/adam-m-novak/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/adam-m-novak/</guid>
+      <title>Chong Z</title>
+      <link>http://127.0.0.1/authors/chong-z/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/chong-z/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adam Margolin</title>
-      <link>/authors/adam-margolin/</link>
-      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      
-      <guid>/authors/adam-margolin/</guid>
+      <title>Dang K</title>
+      <link>http://127.0.0.1/authors/dang-k/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/dang-k/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adrian Bivol</title>
-      <link>/authors/adrian-bivol/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/adrian-bivol/</guid>
+      <title>Espiritu SMG</title>
+      <link>http://127.0.0.1/authors/espiritu-smg/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/espiritu-smg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alana S Weinstein</title>
-      <link>/authors/alana-s-weinstein/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/alana-s-weinstein/</guid>
+      <title>Ewing AD</title>
+      <link>http://127.0.0.1/authors/ewing-ad/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/ewing-ad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alden Deran</title>
-      <link>/authors/alden-deran/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/alden-deran/</guid>
+      <title>Friend SH</title>
+      <link>http://127.0.0.1/authors/friend-sh/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/friend-sh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alex Buchanan</title>
-      <link>/authors/alex-buchanan/</link>
-      <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      
-      <guid>/authors/alex-buchanan/</guid>
+      <title>Haussler D</title>
+      <link>http://127.0.0.1/authors/haussler-d/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/haussler-d/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alok Jaiswal</title>
-      <link>/authors/alok-jaiswal/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/alok-jaiswal/</guid>
+      <title>Houlahan KE</title>
+      <link>http://127.0.0.1/authors/houlahan-ke/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/houlahan-ke/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Antti Airola</title>
-      <link>/authors/antti-airola/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/antti-airola/</guid>
+      <title>Hu Y</title>
+      <link>http://127.0.0.1/authors/hu-y/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/hu-y/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Artem Sokolov</title>
-      <link>/authors/artem-sokolov/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/artem-sokolov/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aviad Tsherniak</title>
-      <link>/authors/aviad-tsherniak/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/aviad-tsherniak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Barbara A Weir</title>
-      <link>/authors/barbara-a-weir/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/barbara-a-weir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brad A Ozenberger</title>
-      <link>/authors/brad-a-ozenberger/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/brad-a-ozenberger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brian Craft</title>
-      <link>/authors/brian-craft/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/brian-craft/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Broad-DREAM Community</title>
-      <link>/authors/broad-dream-community/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/broad-dream-community/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bruce Hoff</title>
-      <link>/authors/bruce-hoff/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/bruce-hoff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cancer Genome Atlas Research Network</title>
-      <link>/authors/cancer-genome-atlas-research-network/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/cancer-genome-atlas-research-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chris Sander</title>
-      <link>/authors/chris-sander/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/chris-sander/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chris Wilks</title>
-      <link>/authors/chris-wilks/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/chris-wilks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chris Wong</title>
-      <link>/authors/chris-wong/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/chris-wong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christian M Zmasek</title>
-      <link>/authors/christian-m-zmasek/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/christian-m-zmasek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christine P&#39;ng</title>
-      <link>/authors/christine-png/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/christine-png/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christine Suver</title>
-      <link>/authors/christine-suver/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/christine-suver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constantina Bakolitsa</title>
-      <link>/authors/constantina-bakolitsa/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/constantina-bakolitsa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristian Caloian</title>
-      <link>/authors/cristian-caloian/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/cristian-caloian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyriac Kandoth</title>
-      <link>/authors/cyriac-kandoth/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/cyriac-kandoth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dana Weekes</title>
-      <link>/authors/dana-weekes/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/dana-weekes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Carlin</title>
-      <link>/authors/daniel-carlin/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/daniel-carlin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniel Marbach</title>
-      <link>/authors/daniel-marbach/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/daniel-marbach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daryl Waggott</title>
-      <link>/authors/daryl-waggott/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/daryl-waggott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David E Root</title>
-      <link>/authors/david-e-root/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/david-e-root/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David Haussler</title>
-      <link>/authors/david-haussler/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/david-haussler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Duncan C McColl</title>
-      <link>/authors/duncan-c-mccoll/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/duncan-c-mccoll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eric A Collisson</title>
-      <link>/authors/eric-a-collisson/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/eric-a-collisson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evan Paull</title>
-      <link>/authors/evan-paull/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/evan-paull/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fan Zhu</title>
-      <link>/authors/fan-zhu/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/fan-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisca Vazquez</title>
-      <link>/authors/francisca-vazquez/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/francisca-vazquez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glenn S Cowley</title>
-      <link>/authors/glenn-s-cowley/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/glenn-s-cowley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gordon B Mills</title>
-      <link>/authors/gordon-b-mills/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/gordon-b-mills/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Guanghua Xiao</title>
-      <link>/authors/guanghua-xiao/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/guanghua-xiao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gustavo Stolovitzky</title>
-      <link>/authors/gustavo-stolovitzky/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/gustavo-stolovitzky/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Han Liang</title>
-      <link>/authors/han-liang/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/han-liang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hao Tang</title>
-      <link>/authors/hao-tang/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/hao-tang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hiroshi Mamitsuka</title>
-      <link>/authors/hiroshi-mamitsuka/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/hiroshi-mamitsuka/</guid>
+      <title>Huang V</title>
+      <link>http://127.0.0.1/authors/huang-v/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/huang-v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge participants</title>
-      <link>/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</guid>
+      <link>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ilya Shmulevich</title>
-      <link>/authors/ilya-shmulevich/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/ilya-shmulevich/</guid>
+      <title>Kellen MR</title>
+      <link>http://127.0.0.1/authors/kellen-mr/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/kellen-mr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>J Christopher Bare</title>
-      <link>/authors/j-christopher-bare/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/j-christopher-bare/</guid>
+      <title>Lee AY</title>
+      <link>http://127.0.0.1/authors/lee-ay/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/lee-ay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Margolin AA</title>
+      <link>http://127.0.0.1/authors/margolin-aa/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/margolin-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norman TC</title>
+      <link>http://127.0.0.1/authors/norman-tc/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/norman-tc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yamaguchi TN</title>
+      <link>http://127.0.0.1/authors/yamaguchi-tn/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/yamaguchi-tn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Buchanan</title>
+      <link>http://127.0.0.1/authors/alex-buchanan/</link>
+      <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/alex-buchanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/smith/</link>
+      <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/jeena-lee/</link>
+      <pubDate>Wed, 22 Aug 2018 08:41:04 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/jeena-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/spangler/</link>
+      <pubDate>Mon, 20 Aug 2018 10:08:23 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/spangler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/creason/</link>
+      <pubDate>Mon, 20 Aug 2018 09:57:24 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/creason/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/buchanan/</link>
+      <pubDate>Mon, 20 Aug 2018 09:56:25 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/buchanan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bailey MH</title>
+      <link>http://127.0.0.1/authors/bailey-mh/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/bailey-mh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chiotti KE</title>
+      <link>http://127.0.0.1/authors/chiotti-ke/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/chiotti-ke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covington KR</title>
+      <link>http://127.0.0.1/authors/covington-kr/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/covington-kr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ding L</title>
+      <link>http://127.0.0.1/authors/ding-l/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/ding-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getz G</title>
+      <link>http://127.0.0.1/authors/getz-g/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/getz-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hess J</title>
+      <link>http://127.0.0.1/authors/hess-j/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/hess-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hutter C</title>
+      <link>http://127.0.0.1/authors/hutter-c/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/hutter-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kandoth C</title>
+      <link>http://127.0.0.1/authors/kandoth-c/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/kandoth-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ma S</title>
+      <link>http://127.0.0.1/authors/ma-s/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/ma-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC3 Working Group; Cancer Genome Atlas Research Network.</title>
+      <link>http://127.0.0.1/authors/mc3-working-group-cancer-genome-atlas-research-network./</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/mc3-working-group-cancer-genome-atlas-research-network./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McLellan M</title>
+      <link>http://127.0.0.1/authors/mclellan-m/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/mclellan-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saksena G</title>
+      <link>http://127.0.0.1/authors/saksena-g/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/saksena-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sofia HJ</title>
+      <link>http://127.0.0.1/authors/sofia-hj/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/sofia-hj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stewart C</title>
+      <link>http://127.0.0.1/authors/stewart-c/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/stewart-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wheeler D</title>
+      <link>http://127.0.0.1/authors/wheeler-d/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/wheeler-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam A Margolin</title>
+      <link>http://127.0.0.1/authors/adam-a-margolin/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/adam-a-margolin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam M Novak</title>
+      <link>http://127.0.0.1/authors/adam-m-novak/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/adam-m-novak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adrian Bivol</title>
+      <link>http://127.0.0.1/authors/adrian-bivol/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/adrian-bivol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alana S Weinstein</title>
+      <link>http://127.0.0.1/authors/alana-s-weinstein/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/alana-s-weinstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alden Deran</title>
+      <link>http://127.0.0.1/authors/alden-deran/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/alden-deran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alok Jaiswal</title>
+      <link>http://127.0.0.1/authors/alok-jaiswal/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/alok-jaiswal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antti Airola</title>
+      <link>http://127.0.0.1/authors/antti-airola/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/antti-airola/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artem Sokolov</title>
+      <link>http://127.0.0.1/authors/artem-sokolov/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/artem-sokolov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aviad Tsherniak</title>
+      <link>http://127.0.0.1/authors/aviad-tsherniak/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/aviad-tsherniak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barbara A Weir</title>
+      <link>http://127.0.0.1/authors/barbara-a-weir/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/barbara-a-weir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Broad-DREAM Community</title>
+      <link>http://127.0.0.1/authors/broad-dream-community/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/broad-dream-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bruce Hoff</title>
+      <link>http://127.0.0.1/authors/bruce-hoff/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/bruce-hoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Carlin</title>
+      <link>http://127.0.0.1/authors/daniel-carlin/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/daniel-carlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Marbach</title>
+      <link>http://127.0.0.1/authors/daniel-marbach/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/daniel-marbach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David E Root</title>
+      <link>http://127.0.0.1/authors/david-e-root/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/david-e-root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Haussler</title>
+      <link>http://127.0.0.1/authors/david-haussler/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/david-haussler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duncan C McColl</title>
+      <link>http://127.0.0.1/authors/duncan-c-mccoll/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/duncan-c-mccoll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evan Paull</title>
+      <link>http://127.0.0.1/authors/evan-paull/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/evan-paull/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fan Zhu</title>
+      <link>http://127.0.0.1/authors/fan-zhu/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/fan-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisca Vazquez</title>
+      <link>http://127.0.0.1/authors/francisca-vazquez/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/francisca-vazquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glenn S Cowley</title>
+      <link>http://127.0.0.1/authors/glenn-s-cowley/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/glenn-s-cowley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanghua Xiao</title>
+      <link>http://127.0.0.1/authors/guanghua-xiao/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/guanghua-xiao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Stolovitzky</title>
+      <link>http://127.0.0.1/authors/gustavo-stolovitzky/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/gustavo-stolovitzky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hao Tang</title>
+      <link>http://127.0.0.1/authors/hao-tang/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/hao-tang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hiroshi Mamitsuka</title>
+      <link>http://127.0.0.1/authors/hiroshi-mamitsuka/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/hiroshi-mamitsuka/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jesse S Boehm</title>
-      <link>/authors/jesse-s-boehm/</link>
+      <link>http://127.0.0.1/authors/jesse-s-boehm/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/jesse-s-boehm/</guid>
+      <guid>http://127.0.0.1/authors/jesse-s-boehm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jing Tang</title>
-      <link>/authors/jing-tang/</link>
+      <link>http://127.0.0.1/authors/jing-tang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/jing-tang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jingchun Zhu</title>
-      <link>/authors/jingchun-zhu/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/jingchun-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John N Weinstein</title>
-      <link>/authors/john-n-weinstein/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/john-n-weinstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>John Wooley</title>
-      <link>/authors/john-wooley/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/john-wooley/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Josh Stuart</title>
-      <link>/authors/josh-stuart/</link>
-      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      
-      <guid>/authors/josh-stuart/</guid>
+      <guid>http://127.0.0.1/authors/jing-tang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joshua M Stuart</title>
-      <link>/authors/joshua-m-stuart/</link>
+      <link>http://127.0.0.1/authors/joshua-m-stuart/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/joshua-m-stuart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kathleen E Houlahan</title>
-      <link>/authors/kathleen-e-houlahan/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kathleen-e-houlahan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kenna R Mills Shaw</title>
-      <link>/authors/kenna-r-mills-shaw/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kenna-r-mills-shaw/</guid>
+      <guid>http://127.0.0.1/authors/joshua-m-stuart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kerstin Bunte</title>
-      <link>/authors/kerstin-bunte/</link>
+      <link>http://127.0.0.1/authors/kerstin-bunte/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kerstin-bunte/</guid>
+      <guid>http://127.0.0.1/authors/kerstin-bunte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kiley Graim</title>
-      <link>/authors/kiley-graim/</link>
+      <link>http://127.0.0.1/authors/kiley-graim/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kiley-graim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kristen K Dang</title>
-      <link>/authors/kristen-k-dang/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kristen-k-dang/</guid>
+      <guid>http://127.0.0.1/authors/kiley-graim/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Krister Wennerberg</title>
-      <link>/authors/krister-wennerberg/</link>
+      <link>http://127.0.0.1/authors/krister-wennerberg/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/krister-wennerberg/</guid>
+      <guid>http://127.0.0.1/authors/krister-wennerberg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kyle Ellrott</title>
-      <link>/authors/kyle-ellrott/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/kyle-ellrott/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Larsson Omberg</title>
-      <link>/authors/larsson-omberg/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/larsson-omberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lincoln D Stein</title>
-      <link>/authors/lincoln-d-stein/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/lincoln-d-stein/</guid>
+      <link>http://127.0.0.1/authors/kyle-ellrott/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/kyle-ellrott/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manu Chopra</title>
-      <link>/authors/manu-chopra/</link>
+      <link>http://127.0.0.1/authors/manu-chopra/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/manu-chopra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mark Diekhans</title>
-      <link>/authors/mark-diekhans/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/mark-diekhans/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mary Goldman</title>
-      <link>/authors/mary-goldman/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/mary-goldman/</guid>
+      <guid>http://127.0.0.1/authors/manu-chopra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Masayuki Karasuyama</title>
-      <link>/authors/masayuki-karasuyama/</link>
+      <link>http://127.0.0.1/authors/masayuki-karasuyama/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/masayuki-karasuyama/</guid>
+      <guid>http://127.0.0.1/authors/masayuki-karasuyama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mehmet Gönen</title>
-      <link>/authors/mehmet-g%C3%B6nen/</link>
+      <link>http://127.0.0.1/authors/mehmet-gonen/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/mehmet-g%C3%B6nen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melissa Cline</title>
-      <link>/authors/melissa-cline/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/melissa-cline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael R Kellen</title>
-      <link>/authors/michael-r-kellen/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/michael-r-kellen/</guid>
+      <guid>http://127.0.0.1/authors/mehmet-gonen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Olena Morozova</title>
-      <link>/authors/olena-morozova/</link>
+      <link>http://127.0.0.1/authors/olena-morozova/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/olena-morozova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul C Boutros</title>
-      <link>/authors/paul-c-boutros/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/paul-c-boutros/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Paul T Spellman</title>
-      <link>/authors/paul-t-spellman/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/paul-t-spellman/</guid>
+      <guid>http://127.0.0.1/authors/olena-morozova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Peddinti Gopalacharyulu</title>
-      <link>/authors/peddinti-gopalacharyulu/</link>
+      <link>http://127.0.0.1/authors/peddinti-gopalacharyulu/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/peddinti-gopalacharyulu/</guid>
+      <guid>http://127.0.0.1/authors/peddinti-gopalacharyulu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robert Baertsch</title>
-      <link>/authors/robert-baertsch/</link>
+      <link>http://127.0.0.1/authors/robert-baertsch/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/robert-baertsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>S Sri Krishna</title>
-      <link>/authors/s-sri-krishna/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/s-sri-krishna/</guid>
+      <guid>http://127.0.0.1/authors/robert-baertsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sahil Chopra</title>
-      <link>/authors/sahil-chopra/</link>
+      <link>http://127.0.0.1/authors/sahil-chopra/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/sahil-chopra/</guid>
+      <guid>http://127.0.0.1/authors/sahil-chopra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sam Ng</title>
-      <link>/authors/sam-ng/</link>
+      <link>http://127.0.0.1/authors/sam-ng/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/sam-ng/</guid>
+      <guid>http://127.0.0.1/authors/sam-ng/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Samuel Kaski</title>
-      <link>/authors/samuel-kaski/</link>
+      <link>http://127.0.0.1/authors/samuel-kaski/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/samuel-kaski/</guid>
+      <guid>http://127.0.0.1/authors/samuel-kaski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sara Howell</title>
-      <link>/authors/sara-howell/</link>
+      <link>http://127.0.0.1/authors/sara-howell/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/sara-howell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Singer Ma</title>
-      <link>/authors/singer-ma/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/authors/singer-ma/</guid>
+      <guid>http://127.0.0.1/authors/sara-howell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sofie R Salama</title>
-      <link>/authors/sofie-r-salama/</link>
+      <link>http://127.0.0.1/authors/sofie-r-salama/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/sofie-r-salama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stephen H Friend</title>
-      <link>/authors/stephen-h-friend/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/stephen-h-friend/</guid>
+      <guid>http://127.0.0.1/authors/sofie-r-salama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suleiman A Khan</title>
-      <link>/authors/suleiman-a-khan/</link>
+      <link>http://127.0.0.1/authors/suleiman-a-khan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/suleiman-a-khan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Takafumi N Yamaguchi</title>
-      <link>/authors/takafumi-n-yamaguchi/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/takafumi-n-yamaguchi/</guid>
+      <guid>http://127.0.0.1/authors/suleiman-a-khan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tao Wang</title>
-      <link>/authors/tao-wang/</link>
+      <link>http://127.0.0.1/authors/tao-wang/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/tao-wang/</guid>
+      <guid>http://127.0.0.1/authors/tao-wang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tapio Pahikkala</title>
-      <link>/authors/tapio-pahikkala/</link>
+      <link>http://127.0.0.1/authors/tapio-pahikkala/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/tapio-pahikkala/</guid>
+      <guid>http://127.0.0.1/authors/tapio-pahikkala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teresa Swatloski</title>
-      <link>/authors/teresa-swatloski/</link>
+      <link>http://127.0.0.1/authors/teresa-swatloski/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/teresa-swatloski/</guid>
+      <guid>http://127.0.0.1/authors/teresa-swatloski/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tero Aittokallio</title>
-      <link>/authors/tero-aittokallio/</link>
+      <link>http://127.0.0.1/authors/tero-aittokallio/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/tero-aittokallio/</guid>
+      <guid>http://127.0.0.1/authors/tero-aittokallio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thea C Norman</title>
-      <link>/authors/thea-c-norman/</link>
+      <link>http://127.0.0.1/authors/thea-c-norman/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/thea-c-norman/</guid>
+      <guid>http://127.0.0.1/authors/thea-c-norman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theodore C Goldstein</title>
-      <link>/authors/theodore-c-goldstein/</link>
+      <link>http://127.0.0.1/authors/theodore-c-goldstein/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/theodore-c-goldstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Veronica Y Sabelnykova</title>
-      <link>/authors/veronica-y-sabelnykova/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/veronica-y-sabelnykova/</guid>
+      <guid>http://127.0.0.1/authors/theodore-c-goldstein/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vladislav Uzunangelov</title>
-      <link>/authors/vladislav-uzunangelov/</link>
+      <link>http://127.0.0.1/authors/vladislav-uzunangelov/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/vladislav-uzunangelov/</guid>
+      <guid>http://127.0.0.1/authors/vladislav-uzunangelov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>William C Hahn</title>
-      <link>/authors/william-c-hahn/</link>
+      <link>http://127.0.0.1/authors/william-c-hahn/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/william-c-hahn/</guid>
+      <guid>http://127.0.0.1/authors/william-c-hahn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiaowei Zhan</title>
-      <link>/authors/xiaowei-zhan/</link>
+      <link>http://127.0.0.1/authors/xiaowei-zhan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/xiaowei-zhan/</guid>
+      <guid>http://127.0.0.1/authors/xiaowei-zhan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Xie</title>
-      <link>/authors/yang-xie/</link>
+      <link>http://127.0.0.1/authors/yang-xie/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/yang-xie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Hu</title>
-      <link>/authors/yin-hu/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/yin-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuan Yuan</title>
-      <link>/authors/yuan-yuan/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/yuan-yuan/</guid>
+      <guid>http://127.0.0.1/authors/yang-xie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuanfang Guan</title>
-      <link>/authors/yuanfang-guan/</link>
+      <link>http://127.0.0.1/authors/yuanfang-guan/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/yuanfang-guan/</guid>
+      <guid>http://127.0.0.1/authors/yuanfang-guan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yulia Newton</title>
-      <link>/authors/yulia-newton/</link>
+      <link>http://127.0.0.1/authors/yulia-newton/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/authors/yulia-newton/</guid>
+      <guid>http://127.0.0.1/authors/yulia-newton/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Margolin</title>
+      <link>http://127.0.0.1/authors/adam-margolin/</link>
+      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/adam-margolin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Josh Stuart</title>
+      <link>http://127.0.0.1/authors/josh-stuart/</link>
+      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/josh-stuart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam D Ewing</title>
+      <link>http://127.0.0.1/authors/adam-d-ewing/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/adam-d-ewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine P&#39;ng</title>
+      <link>http://127.0.0.1/authors/christine-png/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/christine-png/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian Caloian</title>
+      <link>http://127.0.0.1/authors/cristian-caloian/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/cristian-caloian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daryl Waggott</title>
+      <link>http://127.0.0.1/authors/daryl-waggott/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/daryl-waggott/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Christopher Bare</title>
+      <link>http://127.0.0.1/authors/j-christopher-bare/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/j-christopher-bare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kathleen E Houlahan</title>
+      <link>http://127.0.0.1/authors/kathleen-e-houlahan/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/kathleen-e-houlahan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael R Kellen</title>
+      <link>http://127.0.0.1/authors/michael-r-kellen/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/michael-r-kellen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul C Boutros</title>
+      <link>http://127.0.0.1/authors/paul-c-boutros/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/paul-c-boutros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen H Friend</title>
+      <link>http://127.0.0.1/authors/stephen-h-friend/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/stephen-h-friend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takafumi N Yamaguchi</title>
+      <link>http://127.0.0.1/authors/takafumi-n-yamaguchi/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/takafumi-n-yamaguchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veronica Y Sabelnykova</title>
+      <link>http://127.0.0.1/authors/veronica-y-sabelnykova/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/veronica-y-sabelnykova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Hu</title>
+      <link>http://127.0.0.1/authors/yin-hu/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/yin-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christine Suver</title>
+      <link>http://127.0.0.1/authors/christine-suver/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/christine-suver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristen K Dang</title>
+      <link>http://127.0.0.1/authors/kristen-k-dang/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/kristen-k-dang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lincoln D Stein</title>
+      <link>http://127.0.0.1/authors/lincoln-d-stein/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/lincoln-d-stein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul T Spellman</title>
+      <link>http://127.0.0.1/authors/paul-t-spellman/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/paul-t-spellman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad A Ozenberger</title>
+      <link>http://127.0.0.1/authors/brad-a-ozenberger/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/brad-a-ozenberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Genome Atlas Research Network</title>
+      <link>http://127.0.0.1/authors/cancer-genome-atlas-research-network/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/cancer-genome-atlas-research-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Sander</title>
+      <link>http://127.0.0.1/authors/chris-sander/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/chris-sander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Wong</title>
+      <link>http://127.0.0.1/authors/chris-wong/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/chris-wong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyriac Kandoth</title>
+      <link>http://127.0.0.1/authors/cyriac-kandoth/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/cyriac-kandoth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric A Collisson</title>
+      <link>http://127.0.0.1/authors/eric-a-collisson/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/eric-a-collisson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gordon B Mills</title>
+      <link>http://127.0.0.1/authors/gordon-b-mills/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/gordon-b-mills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Han Liang</title>
+      <link>http://127.0.0.1/authors/han-liang/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/han-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ilya Shmulevich</title>
+      <link>http://127.0.0.1/authors/ilya-shmulevich/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/ilya-shmulevich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John N Weinstein</title>
+      <link>http://127.0.0.1/authors/john-n-weinstein/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/john-n-weinstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kenna R Mills Shaw</title>
+      <link>http://127.0.0.1/authors/kenna-r-mills-shaw/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/kenna-r-mills-shaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larsson Omberg</title>
+      <link>http://127.0.0.1/authors/larsson-omberg/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/larsson-omberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuan Yuan</title>
+      <link>http://127.0.0.1/authors/yuan-yuan/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/authors/yuan-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Craft</title>
+      <link>http://127.0.0.1/authors/brian-craft/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/brian-craft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Wilks</title>
+      <link>http://127.0.0.1/authors/chris-wilks/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/chris-wilks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingchun Zhu</title>
+      <link>http://127.0.0.1/authors/jingchun-zhu/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/jingchun-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mark Diekhans</title>
+      <link>http://127.0.0.1/authors/mark-diekhans/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/mark-diekhans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Goldman</title>
+      <link>http://127.0.0.1/authors/mary-goldman/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/mary-goldman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melissa Cline</title>
+      <link>http://127.0.0.1/authors/melissa-cline/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/melissa-cline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singer Ma</title>
+      <link>http://127.0.0.1/authors/singer-ma/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/singer-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adam Godzik</title>
+      <link>http://127.0.0.1/authors/adam-godzik/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/adam-godzik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian M Zmasek</title>
+      <link>http://127.0.0.1/authors/christian-m-zmasek/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/christian-m-zmasek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constantina Bakolitsa</title>
+      <link>http://127.0.0.1/authors/constantina-bakolitsa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/constantina-bakolitsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dana Weekes</title>
+      <link>http://127.0.0.1/authors/dana-weekes/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/dana-weekes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Wooley</title>
+      <link>http://127.0.0.1/authors/john-wooley/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/john-wooley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Sri Krishna</title>
+      <link>http://127.0.0.1/authors/s-sri-krishna/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
+      <guid>http://127.0.0.1/authors/s-sri-krishna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/karlberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1/authors/karlberg/</guid>
+      <description>&lt;p&gt;My research is on cancer subtype predction for the NCI Tumor Molecular Pathalogy project.&lt;/p&gt;
+&lt;p&gt;2014-2019 Student, Bioengineering, Washington State University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/kellrott/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1/authors/kellrott/</guid>
+      <description>&lt;p&gt;My primary research goal is the application of large scale computing techniques and data integration for the analysis of genomics and systems biology. My current focus has been on biological systems analysis of cancer biology where I specialize in large scale computing problems that require heterogeneous analysis and data. For the past several years I have been extensively involved in the TCGA project, coordinating large scale variant calling efforts and enabling integrative analysis. I worked as the data coordinator for the TCGA PanCancer project, which was the joint effort of more than 100 scientists and my critical role allowed the publication of seventeen manuscripts.I have worked on several large compute platform projects, including working as the OHSU technical lead on the OHSU/Intel Collaborative Cancer Cloud and for the BioMedical Evidence Graph(BMEG). These projects have sought to enable researchers to utilize powerful computational systems to do large scale integrative analysis. I plan to use this experience to enable the next generation of integrative analysis. Despite an extensive history in computer engineering and the technological development of platforms for analysis, my work is guided by enabling actual analytical problems, with a principle goal of working with biological collaborators with to drive relevant research.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2000 Intern, University of California, Riverside&lt;/li&gt;
+&lt;li&gt;2001-02 Intern, Oak Ridge National Labs&lt;/li&gt;
+&lt;li&gt;2002-08 PhD. Student, University of Tennessee, Knoxville (Ying Xu, Advisor)&lt;/li&gt;
+&lt;li&gt;2003-08 Visiting student at University of Georgia, Athens&lt;/li&gt;
+&lt;li&gt;2009-11 Postdoctoral Associate, Burnham Institute (Adam Godzik, Advisor)&lt;/li&gt;
+&lt;li&gt;2012-15 Programmer Analyst, University of California, Santa Cruz (Josh Stuart, Advisor)&lt;/li&gt;
+&lt;li&gt;2013-14 Contractor, Sage Biosciences, Seattle2015-Assistant Professor, Oregon Health &amp;amp; Science University, Portland&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://127.0.0.1/authors/lee-jordan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://127.0.0.1/authors/lee-jordan/</guid>
+      <description>&lt;p&gt;Jordan A. Lee is a computational biologist in Dr. Kyle Ellrott&#39;s lab at the OHSU Knight Cancer Institute. She is currently taking a multi-platform machine learning approach to predict tumor phenotypes through cross model performance and optimization analysis. Additionally, she is interrogating BMEG data integration builds and drug response consistency across established genomic sources and published literature to identify actionable gaps in cancer research. She is also investigating common single-cell protocols for confounding variables in order to suggest single-cell guidlines for researchers. Lastly, she is benchmarking RNA deconvolution algorithms of cancer patient samples and tumors generated through 3D bioprinting tumor cells.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2011-15 BS, University of Washington, Seattle, WA&lt;/li&gt;
+&lt;li&gt;2018-19 MS, University of Oregon, Eugene, OR&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

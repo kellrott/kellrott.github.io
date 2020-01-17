@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ding L | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/ding-l/</link>
+      <atom:link href="http://127.0.0.1/authors/ding-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ding L</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ding L</title>
+      <link>http://127.0.0.1/authors/ding-l/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
+      <link>http://127.0.0.1/publication/29596782/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 -0700</pubDate>
+      <guid>http://127.0.0.1/publication/29596782/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

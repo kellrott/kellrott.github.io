@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Haussler on The Data Science Garage</title>
-    <link>/authors/david-haussler/</link>
-    <description>Recent content in David Haussler on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/david-haussler/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>David Haussler | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/david-haussler/</link>
+      <atom:link href="http://127.0.0.1/authors/david-haussler/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Haussler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>David Haussler</title>
+      <link>http://127.0.0.1/authors/david-haussler/</link>
+    </image>
     
     <item>
       <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>/publication/29092953/</link>
+      <link>http://127.0.0.1/publication/29092953/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/29092953/</guid>
+      <guid>http://127.0.0.1/publication/29092953/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>/publication/25984700/</link>
+      <link>http://127.0.0.1/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/25984700/</guid>
+      <guid>http://127.0.0.1/publication/25984700/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>/publication/23109555/</link>
+      <link>http://127.0.0.1/publication/23109555/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/23109555/</guid>
+      <guid>http://127.0.0.1/publication/23109555/</guid>
       <description></description>
     </item>
     

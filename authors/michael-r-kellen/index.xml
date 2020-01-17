@@ -1,40 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael R Kellen on The Data Science Garage</title>
-    <link>/authors/michael-r-kellen/</link>
-    <description>Recent content in Michael R Kellen on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/michael-r-kellen/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Michael R Kellen | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/michael-r-kellen/</link>
+      <atom:link href="http://127.0.0.1/authors/michael-r-kellen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael R Kellen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael R Kellen</title>
+      <link>http://127.0.0.1/authors/michael-r-kellen/</link>
+    </image>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>/publication/25984700/</link>
+      <link>http://127.0.0.1/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/25984700/</guid>
+      <guid>http://127.0.0.1/publication/25984700/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
-      <link>/publication/24675517/</link>
+      <link>http://127.0.0.1/publication/24675517/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/24675517/</guid>
+      <guid>http://127.0.0.1/publication/24675517/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>/publication/24071850/</link>
+      <link>http://127.0.0.1/publication/24071850/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/24071850/</guid>
+      <guid>http://127.0.0.1/publication/24071850/</guid>
       <description></description>
     </item>
     

@@ -5,24 +5,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 3.3.0">
-  <meta name="generator" content="Hugo 0.53" />
-
-  
-
-  
-  
-  
-  
-  
-    
-    
-    
-  
-  
-
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.48" />
   <meta name="author" content="Kyle Ellrott">
 
+  
   
   
   
@@ -31,7 +18,7 @@
   <meta name="description" content="The Cancer Genome Atlas (TCGA) cancer genomics dataset includes over 10,000 tumor-normal exome pairs across 33 different cancer types, in total &gt;400 TB of raw data files requiring analysis. Here we describe the Multi-Center Mutation Calling in Multiple Cancers project, our effort to generate a comprehensive encyclopedia of somatic mutation calls for the TCGA data to enable robust cross-tumor-type analyses. Our approach accounts for variance and batch effects introduced by the rapid advancement of DNA extraction, hybridization-capture, sequencing, and analysis methods over time. We present best practices for applying an ensemble of seven mutation-calling algorithms with scoring and artifact filtering. The dataset created by this analysis includes 3.5 million somatic variants and forms the basis for PanCan Atlas papers. The results have been made available to the research community along with the methods used to generate them. This project is the result of collaboration from a number of institutes and demonstrates how team science drives extremely large genomics projects..">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/mc3/">
+  <link rel="alternate" hreflang="en-us" href="http://ellrottlab.org/publication/mc3/">
 
   
 
@@ -39,19 +26,9 @@
   
 
   
-
-  
-
-  
-
-  
-
-  
-
   
   
-  
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#0095eb">
   
 
   
@@ -61,7 +38,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
 
     
@@ -86,7 +63,7 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
   
 
   <link rel="stylesheet" href="/styles.css">
@@ -94,46 +71,28 @@
 
   
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-133347876-1', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
   
 
   
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="The Data Science Garage">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="The Data Science Garage">
+  <link rel="alternate" href="http://ellrottlab.org/index.xml" type="application/rss+xml" title="ellrottlab.org">
+  <link rel="feed" href="http://ellrottlab.org/index.xml" type="application/rss+xml" title="ellrottlab.org">
   
 
   <link rel="manifest" href="/site.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/mc3/">
+  <link rel="canonical" href="http://ellrottlab.org/publication/mc3/">
 
+  <meta property="twitter:card" content="summary_large_image">
   
+  <meta property="twitter:site" content="@kellrott">
+  <meta property="twitter:creator" content="@kellrott">
   
-  
-  
-    
-    
-  
-  <meta property="twitter:card" content="summary">
-  
-  <meta property="og:site_name" content="The Data Science Garage">
-  <meta property="og:url" content="/publication/mc3/">
-  <meta property="og:title" content="Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines | The Data Science Garage">
-  <meta property="og:description" content="The Cancer Genome Atlas (TCGA) cancer genomics dataset includes over 10,000 tumor-normal exome pairs across 33 different cancer types, in total &gt;400 TB of raw data files requiring analysis. Here we describe the Multi-Center Mutation Calling in Multiple Cancers project, our effort to generate a comprehensive encyclopedia of somatic mutation calls for the TCGA data to enable robust cross-tumor-type analyses. Our approach accounts for variance and batch effects introduced by the rapid advancement of DNA extraction, hybridization-capture, sequencing, and analysis methods over time. We present best practices for applying an ensemble of seven mutation-calling algorithms with scoring and artifact filtering. The dataset created by this analysis includes 3.5 million somatic variants and forms the basis for PanCan Atlas papers. The results have been made available to the research community along with the methods used to generate them. This project is the result of collaboration from a number of institutes and demonstrates how team science drives extremely large genomics projects.."><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:site_name" content="ellrottlab.org">
+  <meta property="og:url" content="http://ellrottlab.org/publication/mc3/">
+  <meta property="og:title" content="Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines | ellrottlab.org">
+  <meta property="og:description" content="The Cancer Genome Atlas (TCGA) cancer genomics dataset includes over 10,000 tumor-normal exome pairs across 33 different cancer types, in total &gt;400 TB of raw data files requiring analysis. Here we describe the Multi-Center Mutation Calling in Multiple Cancers project, our effort to generate a comprehensive encyclopedia of somatic mutation calls for the TCGA data to enable robust cross-tumor-type analyses. Our approach accounts for variance and batch effects introduced by the rapid advancement of DNA extraction, hybridization-capture, sequencing, and analysis methods over time. We present best practices for applying an ensemble of seven mutation-calling algorithms with scoring and artifact filtering. The dataset created by this analysis includes 3.5 million somatic variants and forms the basis for PanCan Atlas papers. The results have been made available to the research community along with the methods used to generate them. This project is the result of collaboration from a number of institutes and demonstrates how team science drives extremely large genomics projects..">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-04-01T00:00:00-07:00">
@@ -145,47 +104,16 @@
 
   
 
-  <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines | The Data Science Garage</title>
+  <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines | ellrottlab.org</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
-  <aside class="search-results" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
-        
-      </div>
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
-
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
 
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/">The Data Science Garage</a>
+      <a class="navbar-brand" href="/">ellrottlab.org</a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse"
               data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -198,17 +126,19 @@
 
       
       
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav ml-auto">
         
 
         
 
         
         
+        
+          
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#lab">
+          <a class="nav-link" href="/#hero">
             
             <span>Home</span>
             
@@ -227,26 +157,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#people">
-            
-            <span>People</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link" href="/#projects">
+          <a class="nav-link" href="/project/">
             
             <span>Projects</span>
             
@@ -265,9 +176,9 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#posts">
+          <a class="nav-link" href="/people/">
             
-            <span>Posts</span>
+            <span>People</span>
             
           </a>
         </li>
@@ -284,7 +195,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link" href="/#publications">
+          <a class="nav-link" href="/publication/">
             
             <span>Publications</span>
             
@@ -294,27 +205,27 @@
         
         
 
-      
-      </ul>
-      <ul class="navbar-nav ml-auto">
-      
-
         
 
         
+        
+        
+          
+        
+
         <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+          <a class="nav-link" href="/post/">
+            
+            <span>Posts</span>
+            
+          </a>
         </li>
-        
 
         
-
         
-        <li class="nav-item">
-          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
-        </li>
-        
+      
 
+      
       </ul>
 
     </div>
@@ -326,102 +237,48 @@
   
 
 
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-<div class="article-container pt-3">
-  <h1 itemprop="name">Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</h1>
-
-  
-
-  
-    
-
-
-<meta content="2018-04-01 00:00:00 -0700 PDT" itemprop="datePublished">
-<meta content="2018-04-01 00:00:00 -0700 PDT" itemprop="dateModified">
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">
-        <a href="/authors/kyle-ellrott/">Kyle Ellrott</a>
-      </span>
-    </span>
-    
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
+  <div class="article-container">
+    <h1 itemprop="name">Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</h1>
+    <span class="pub-authors" itemprop="author">
       
-    
-    <time>April, 2018</time>
-  </span>
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
+      Kyle Ellrott
+      
+    </span>
+    <span class="float-right">
+      
 <div class="share-box" aria-hidden="true">
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines&amp;url=%2fpublication%2fmc3%2f"
+         href="https://twitter.com/intent/tweet?text=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines&amp;url=http%3a%2f%2fellrottlab.org%2fpublication%2fmc3%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fmc3%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fellrottlab.org%2fpublication%2fmc3%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fmc3%2f&amp;title=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fellrottlab.org%2fpublication%2fmc3%2f&amp;title=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fmc3%2f&amp;title=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fellrottlab.org%2fpublication%2fmc3%2f&amp;title=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines&amp;body=%2fpublication%2fmc3%2f">
+         href="mailto:?subject=Scalable%20Open%20Science%20Approach%20for%20Mutation%20Calling%20of%20Tumor%20Exomes%20Using%20Multiple%20Genomic%20Pipelines&amp;body=http%3a%2f%2fellrottlab.org%2fpublication%2fmc3%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -429,73 +286,9 @@
 </div>
 
 
-  
-
-</div>
+    </span>
 
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-  
-    
-  
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cell.com/cell-systems/pdf/S2405-4712%2818%2930096-6.pdf" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
 
     
     <h3>Abstract</h3>
@@ -510,10 +303,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Type</div>
           <div class="col-12 col-md-9">
             
-
-            
-            
-            <a href="/publication/#2">
+            <a href="http://ellrottlab.org/publication/#2">
               Journal article
             </a>
             
@@ -539,30 +329,69 @@
     <div class="d-md-none space-below"></div>
     
 
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9" itemprop="datePublished">
+            April, 2018
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-12 col-md-9">
+
+            
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.cell.com/cell-systems/pdf/S2405-4712%2818%2930096-6.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="http://ellrottlab.org/project/mc3/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-sm-none space-below"></div>
+
     <div class="space-below"></div>
 
     <div class="article-style"></div>
 
     
-
-    
-
-
-
-
-
-
-  
-  
-    
-  
-  
-
-
-
-
-
-
 
 
   </div>
@@ -575,13 +404,12 @@
   
 
   <p class="powered-by">
-    
+    &copy; 2018 &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
 
-    
     <span class="float-right" aria-hidden="true">
       <a href="#" id="back_to_top">
         <span class="button_icon">
@@ -589,7 +417,6 @@
         </span>
       </a>
     </span>
-    
   </p>
 </footer>
 
@@ -625,8 +452,14 @@
 
     
     
-    
-    <script src="/js/mathjax-config.js"></script>
+    <script type="text/x-mathjax-config">
+      MathJax.Hub.Config({
+        CommonHTML: { linebreaks: { automatic: true } },
+        tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+        TeX: { noUndefined: { attributes: { mathcolor: 'red', mathbackground: '#FFEEEE', mathsize: '90%' } } },
+        messageStyle: 'none'
+      });
+    </script>
     
 
     
@@ -650,6 +483,9 @@
       
     
 
+    <script src="/js/hugo-academic.js"></script>
+    
+
     
     
 
@@ -668,7 +504,7 @@
       const search_index_filename = "/index.json";
       const i18n = {
         'placeholder': "Search...",
-        'results': "results found",
+        'results': "Search Results",
         'no_results': "No results found"
       };
       const content_type = {
@@ -685,41 +521,11 @@
 
     
     
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
-
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-    
 
     
     
 
     
-    
-    
-    
-    
-    
-    
-      
-    
-    
-    
-    
-    <script src="/js/academic.min.07fbebbbf71b021c8836e1d7ecffa489.js"></script>
 
   </body>
 </html>

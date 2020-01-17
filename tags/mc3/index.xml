@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mc3 on dsgarage.org</title>
+    <link>/tags/mc3/</link>
+    <description>Recent content in Mc3 on dsgarage.org</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/mc3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DREAM-SMC</title>
+      <link>/project/dream-smc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/dream-smc/</guid>
+      <description>https://www.synapse.org/DREAM_SMC
+The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge) is an international effort to improve standard methods for identifying cancer-associated mutations and rearrangements in whole-genome sequencing (WGS) data. Leaders of the International Cancer Genome Consortium (ICGC) and The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.</description>
+    </item>
+    
+    <item>
+      <title>MC3</title>
+      <link>/project/mc3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/project/mc3/</guid>
+      <description>The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis.</description>
+    </item>
+    
+  </channel>
+</rss>

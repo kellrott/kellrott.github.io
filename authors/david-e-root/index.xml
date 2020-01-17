@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David E Root on The Data Science Garage</title>
-    <link>/authors/david-e-root/</link>
-    <description>Recent content in David E Root on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/david-e-root/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>David E Root | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/david-e-root/</link>
+      <atom:link href="http://127.0.0.1/authors/david-e-root/index.xml" rel="self" type="application/rss+xml" />
+    <description>David E Root</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>David E Root</title>
+      <link>http://127.0.0.1/authors/david-e-root/</link>
+    </image>
     
     <item>
       <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
-      <link>/publication/28988802/</link>
+      <link>http://127.0.0.1/publication/28988802/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/28988802/</guid>
+      <guid>http://127.0.0.1/publication/28988802/</guid>
       <description></description>
     </item>
     

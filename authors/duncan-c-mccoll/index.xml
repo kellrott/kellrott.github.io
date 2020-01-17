@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duncan C McColl on The Data Science Garage</title>
-    <link>/authors/duncan-c-mccoll/</link>
-    <description>Recent content in Duncan C McColl on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/duncan-c-mccoll/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Duncan C McColl | Data Science Garage</title>
+    <link>http://127.0.0.1/authors/duncan-c-mccoll/</link>
+      <atom:link href="http://127.0.0.1/authors/duncan-c-mccoll/index.xml" rel="self" type="application/rss+xml" />
+    <description>Duncan C McColl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>http://127.0.0.1/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Duncan C McColl</title>
+      <link>http://127.0.0.1/authors/duncan-c-mccoll/</link>
+    </image>
     
     <item>
       <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>/publication/29092953/</link>
+      <link>http://127.0.0.1/publication/29092953/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/29092953/</guid>
+      <guid>http://127.0.0.1/publication/29092953/</guid>
       <description></description>
     </item>
     
