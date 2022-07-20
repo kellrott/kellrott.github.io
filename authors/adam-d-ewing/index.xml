@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam D Ewing | Data Science Garage</title>
-    <link>https://ellrottlab.org/authors/adam-d-ewing/</link>
-      <atom:link href="https://ellrottlab.org/authors/adam-d-ewing/index.xml" rel="self" type="application/rss+xml" />
-    <description>Adam D Ewing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
-    <image>
-      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Adam D Ewing</title>
-      <link>https://ellrottlab.org/authors/adam-d-ewing/</link>
-    </image>
+    <title>Adam D Ewing on The Data Science Garage</title>
+    <link>/authors/adam-d-ewing/</link>
+    <description>Recent content in Adam D Ewing on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/adam-d-ewing/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>https://ellrottlab.org/publication/25984700/</link>
+      <link>/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>https://ellrottlab.org/publication/25984700/</guid>
+      
+      <guid>/publication/25984700/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
-      <link>https://ellrottlab.org/publication/24675517/</link>
+      <link>/publication/24675517/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 -0700</pubDate>
-      <guid>https://ellrottlab.org/publication/24675517/</guid>
+      
+      <guid>/publication/24675517/</guid>
       <description></description>
     </item>
     

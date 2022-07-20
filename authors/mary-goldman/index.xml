@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mary Goldman | Data Science Garage</title>
-    <link>https://ellrottlab.org/authors/mary-goldman/</link>
-      <atom:link href="https://ellrottlab.org/authors/mary-goldman/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mary Goldman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
-    <image>
-      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Mary Goldman</title>
-      <link>https://ellrottlab.org/authors/mary-goldman/</link>
-    </image>
+    <title>Mary Goldman on The Data Science Garage</title>
+    <link>/authors/mary-goldman/</link>
+    <description>Recent content in Mary Goldman on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/mary-goldman/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>https://ellrottlab.org/publication/23109555/</link>
+      <link>/publication/23109555/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      
+      <guid>/publication/23109555/</guid>
       <description></description>
     </item>
     

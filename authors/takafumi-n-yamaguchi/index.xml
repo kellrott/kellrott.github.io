@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Takafumi N Yamaguchi | Data Science Garage</title>
-    <link>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</link>
-      <atom:link href="https://ellrottlab.org/authors/takafumi-n-yamaguchi/index.xml" rel="self" type="application/rss+xml" />
-    <description>Takafumi N Yamaguchi</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
-    <image>
-      <url>https://ellrottlab.org/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Takafumi N Yamaguchi</title>
-      <link>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</link>
-    </image>
+    <title>Takafumi N Yamaguchi on The Data Science Garage</title>
+    <link>/authors/takafumi-n-yamaguchi/</link>
+    <description>Recent content in Takafumi N Yamaguchi on The Data Science Garage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/takafumi-n-yamaguchi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>https://ellrottlab.org/publication/25984700/</link>
+      <link>/publication/25984700/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      <guid>https://ellrottlab.org/publication/25984700/</guid>
+      
+      <guid>/publication/25984700/</guid>
       <description></description>
     </item>
     
