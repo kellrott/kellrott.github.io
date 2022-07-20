@@ -5,12 +5,20 @@
     <link>https://ellrottlab.org/authors/adam-margolin/</link>
       <atom:link href="https://ellrottlab.org/authors/adam-margolin/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Margolin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 11:06:01 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Adam Margolin</title>
       <link>https://ellrottlab.org/authors/adam-margolin/</link>
     </image>
+    
+    <item>
+      <title>Population-level distribution and putative immunogenicity of cancer neoepitopes</title>
+      <link>https://ellrottlab.org/publication/wood-2018-population/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wood-2018-population/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>G2P Whitepaper</title>
@@ -75,6 +83,14 @@ We feel that the best way to represent large scale relational data would be thro
 We also believe that it is important to not only define the data transfer standards but the APIs to make remote interrogation of the data available.&lt;/p&gt;
 &lt;p&gt;There exists APIs for graph queries, such as SPARQL, which have been designed directly for RDF. However this system does not directly apply to the property based graphs we have proposed using. Our work with Graph Databases indicate that Gremlin may be more in line with the idea of a property graph based system. In addition, gremlin has already been shown to be easily convertable to a Map-Reduce based architecture (&lt;a href=&#34;http://thinkaurelius.github.io/faunus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thinkaurelius.github.io/faunus/&lt;/a&gt; &lt;a href=&#34;https://github.com/kellrott/sparkgraph%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/kellrott/sparkgraph)&lt;/a&gt;, so it will be easier to scale to extremely large datasets.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Combining accurate tumour genome simulation with crowd-sourcing to benchmark somatic variant detection</title>
+      <link>https://ellrottlab.org/publication/stuart-2015-combining/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/stuart-2015-combining/</guid>
+      <description></description>
     </item>
     
   </channel>

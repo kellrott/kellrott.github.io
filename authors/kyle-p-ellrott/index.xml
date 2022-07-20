@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle P Ellrott | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/kyle-p-ellrott/</link>
+      <atom:link href="https://ellrottlab.org/authors/kyle-p-ellrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle P Ellrott</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Kyle P Ellrott</title>
+      <link>https://ellrottlab.org/authors/kyle-p-ellrott/</link>
+    </image>
+    
+    <item>
+      <title>Protein Threading for Genome-Scale Structural Analysis</title>
+      <link>https://ellrottlab.org/publication/ellrott-2007-protein/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2007-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restriction enzyme recognition sequence search program</title>
+      <link>https://ellrottlab.org/publication/ellrott-2002-restriction/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2002-restriction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

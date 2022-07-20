@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/cyriac-kandoth/</link>
       <atom:link href="https://ellrottlab.org/authors/cyriac-kandoth/index.xml" rel="self" type="application/rss+xml" />
     <description>Cyriac Kandoth</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Cyriac Kandoth</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>https://ellrottlab.org/publication/24071850/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/24071850/</guid>
+      <title>Multi-center mutation calling in multiple cancers: the MC3 project</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-multi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-multi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable open science approach for mutation calling of tumor exomes using multiple genomic pipelines</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas</title>
+      <link>https://ellrottlab.org/publication/omberg-2013-enabling/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/omberg-2013-enabling/</guid>
       <description></description>
     </item>
     

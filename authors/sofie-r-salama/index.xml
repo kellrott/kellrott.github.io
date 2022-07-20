@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/sofie-r-salama/</link>
       <atom:link href="https://ellrottlab.org/authors/sofie-r-salama/index.xml" rel="self" type="application/rss+xml" />
     <description>Sofie R Salama</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Sofie R Salama</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>https://ellrottlab.org/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/29092953/</guid>
+      <title>TumorMap: exploring the molecular similarities of cancer samples in an interactive portal</title>
+      <link>https://ellrottlab.org/publication/newton-2017-tumormap/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/newton-2017-tumormap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://ellrottlab.org/publication/brennan-2013-somatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/brennan-2013-somatic/</guid>
       <description></description>
     </item>
     

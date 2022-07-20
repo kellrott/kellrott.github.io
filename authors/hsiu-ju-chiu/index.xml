@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hsiu-Ju Chiu | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/hsiu-ju-chiu/</link>
+      <atom:link href="https://ellrottlab.org/authors/hsiu-ju-chiu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hsiu-Ju Chiu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Hsiu-Ju Chiu</title>
+      <link>https://ellrottlab.org/authors/hsiu-ju-chiu/</link>
+    </image>
+    
+    <item>
+      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
+      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the c-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-c-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/astakhova-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/astakhova-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crystal structure of a bacterial Sufu-like protein defines a novel group of bacterial proteins that are similar to the N-terminal domain of human Sufu</title>
+      <link>https://ellrottlab.org/publication/das-2010-crystal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-crystal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

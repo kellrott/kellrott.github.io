@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Bakolitsa | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/c-bakolitsa/</link>
+      <atom:link href="https://ellrottlab.org/authors/c-bakolitsa/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Bakolitsa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>C Bakolitsa</title>
+      <link>https://ellrottlab.org/authors/c-bakolitsa/</link>
+    </image>
+    
+    <item>
+      <title>Structure of the gamma D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala--D-Glu: Insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/xu-2013-structure/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2013-structure/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/david-haussler/</link>
       <atom:link href="https://ellrottlab.org/authors/david-haussler/index.xml" rel="self" type="application/rss+xml" />
     <description>David Haussler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>David Haussler</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>https://ellrottlab.org/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/29092953/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>https://ellrottlab.org/publication/25984700/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/25984700/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>https://ellrottlab.org/publication/23109555/</link>
+      <title>The UCSC cancer genomics browser: update 2013</title>
+      <link>https://ellrottlab.org/publication/goldman-2013-ucsc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/goldman-2013-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCSC Cancer Genomics Browser 2.0</title>
+      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract A39: The UCSC Cancer Genomics Browser</title>
+      <link>https://ellrottlab.org/publication/craft-2011-abstract/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/craft-2011-abstract/</guid>
       <description></description>
     </item>
     

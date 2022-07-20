@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/singer-ma/</link>
       <atom:link href="https://ellrottlab.org/authors/singer-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Singer Ma</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Singer Ma</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
-      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>https://ellrottlab.org/publication/23109555/</link>
+      <title>Scalable open science approach for mutation calling of tumor exomes using multiple genomic pipelines</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The UCSC cancer genomics browser: update 2013</title>
+      <link>https://ellrottlab.org/publication/goldman-2013-ucsc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/goldman-2013-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCSC Cancer Genomics Browser 2.0</title>
+      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract A39: The UCSC Cancer Genomics Browser</title>
+      <link>https://ellrottlab.org/publication/craft-2011-abstract/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/craft-2011-abstract/</guid>
       <description></description>
     </item>
     

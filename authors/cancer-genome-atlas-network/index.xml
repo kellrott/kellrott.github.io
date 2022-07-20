@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer Genome Atlas Network | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/cancer-genome-atlas-network/</link>
+      <atom:link href="https://ellrottlab.org/authors/cancer-genome-atlas-network/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer Genome Atlas Network</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Cancer Genome Atlas Network</title>
+      <link>https://ellrottlab.org/authors/cancer-genome-atlas-network/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive molecular characterization of human colon and rectal cancer</title>
+      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

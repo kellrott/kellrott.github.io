@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingping Xu | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/qingping-xu/</link>
+      <atom:link href="https://ellrottlab.org/authors/qingping-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingping Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Qingping Xu</title>
+      <link>https://ellrottlab.org/authors/qingping-xu/</link>
+    </image>
+    
+    <item>
+      <title>A conserved fold for fimbrial components revealed by the crystal structure of a putative fimbrial assembly protein (BT1062) from Bacteroides thetaiotaomicron at 2.2 Å resolution</title>
+      <link>https://ellrottlab.org/publication/xu-2010-conserved/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-conserved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
+      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of a membrane-attack complex/perforin (MACPF) family protein from the human gut symbiont Bacteroides thetaiotaomicron</title>
+      <link>https://ellrottlab.org/publication/xu-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of BT_3984, a member of the SusD/RagB family of nutrient-binding molecules</title>
+      <link>https://ellrottlab.org/publication/bakolitsa-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bakolitsa-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the $γ$-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-$γ$-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and functional characterizations of SsgB, a conserved activator of developmental cell division in morphologically complex actinomycetes</title>
+      <link>https://ellrottlab.org/publication/xu-2009-structural/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2009-structural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Szeto | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/christopher-szeto/</link>
+      <atom:link href="https://ellrottlab.org/authors/christopher-szeto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Szeto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher Szeto</title>
+      <link>https://ellrottlab.org/authors/christopher-szeto/</link>
+    </image>
+    
+    <item>
+      <title>UCSC Cancer Genomics Browser 2.0</title>
+      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract A39: The UCSC Cancer Genomics Browser</title>
+      <link>https://ellrottlab.org/publication/craft-2011-abstract/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/craft-2011-abstract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

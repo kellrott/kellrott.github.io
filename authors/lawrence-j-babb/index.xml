@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lawrence J Babb | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/lawrence-j-babb/</link>
+      <atom:link href="https://ellrottlab.org/authors/lawrence-j-babb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lawrence J Babb</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Lawrence J Babb</title>
+      <link>https://ellrottlab.org/authors/lawrence-j-babb/</link>
+    </image>
+    
+    <item>
+      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
+      <link>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

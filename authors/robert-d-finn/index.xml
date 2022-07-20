@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert D Finn | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/robert-d-finn/</link>
+      <atom:link href="https://ellrottlab.org/authors/robert-d-finn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert D Finn</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Robert D Finn</title>
+      <link>https://ellrottlab.org/authors/robert-d-finn/</link>
+    </image>
+    
+    <item>
+      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
+      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crystal structure of a bacterial Sufu-like protein defines a novel group of bacterial proteins that are similar to the N-terminal domain of human Sufu</title>
+      <link>https://ellrottlab.org/publication/das-2010-crystal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-crystal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of BVU2987 from Bacteroides vulgatus reveals a superfamily of bacterial periplasmic proteins with possible inhibitory function</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/adam-godzik/</link>
       <atom:link href="https://ellrottlab.org/authors/adam-godzik/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam Godzik</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Adam Godzik</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>TOPSAN: a dynamic web database for structural genomics.</title>
-      <link>https://ellrottlab.org/publication/20961957/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/20961957/</guid>
+      <title>Expansion of the protein repertoire in newly explored environments: human gut microbiome specific protein families</title>
+      <link>https://ellrottlab.org/publication/ellrott-2010-expansion/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2010-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOPSAN: a dynamic web database for structural genomics</title>
+      <link>https://ellrottlab.org/publication/ellrott-2010-topsan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2010-topsan/</guid>
       <description></description>
     </item>
     

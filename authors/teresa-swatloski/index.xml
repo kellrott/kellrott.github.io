@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/authors/teresa-swatloski/</link>
       <atom:link href="https://ellrottlab.org/authors/teresa-swatloski/index.xml" rel="self" type="application/rss+xml" />
     <description>Teresa Swatloski</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Teresa Swatloski</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>https://ellrottlab.org/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/29092953/</guid>
+      <title>TumorMap: exploring the molecular similarities of cancer samples in an interactive portal</title>
+      <link>https://ellrottlab.org/publication/newton-2017-tumormap/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/newton-2017-tumormap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>https://ellrottlab.org/publication/23109555/</link>
+      <title>The UCSC cancer genomics browser: update 2013</title>
+      <link>https://ellrottlab.org/publication/goldman-2013-ucsc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/goldman-2013-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCSC Cancer Genomics Browser 2.0</title>
+      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
       <description></description>
     </item>
     

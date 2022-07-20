@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junjun Zhang | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/junjun-zhang/</link>
+      <atom:link href="https://ellrottlab.org/authors/junjun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junjun Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Junjun Zhang</title>
+      <link>https://ellrottlab.org/authors/junjun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Large-scale uniform analysis of cancer whole genomes in multiple computing environments</title>
+      <link>https://ellrottlab.org/publication/yung-2017-large/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/yung-2017-large/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

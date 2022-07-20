@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dorota H Sendorek | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/dorota-h-sendorek/</link>
+      <atom:link href="https://ellrottlab.org/authors/dorota-h-sendorek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dorota H Sendorek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Dorota H Sendorek</title>
+      <link>https://ellrottlab.org/authors/dorota-h-sendorek/</link>
+    </image>
+    
+    <item>
+      <title>Germline contamination and leakage in whole genome somatic single nucleotide variant detection</title>
+      <link>https://ellrottlab.org/publication/sendorek-2018-germline/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sendorek-2018-germline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valection: design optimization for validation and verification studies</title>
+      <link>https://ellrottlab.org/publication/cooper-2018-valection/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cooper-2018-valection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

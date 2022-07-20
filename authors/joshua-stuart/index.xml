@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joshua Stuart | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/joshua-stuart/</link>
+      <atom:link href="https://ellrottlab.org/authors/joshua-stuart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joshua Stuart</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Joshua Stuart</title>
+      <link>https://ellrottlab.org/authors/joshua-stuart/</link>
+    </image>
+    
+    <item>
+      <title>Abstract B1-37: A signature catalog to classify tumor mixtures: application to recognition of metastatic disease in prostate cancer</title>
+      <link>https://ellrottlab.org/publication/graim-2015-abstract/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/graim-2015-abstract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

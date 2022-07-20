@@ -5,7 +5,7 @@
     <link>https://ellrottlab.org/publication/</link>
       <atom:link href="https://ellrottlab.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,98 +13,570 @@
     </image>
     
     <item>
+      <title>Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space</title>
+      <link>https://ellrottlab.org/publication/schatz-2022-inverting/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/schatz-2022-inverting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recountmethylation enables flexible analysis of public blood DNA methylation array data</title>
+      <link>https://ellrottlab.org/publication/maden-2022-recountmethylation/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/maden-2022-recountmethylation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A community challenge to evaluate RNA-seq, fusion detection, and isoform quantification methods for cancer discovery</title>
+      <link>https://ellrottlab.org/publication/creason-2021-community/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/creason-2021-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
+      <link>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A community effort to create standards for evaluating tumor subclonal reconstruction</title>
+      <link>https://ellrottlab.org/publication/salcedo-2020-community/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/salcedo-2020-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer</title>
+      <link>https://ellrottlab.org/publication/wagner-2020-harmonized/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wagner-2020-harmonized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butler enables rapid cloud-based analysis of thousands of human genomes</title>
+      <link>https://ellrottlab.org/publication/yakneen-2020-butler/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/yakneen-2020-butler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring integrative analysis using the BioMedical evidence graph</title>
+      <link>https://ellrottlab.org/publication/struck-2020-exploring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/struck-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoepiscope improves neoepitope prediction with multivariant phasing</title>
+      <link>https://ellrottlab.org/publication/wood-2020-neoepiscope/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wood-2020-neoepiscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer analysis of whole genomes.</title>
+      <link>https://ellrottlab.org/publication/hirano-2020-pan/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/hirano-2020-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
+      <link>https://ellrottlab.org/publication/bailey-2020-retrospective/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bailey-2020-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex differences in oncogenic mutational processes</title>
+      <link>https://ellrottlab.org/publication/prokopec-2020-sex/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/prokopec-2020-sex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating standards for evaluating tumour subclonal reconstruction</title>
+      <link>https://ellrottlab.org/publication/salcedo-2019-creating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/salcedo-2019-creating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
-      <link>https://ellrottlab.org/publication/31506093/</link>
-      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/31506093/</guid>
+      <link>https://ellrottlab.org/publication/ellrott-2019-reproducible/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2019-reproducible/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neoepiscope improves neoepitope prediction with multi-variant phasing</title>
-      <link>https://ellrottlab.org/publication/31424527/</link>
-      <pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/31424527/</guid>
+      <title>A pan-cancer analysis reveals high-frequency genetic alterations in mediators of signaling by the TGF-$β$ superfamily</title>
+      <link>https://ellrottlab.org/publication/korkut-2018-pan/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/korkut-2018-pan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection.</title>
-      <link>https://ellrottlab.org/publication/30400818/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/30400818/</guid>
+      <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection</title>
+      <link>https://ellrottlab.org/publication/lee-2018-combining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/lee-2018-combining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
-      <link>https://ellrottlab.org/publication/29596782/</link>
-      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/29596782/</guid>
+      <title>Germline contamination and leakage in whole genome somatic single nucleotide variant detection</title>
+      <link>https://ellrottlab.org/publication/sendorek-2018-germline/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sendorek-2018-germline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines.</title>
-      <link>https://ellrottlab.org/publication/28988802/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/28988802/</guid>
+      <title>Multi-center mutation calling in multiple cancers: the MC3 project</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-multi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-multi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>https://ellrottlab.org/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/29092953/</guid>
+      <title>Population-level distribution and putative immunogenicity of cancer neoepitopes</title>
+      <link>https://ellrottlab.org/publication/wood-2018-population/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wood-2018-population/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>https://ellrottlab.org/publication/25984700/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/25984700/</guid>
+      <title>Scalable open science approach for mutation calling of tumor exomes using multiple genomic pipelines</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge.</title>
-      <link>https://ellrottlab.org/publication/24675517/</link>
-      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/24675517/</guid>
+      <title>SMMART: Serial measurements of molecular and architectural responses to therapy</title>
+      <link>https://ellrottlab.org/publication/johnson-2018-smmart/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/johnson-2018-smmart/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas.</title>
-      <link>https://ellrottlab.org/publication/24071850/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/24071850/</guid>
+      <title>TBIO-27. GABRIELLA MILLER KIDS FIRST DATA RESOURCE CENTER ADVANCING GENETIC RESEARCH IN CHILDHOOD CANCER AND STRUCTURAL BIRTH DEFECTS THROUGH LARGE SCALE INTEGRATED DATA-DRIVEN DISCOVERY AND CLOUD-BASED PLATFORMS FOR COLLABORATIVE ANALYSIS</title>
+      <link>https://ellrottlab.org/publication/heath-2018-tbio/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/heath-2018-tbio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Cancer Genome Atlas Pan-Cancer analysis project.</title>
-      <link>https://ellrottlab.org/publication/24071849/</link>
-      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/24071849/</guid>
+      <title>Valection: design optimization for validation and verification studies</title>
+      <link>https://ellrottlab.org/publication/cooper-2018-valection/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cooper-2018-valection/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>https://ellrottlab.org/publication/23109555/</link>
+      <title>A community challenge for inferring genetic predictors of gene essentialities through analysis of a functional screen of cancer cell lines</title>
+      <link>https://ellrottlab.org/publication/gonen-2017-community/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/gonen-2017-community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale uniform analysis of cancer whole genomes in multiple computing environments</title>
+      <link>https://ellrottlab.org/publication/yung-2017-large/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/yung-2017-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prophetic Granger Causality to infer gene regulatory networks</title>
+      <link>https://ellrottlab.org/publication/carlin-2017-prophetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/carlin-2017-prophetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TumorMap: exploring the molecular similarities of cancer samples in an interactive portal</title>
+      <link>https://ellrottlab.org/publication/newton-2017-tumormap/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/newton-2017-tumormap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract B1-37: A signature catalog to classify tumor mixtures: application to recognition of metastatic disease in prostate cancer</title>
+      <link>https://ellrottlab.org/publication/graim-2015-abstract/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/graim-2015-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract PR02: Multiple Pathway Learning accurately predicts gene essentiality in the Cancer Cell Line Encyclopedia</title>
+      <link>https://ellrottlab.org/publication/uzunangelov-2015-abstract/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/uzunangelov-2015-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining accurate tumour genome simulation with crowd-sourcing to benchmark somatic variant detection</title>
+      <link>https://ellrottlab.org/publication/stuart-2015-combining/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/stuart-2015-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection</title>
+      <link>https://ellrottlab.org/publication/ewing-2015-combining/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ewing-2015-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge</title>
+      <link>https://ellrottlab.org/publication/boutros-2014-global/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/boutros-2014-global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive molecular characterization of clear cell renal cell carcinoma</title>
+      <link>https://ellrottlab.org/publication/cancer-2013-comprehensiverenal/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/23109555/</guid>
+      <guid>https://ellrottlab.org/publication/cancer-2013-comprehensiverenal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TOPSAN: a dynamic web database for structural genomics.</title>
-      <link>https://ellrottlab.org/publication/20961957/</link>
+      <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas</title>
+      <link>https://ellrottlab.org/publication/omberg-2013-enabling/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/omberg-2013-enabling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the gamma D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala--D-Glu: Insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/xu-2013-structure/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2013-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cancer genome atlas pan-cancer analysis project</title>
+      <link>https://ellrottlab.org/publication/weinstein-2013-cancer/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/weinstein-2013-cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The somatic genomic landscape of glioblastoma</title>
+      <link>https://ellrottlab.org/publication/brennan-2013-somatic/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/brennan-2013-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The UCSC cancer genomics browser: update 2013</title>
+      <link>https://ellrottlab.org/publication/goldman-2013-ucsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/goldman-2013-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weinstein JN</title>
+      <link>https://ellrottlab.org/publication/cancer-2013-weinstein/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cancer-2013-weinstein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive genomic characterization of squamous cell lung cancers</title>
+      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivelung/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivelung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive molecular characterization of human colon and rectal cancer</title>
+      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive molecular portraits of human breast tumours</title>
+      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivebreast/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivebreast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the impact of mutations in cancer using an integrated pathway approach</title>
+      <link>https://ellrottlab.org/publication/ng-2012-predicting/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ng-2012-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCSC Cancer Genomics Browser 2.0</title>
+      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract A39: The UCSC Cancer Genomics Browser</title>
+      <link>https://ellrottlab.org/publication/craft-2011-abstract/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/20961957/</guid>
+      <guid>https://ellrottlab.org/publication/craft-2011-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conserved fold for fimbrial components revealed by the crystal structure of a putative fimbrial assembly protein (BT1062) from Bacteroides thetaiotaomicron at 2.2 Å resolution</title>
+      <link>https://ellrottlab.org/publication/xu-2010-conserved/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-conserved/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
+      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expansion of the protein repertoire in newly explored environments: human gut microbiome specific protein families</title>
+      <link>https://ellrottlab.org/publication/ellrott-2010-expansion/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2010-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of a membrane-attack complex/perforin (MACPF) family protein from the human gut symbiont Bacteroides thetaiotaomicron</title>
+      <link>https://ellrottlab.org/publication/xu-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of Bacteroides thetaiotaomicron BT2081 at 2.05 Å resolution: the first structural representative of a new protein family that may play a role in carbohydrate metabolism</title>
+      <link>https://ellrottlab.org/publication/yeh-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/yeh-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of BT_3984, a member of the SusD/RagB family of nutrient-binding molecules</title>
+      <link>https://ellrottlab.org/publication/bakolitsa-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bakolitsa-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the $γ$-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-$γ$-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure of the c-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-c-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/astakhova-2010-structure/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/astakhova-2010-structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structures of the first representatives of Pfam family PF06684 (DUF1185) reveal a novel variant of the Bacillus chorismate mutase fold and suggest a role in amino-acid metabolism</title>
+      <link>https://ellrottlab.org/publication/bakolitsa-2010-structures/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bakolitsa-2010-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structures of three members of Pfam PF02663 (FmdE) implicated in microbial methanogenesis reveal a conserved $α$&#43; $β$ core domain and an auxiliary C-terminal treble-clef zinc finger</title>
+      <link>https://ellrottlab.org/publication/axelrod-2010-structures/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/axelrod-2010-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The crystal structure of a bacterial Sufu-like protein defines a novel group of bacterial proteins that are similar to the N-terminal domain of human Sufu</title>
+      <link>https://ellrottlab.org/publication/das-2010-crystal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-crystal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of BVU2987 from Bacteroides vulgatus reveals a superfamily of bacterial periplasmic proteins with possible inhibitory function</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of KPN03535 (gi| 152972051), a novel putative lipoprotein from Klebsiella pneumoniae, reveals an OB-fold</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-kpn-03535/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-kpn-03535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the first representative of Pfam family PF09836 reveals a two-domain organization and suggests involvement in transcriptional regulation</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-pf-09836/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-pf-09836/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOPSAN: a dynamic web database for structural genomics</title>
+      <link>https://ellrottlab.org/publication/ellrott-2010-topsan/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2010-topsan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and functional characterizations of SsgB, a conserved activator of developmental cell division in morphologically complex actinomycetes</title>
+      <link>https://ellrottlab.org/publication/xu-2009-structural/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2009-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A historical perspective of template-based protein structure prediction</title>
+      <link>https://ellrottlab.org/publication/guo-2008-historical/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/guo-2008-historical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the performance of protein threading using insertion/deletion frequency arrays</title>
+      <link>https://ellrottlab.org/publication/ellrott-2008-improving/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2008-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvement in protein sequence-structure alignment using insertion/deletion frequency arrays</title>
+      <link>https://ellrottlab.org/publication/ellrott-2007-improvement/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2007-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein Threading for Genome-Scale Structural Analysis</title>
+      <link>https://ellrottlab.org/publication/ellrott-2007-protein/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2007-protein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generalized Threading Model Using Integer Programming that Allows for Secondary Structure Element Deletion</title>
+      <link>https://ellrottlab.org/publication/ellrott-2006-generalized/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2006-generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROSPECT-PSPP: an automatic computational pipeline for protein structure prediction</title>
+      <link>https://ellrottlab.org/publication/guo-2004-prospect/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/guo-2004-prospect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational pipeline for protein structure prediction and analysis at genome scale</title>
+      <link>https://ellrottlab.org/publication/shah-2003-computational/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/shah-2003-computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PROSPECT II: protein structure prediction program for genome-scale applications</title>
+      <link>https://ellrottlab.org/publication/kim-2003-prospect/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/kim-2003-prospect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying transcription factor binding sites through Markov chain optimization</title>
+      <link>https://ellrottlab.org/publication/ellrott-2002-identifying/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2002-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restriction enzyme recognition sequence search program</title>
+      <link>https://ellrottlab.org/publication/ellrott-2002-restriction/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2002-restriction/</guid>
       <description></description>
     </item>
     

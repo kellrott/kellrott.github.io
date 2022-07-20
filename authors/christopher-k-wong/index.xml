@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher K Wong | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/christopher-k-wong/</link>
+      <atom:link href="https://ellrottlab.org/authors/christopher-k-wong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher K Wong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Christopher K Wong</title>
+      <link>https://ellrottlab.org/authors/christopher-k-wong/</link>
+    </image>
+    
+    <item>
+      <title>Prophetic Granger Causality to infer gene regulatory networks</title>
+      <link>https://ellrottlab.org/publication/carlin-2017-prophetic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/carlin-2017-prophetic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
