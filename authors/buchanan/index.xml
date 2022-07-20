@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Buchanan | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/buchanan/</link>
+      <atom:link href="https://ellrottlab.org/authors/buchanan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex Buchanan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Aug 2018 09:56:25 -0700</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/authors/buchanan/avatar_hua427760b5514733c2f086b3fc1220ad3_136523_270x270_fill_lanczos_center_3.png</url>
+      <title>Alex Buchanan</title>
+      <link>https://ellrottlab.org/authors/buchanan/</link>
+    </image>
+    
+  </channel>
+</rss>

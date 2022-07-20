@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Ellrott | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/kellrott/</link>
+      <atom:link href="https://ellrottlab.org/authors/kellrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Ellrott</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ellrottlab.org/authors/kellrott/avatar_hu3356fd124ea596d5bbd2861f685d4626_337733_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kyle Ellrott</title>
+      <link>https://ellrottlab.org/authors/kellrott/</link>
+    </image>
+    
+  </channel>
+</rss>

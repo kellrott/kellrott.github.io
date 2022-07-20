@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Constantina Bakolitsa on The Data Science Garage</title>
-    <link>/authors/constantina-bakolitsa/</link>
-    <description>Recent content in Constantina Bakolitsa on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="/authors/constantina-bakolitsa/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Constantina Bakolitsa | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/constantina-bakolitsa/</link>
+      <atom:link href="https://ellrottlab.org/authors/constantina-bakolitsa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Constantina Bakolitsa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Constantina Bakolitsa</title>
+      <link>https://ellrottlab.org/authors/constantina-bakolitsa/</link>
+    </image>
     
     <item>
       <title>TOPSAN: a dynamic web database for structural genomics.</title>
-      <link>/publication/20961957/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/20961957/</guid>
+      <link>https://ellrottlab.org/publication/20961957/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/20961957/</guid>
       <description></description>
     </item>
     

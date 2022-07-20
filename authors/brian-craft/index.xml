@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brian Craft on The Data Science Garage</title>
-    <link>/authors/brian-craft/</link>
-    <description>Recent content in Brian Craft on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="/authors/brian-craft/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Brian Craft | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/brian-craft/</link>
+      <atom:link href="https://ellrottlab.org/authors/brian-craft/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Craft</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Brian Craft</title>
+      <link>https://ellrottlab.org/authors/brian-craft/</link>
+    </image>
     
     <item>
       <title>The UCSC Cancer Genomics Browser: update 2013.</title>
-      <link>/publication/23109555/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/23109555/</guid>
+      <link>https://ellrottlab.org/publication/23109555/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/23109555/</guid>
       <description></description>
     </item>
     

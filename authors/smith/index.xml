@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malisa Smith | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/smith/</link>
+      <atom:link href="https://ellrottlab.org/authors/smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Malisa Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Aug 2018 08:43:02 -0700</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/authors/smith/avatar_hua1c842deeb9b5506a68552ac86746831_19258_270x270_fill_lanczos_center_3.png</url>
+      <title>Malisa Smith</title>
+      <link>https://ellrottlab.org/authors/smith/</link>
+    </image>
+    
+  </channel>
+</rss>

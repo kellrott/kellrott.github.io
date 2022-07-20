@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Walsh | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/walsh/</link>
+      <atom:link href="https://ellrottlab.org/authors/walsh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Walsh</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jan 2019 16:44:24 -0800</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/authors/walsh/avatar_hu12be991d80a3ea1cbd6b53e845c59f5a_126607_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Brian Walsh</title>
+      <link>https://ellrottlab.org/authors/walsh/</link>
+    </image>
+    
+  </channel>
+</rss>

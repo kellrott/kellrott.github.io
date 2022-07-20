@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robert Baertsch on The Data Science Garage</title>
-    <link>/authors/robert-baertsch/</link>
-    <description>Recent content in Robert Baertsch on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Nov 2017 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/robert-baertsch/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Robert Baertsch | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/robert-baertsch/</link>
+      <atom:link href="https://ellrottlab.org/authors/robert-baertsch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert Baertsch</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Robert Baertsch</title>
+      <link>https://ellrottlab.org/authors/robert-baertsch/</link>
+    </image>
     
     <item>
       <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal.</title>
-      <link>/publication/29092953/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/29092953/</guid>
+      <link>https://ellrottlab.org/publication/29092953/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/29092953/</guid>
       <description></description>
     </item>
     

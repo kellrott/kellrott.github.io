@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Veronica Y Sabelnykova on The Data Science Garage</title>
-    <link>/authors/veronica-y-sabelnykova/</link>
-    <description>Recent content in Veronica Y Sabelnykova on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="/authors/veronica-y-sabelnykova/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Veronica Y Sabelnykova | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/veronica-y-sabelnykova/</link>
+      <atom:link href="https://ellrottlab.org/authors/veronica-y-sabelnykova/index.xml" rel="self" type="application/rss+xml" />
+    <description>Veronica Y Sabelnykova</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Veronica Y Sabelnykova</title>
+      <link>https://ellrottlab.org/authors/veronica-y-sabelnykova/</link>
+    </image>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection.</title>
-      <link>/publication/25984700/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/25984700/</guid>
+      <link>https://ellrottlab.org/publication/25984700/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/25984700/</guid>
       <description></description>
     </item>
     

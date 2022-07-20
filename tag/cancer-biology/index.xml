@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cancer Biology | Data Science Garage</title>
+    <link>https://ellrottlab.org/tag/cancer-biology/</link>
+      <atom:link href="https://ellrottlab.org/tag/cancer-biology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cancer Biology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Cancer Biology</title>
+      <link>https://ellrottlab.org/tag/cancer-biology/</link>
+    </image>
+    
+    <item>
+      <title>GDAN</title>
+      <link>https://ellrottlab.org/project/gdan/</link>
+      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
+      <guid>https://ellrottlab.org/project/gdan/</guid>
+      <description>&lt;p&gt;The NCI&amp;rsquo;s &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/blog/2016/new-genomic-data-analysis-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Analysis Network (GDAN)&lt;/a&gt; was launched
+in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; in the analysis of large cancer cohorts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MC3</title>
+      <link>https://ellrottlab.org/project/mc3/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/project/mc3/</guid>
+      <description>&lt;p&gt;The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis. We recognize the advantage to doing a uniform analysis where all the TCGA exome data was called on a standardized set of mutation callers. Further, we recognize the value of “containerizing” the procedures used, so that the methods are transparent and reproducible and sharable with the community. As detailed on this wikipage, the TCGA MC3dataset represents a uniform set of mutation calls. The BAM files used underwent a standardized local re-alignment to hg19 (Genome Reference Consortium GRCh37), six calling algorithms were applied, and a number of automated filters were applied. We strongly recommend that users review the information provided on caveats, data processing, filters, best practices, and acknowledgements before using this file.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

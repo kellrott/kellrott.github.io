@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordan Lee | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/lee-jordan/</link>
+      <atom:link href="https://ellrottlab.org/authors/lee-jordan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jordan Lee</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ellrottlab.org/authors/lee-jordan/avatar_hua441de412055e20d072f031c588e0139_319737_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jordan Lee</title>
+      <link>https://ellrottlab.org/authors/lee-jordan/</link>
+    </image>
+    
+  </channel>
+</rss>

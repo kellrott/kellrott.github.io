@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allison Creason | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/creason/</link>
+      <atom:link href="https://ellrottlab.org/authors/creason/index.xml" rel="self" type="application/rss+xml" />
+    <description>Allison Creason</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Aug 2018 09:57:24 -0700</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/authors/creason/avatar_huff94851d9cad822c7588dd04045f3554_143972_270x270_fill_lanczos_center_3.png</url>
+      <title>Allison Creason</title>
+      <link>https://ellrottlab.org/authors/creason/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brian Karlberg | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/karlberg/</link>
+      <atom:link href="https://ellrottlab.org/authors/karlberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brian Karlberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ellrottlab.org/authors/karlberg/avatar_hua437699094eb39b55a3f1a84dd76a9a7_253663_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Brian Karlberg</title>
+      <link>https://ellrottlab.org/authors/karlberg/</link>
+    </image>
+    
+  </channel>
+</rss>

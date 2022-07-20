@@ -1,105 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Data Science Garage</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on The Data Science Garage</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
-      
-      <guid>/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>/tags/api/</link>
-      <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
-      
-      <guid>/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alumni</title>
-      <link>/tags/alumni/</link>
-      <pubDate>Wed, 22 Aug 2018 08:43:02 -0700</pubDate>
-      
-      <guid>/tags/alumni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cancer Biology</title>
-      <link>/tags/cancer-biology/</link>
-      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
-      
-      <guid>/tags/cancer-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Systems</title>
-      <link>/tags/data-systems/</link>
-      <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
-      
-      <guid>/tags/data-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Sat, 25 Aug 2018 11:09:22 -0800</pubDate>
-      
-      <guid>/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dream Challenge</title>
-      <link>/tags/dream-challenge/</link>
-      <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
-      
-      <guid>/tags/dream-challenge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>G2P</title>
-      <link>/tags/g2p/</link>
-      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      
-      <guid>/tags/g2p/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GA4GH</title>
-      <link>/tags/ga4gh/</link>
-      <pubDate>Sun, 01 Jan 2017 11:06:01 -0800</pubDate>
-      
-      <guid>/tags/ga4gh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staff</title>
-      <link>/tags/staff/</link>
-      <pubDate>Fri, 25 Jan 2019 16:44:24 -0800</pubDate>
-      
-      <guid>/tags/staff/</guid>
-      <description></description>
-    </item>
+    <title>Tags | Data Science Garage</title>
+    <link>https://ellrottlab.org/tags/</link>
+      <atom:link href="https://ellrottlab.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Tags</title>
+      <link>https://ellrottlab.org/tags/</link>
+    </image>
     
   </channel>
 </rss>

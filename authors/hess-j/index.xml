@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hess J | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/hess-j/</link>
+      <atom:link href="https://ellrottlab.org/authors/hess-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hess J</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Hess J</title>
+      <link>https://ellrottlab.org/authors/hess-j/</link>
+    </image>
+    
+    <item>
+      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
+      <link>https://ellrottlab.org/publication/29596782/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/29596782/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

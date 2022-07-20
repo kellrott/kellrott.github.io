@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hoff B | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/hoff-b/</link>
+      <atom:link href="https://ellrottlab.org/authors/hoff-b/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hoff B</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Hoff B</title>
+      <link>https://ellrottlab.org/authors/hoff-b/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
+      <link>https://ellrottlab.org/publication/31506093/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/31506093/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
