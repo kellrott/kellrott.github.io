@@ -4,6 +4,18 @@
   
   
   <url>
+    <loc>https://ellrottlab.org/authors/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/post/bridge2ai/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/tag/development/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kyle-ellrott/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/tags/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ellrottlab.org/authors/others/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/publication-type/2/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
@@ -14,11 +26,7 @@
   <url>
     <loc>https://ellrottlab.org/authors/anthony-a-philippakis/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ellrottlab.org/authors/brian-walsh/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/enis-afgan/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -29,8 +37,6 @@
     <loc>https://ellrottlab.org/authors/jeremy-goecks/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/kasper-d-hansen/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/kyle-ellrott/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/michael-c-schatz/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -240,8 +246,6 @@
   <url>
     <loc>https://ellrottlab.org/project/</loc><lastmod>2019-01-27T10:34:25-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/tags/</loc><lastmod>2019-01-27T10:34:25-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ellrottlab.org/project/anvil/</loc><lastmod>2019-01-27T10:27:20-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/tag/data-systems/</loc><lastmod>2019-01-27T10:27:20-08:00</lastmod><changefreq>weekly</changefreq></url>
@@ -265,8 +269,6 @@
     <loc>https://ellrottlab.org/post/anvil/</loc><lastmod>2018-11-25T15:12:50-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/network-failures/</loc><lastmod>2018-08-25T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/development/</loc><lastmod>2018-08-25T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/tag/api/</loc><lastmod>2018-08-22T09:02:16-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -644,7 +646,7 @@
   <url>
     <loc>https://ellrottlab.org/authors/memorial-sloan-kettering-cancer-center-reuter-victor-11-hsieh-james-j.-12-rose-brannon-a.-11-ari-hakimi-a.-12-jacobsen-anders-13-ciriello-giovanni-13-reva-boris-13/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/national-cancer-institute-ricketts-christopher-j.-14-marston-linehan-w.-agibbs-bcm.-edu-14-c/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/national-cancer-institute-ricketts-christopher-j.-14-marston-linehan-w.-agibbs@-bcm.-edu-14-c/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/p-abdubek/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -894,4 +896,8 @@
   <url>
     <loc>https://ellrottlab.org/authors/lee-jordan/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kellrott/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://ellrottlab.org/authors/kellrott/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/beckmanl/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peterkort/</loc><changefreq>weekly</changefreq></url></urlset>

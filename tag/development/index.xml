@@ -5,12 +5,20 @@
     <link>https://ellrottlab.org/tag/development/</link>
       <atom:link href="https://ellrottlab.org/tag/development/index.xml" rel="self" type="application/rss+xml" />
     <description>Development</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Aug 2018 11:09:22 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 11:09:22 -0800</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Development</title>
       <link>https://ellrottlab.org/tag/development/</link>
     </image>
+    
+    <item>
+      <title>Bridge2AI</title>
+      <link>https://ellrottlab.org/post/bridge2ai/</link>
+      <pubDate>Sat, 01 Oct 2022 11:09:22 -0800</pubDate>
+      <guid>https://ellrottlab.org/post/bridge2ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Debugging Network Failures</title>

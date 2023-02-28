@@ -5,12 +5,20 @@
     <link>https://ellrottlab.org/authors/kyle-ellrott/</link>
       <atom:link href="https://ellrottlab.org/authors/kyle-ellrott/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyle Ellrott</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 11:09:22 -0800</lastBuildDate>
     <image>
       <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Kyle Ellrott</title>
       <link>https://ellrottlab.org/authors/kyle-ellrott/</link>
     </image>
+    
+    <item>
+      <title>Bridge2AI</title>
+      <link>https://ellrottlab.org/post/bridge2ai/</link>
+      <pubDate>Sat, 01 Oct 2022 11:09:22 -0800</pubDate>
+      <guid>https://ellrottlab.org/post/bridge2ai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space</title>
