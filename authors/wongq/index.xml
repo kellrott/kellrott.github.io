@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quinn Wai Wong | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/wongq/</link>
+      <atom:link href="https://ellrottlab.org/authors/wongq/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quinn Wai Wong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ellrottlab.org/authors/wongq/avatar_huc5f7d3ef872c5020bd7bdc62752de10e_353050_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Quinn Wai Wong</title>
+      <link>https://ellrottlab.org/authors/wongq/</link>
+    </image>
+    
+  </channel>
+</rss>
