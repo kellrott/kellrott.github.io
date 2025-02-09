@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
+      <link>https://ellrottlab.org/post/tmp-paper/</link>
+      <pubDate>Thu, 02 Jan 2025 12:00:00 -0800</pubDate>
+      <guid>https://ellrottlab.org/post/tmp-paper/</guid>
+      <description>&lt;p&gt;The result of the Genomic Data Analysis Network (GDAN) Tumor Molecular Pathology working group, a new paper in Cancer Cell: &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2824%2900477-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
+      <link>https://ellrottlab.org/post/tes-paper/</link>
+      <pubDate>Sun, 01 Dec 2024 12:00:00 -0800</pubDate>
+      <guid>https://ellrottlab.org/post/tes-paper/</guid>
+      <description>&lt;p&gt;From the GA4GH cloud working group, our new paper on the TES API: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10564576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution&lt;/a&gt;, written with collaborators from ELIXIR and Microsoft.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bridge2AI</title>
       <link>https://ellrottlab.org/post/bridge2ai/</link>
       <pubDate>Sat, 01 Oct 2022 11:09:22 -0800</pubDate>
