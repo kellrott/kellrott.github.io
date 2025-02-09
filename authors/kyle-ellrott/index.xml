@@ -22,12 +22,36 @@
     </item>
     
     <item>
+      <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
+      <link>https://ellrottlab.org/publication/ellrott-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
       <link>https://ellrottlab.org/post/tes-paper/</link>
       <pubDate>Sun, 01 Dec 2024 12:00:00 -0800</pubDate>
       <guid>https://ellrottlab.org/post/tes-paper/</guid>
       <description>&lt;p&gt;From the GA4GH cloud working group, our new paper on the TES API: &lt;a href=&#34;https://ieeexplore.ieee.org/document/10564576&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution&lt;/a&gt;, written with collaborators from ELIXIR and Microsoft.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions</title>
+      <link>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
+      <link>https://ellrottlab.org/publication/10564576/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/10564576/</guid>
+      <description></description>
     </item>
     
     <item>

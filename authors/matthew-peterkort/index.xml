@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Peterkort | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/matthew-peterkort/</link>
+      <atom:link href="https://ellrottlab.org/authors/matthew-peterkort/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthew Peterkort</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <title>Matthew Peterkort</title>
+      <link>https://ellrottlab.org/authors/matthew-peterkort/</link>
+    </image>
+    
+    <item>
+      <title>SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions</title>
+      <link>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
