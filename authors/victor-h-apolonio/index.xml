@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor H Apolonio | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/victor-h-apolonio/</link>
+      <atom:link href="https://ellrottlab.org/authors/victor-h-apolonio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Victor H Apolonio</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Victor H Apolonio</title>
+      <link>https://ellrottlab.org/authors/victor-h-apolonio/</link>
+    </image>
+    
+    <item>
+      <title>Protocol for assessing distances in pathway space for classifier feature sets from machine learning methods</title>
+      <link>https://ellrottlab.org/publication/tercan-2025-protocol/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/tercan-2025-protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

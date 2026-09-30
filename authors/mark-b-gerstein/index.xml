@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark B Gerstein | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/mark-b-gerstein/</link>
+      <atom:link href="https://ellrottlab.org/authors/mark-b-gerstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark B Gerstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Mark B Gerstein</title>
+      <link>https://ellrottlab.org/authors/mark-b-gerstein/</link>
+    </image>
+    
+    <item>
+      <title>Author Correction: Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
+      <link>https://ellrottlab.org/publication/bailey-2020-author/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bailey-2020-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
+      <link>https://ellrottlab.org/publication/bailey-2020-retrospective/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bailey-2020-retrospective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

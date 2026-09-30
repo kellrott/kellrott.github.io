@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhining Wang | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/zhining-wang/</link>
+      <atom:link href="https://ellrottlab.org/authors/zhining-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhining Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Zhining Wang</title>
+      <link>https://ellrottlab.org/authors/zhining-wang/</link>
+    </image>
+    
+    <item>
+      <title>Pan-cancer immune and stromal deconvolution predicts clinical outcomes and mutation profiles</title>
+      <link>https://ellrottlab.org/publication/bhinder-2025-pan/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bhinder-2025-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

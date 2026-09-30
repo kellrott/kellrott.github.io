@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerstin Ellrott | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/kerstin-ellrott/</link>
+      <atom:link href="https://ellrottlab.org/authors/kerstin-ellrott/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kerstin Ellrott</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Kerstin Ellrott</title>
+      <link>https://ellrottlab.org/authors/kerstin-ellrott/</link>
+    </image>
+    
+    <item>
+      <title>C-Type Lectin Receptor (CLR)-Fc Fusion Proteins As Tools to Screen for Novel CLR/Bacteria Interactions: An Exemplary Study on Preselected Campylobacter jejuni Isolates</title>
+      <link>https://ellrottlab.org/publication/mayer-2018-c/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/mayer-2018-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

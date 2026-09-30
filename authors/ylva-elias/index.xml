@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ylva Elias | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/ylva-elias/</link>
+      <atom:link href="https://ellrottlab.org/authors/ylva-elias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ylva Elias</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Ylva Elias</title>
+      <link>https://ellrottlab.org/authors/ylva-elias/</link>
+    </image>
+    
+    <item>
+      <title>Structures of the first representatives of Pfam family PF06684 (DUF1185) reveal a novel variant of the Bacillus chorismate mutase fold and suggest a role in amino-acid metabolism</title>
+      <link>https://ellrottlab.org/publication/bakolitsa-2010-structures/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bakolitsa-2010-structures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

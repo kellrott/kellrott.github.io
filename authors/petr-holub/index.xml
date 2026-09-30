@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petr Holub | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/petr-holub/</link>
+      <atom:link href="https://ellrottlab.org/authors/petr-holub/index.xml" rel="self" type="application/rss+xml" />
+    <description>Petr Holub</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Petr Holub</title>
+      <link>https://ellrottlab.org/authors/petr-holub/</link>
+    </image>
+    
+    <item>
+      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
+      <link>https://ellrottlab.org/publication/rehm-2021-ga4gh/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/rehm-2021-ga4gh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

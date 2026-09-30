@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mauro a a Castro | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/mauro-a-a-castro/</link>
+      <atom:link href="https://ellrottlab.org/authors/mauro-a-a-castro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mauro a a Castro</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Mauro a a Castro</title>
+      <link>https://ellrottlab.org/authors/mauro-a-a-castro/</link>
+    </image>
+    
+    <item>
+      <title>Protocol for assessing distances in pathway space for classifier feature sets from machine learning methods</title>
+      <link>https://ellrottlab.org/publication/tercan-2025-protocol/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/tercan-2025-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for obtaining cancer type and subtype predictions using subSCOPE</title>
+      <link>https://ellrottlab.org/publication/grewal-2025-protocol/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/grewal-2025-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
+      <link>https://ellrottlab.org/publication/ellrott-2025-classification/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2025-classification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

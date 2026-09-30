@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerstin Haase | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/kerstin-haase/</link>
+      <atom:link href="https://ellrottlab.org/authors/kerstin-haase/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kerstin Haase</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Kerstin Haase</title>
+      <link>https://ellrottlab.org/authors/kerstin-haase/</link>
+    </image>
+    
+    <item>
+      <title>Crowd-sourced benchmarking of single-sample tumor subclonal reconstruction</title>
+      <link>https://ellrottlab.org/publication/salcedo-2025-crowd/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/salcedo-2025-crowd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

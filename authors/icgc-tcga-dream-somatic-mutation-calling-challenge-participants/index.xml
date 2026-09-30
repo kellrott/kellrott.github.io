@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge Participants | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+      <atom:link href="https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICGC-TCGA DREAM Somatic Mutation Calling Challenge Participants</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>ICGC-TCGA DREAM Somatic Mutation Calling Challenge Participants</title>
+      <link>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</link>
+    </image>
+    
+    <item>
+      <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection</title>
+      <link>https://ellrottlab.org/publication/lee-2018-combining/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/lee-2018-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection</title>
+      <link>https://ellrottlab.org/publication/ewing-2015-combining/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ewing-2015-combining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

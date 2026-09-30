@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venkat S Malladi | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/venkat-s-malladi/</link>
+      <atom:link href="https://ellrottlab.org/authors/venkat-s-malladi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Venkat S Malladi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Venkat S Malladi</title>
+      <link>https://ellrottlab.org/authors/venkat-s-malladi/</link>
+    </image>
+    
+    <item>
+      <title>Eleven quick tips for Biomedical Federated Learning</title>
+      <link>https://ellrottlab.org/publication/ellrott-2026-eleven/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2026-eleven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
+      <link>https://ellrottlab.org/publication/kanitz-2024-ga4gh/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/kanitz-2024-ga4gh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

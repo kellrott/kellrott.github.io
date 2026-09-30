@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julie K a Kasarjian | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/julie-k-a-kasarjian/</link>
+      <atom:link href="https://ellrottlab.org/authors/julie-k-a-kasarjian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julie K a Kasarjian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Julie K a Kasarjian</title>
+      <link>https://ellrottlab.org/authors/julie-k-a-kasarjian/</link>
+    </image>
+    
+    <item>
+      <title>Restriction enzyme recognition sequence search program</title>
+      <link>https://ellrottlab.org/publication/ellrott-2002-restriction/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2002-restriction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladyslav Ostash | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/vladyslav-ostash/</link>
+      <atom:link href="https://ellrottlab.org/authors/vladyslav-ostash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladyslav Ostash</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Vladyslav Ostash</title>
+      <link>https://ellrottlab.org/authors/vladyslav-ostash/</link>
+    </image>
+    
+    <item>
+      <title>Robust software development practices improve citations of RNA-seq tools</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-robust/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-robust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

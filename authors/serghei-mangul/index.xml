@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serghei Mangul | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/serghei-mangul/</link>
+      <atom:link href="https://ellrottlab.org/authors/serghei-mangul/index.xml" rel="self" type="application/rss+xml" />
+    <description>Serghei Mangul</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Serghei Mangul</title>
+      <link>https://ellrottlab.org/authors/serghei-mangul/</link>
+    </image>
+    
+    <item>
+      <title>Eleven quick tips for Biomedical Federated Learning</title>
+      <link>https://ellrottlab.org/publication/ellrott-2026-eleven/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2026-eleven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a decentralized future for open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2026-decentralized/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2026-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decentralized future for the open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-decentralized/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust software development practices improve citations of RNA-seq tools</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-robust/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-robust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

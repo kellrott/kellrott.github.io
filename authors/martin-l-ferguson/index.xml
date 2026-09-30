@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin L Ferguson | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/martin-l-ferguson/</link>
+      <atom:link href="https://ellrottlab.org/authors/martin-l-ferguson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin L Ferguson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Martin L Ferguson</title>
+      <link>https://ellrottlab.org/authors/martin-l-ferguson/</link>
+    </image>
+    
+    <item>
+      <title>A compendium of next-generation patient-derived models for diverse cancers</title>
+      <link>https://ellrottlab.org/publication/elharouni-2026-compendium/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/elharouni-2026-compendium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer immune and stromal deconvolution predicts clinical outcomes and mutation profiles</title>
+      <link>https://ellrottlab.org/publication/bhinder-2025-pan/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bhinder-2025-pan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

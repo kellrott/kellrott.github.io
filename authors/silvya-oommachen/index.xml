@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvya Oommachen | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/silvya-oommachen/</link>
+      <atom:link href="https://ellrottlab.org/authors/silvya-oommachen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvya Oommachen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Silvya Oommachen</title>
+      <link>https://ellrottlab.org/authors/silvya-oommachen/</link>
+    </image>
+    
+    <item>
+      <title>The structure of KPN03535 (gi|152972051), a novel putative lipoprotein from Klebsiella pneumoniae, reveals an OB-fold</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-2/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The structure of the first representative of Pfam family PF09836 reveals a two-domain organization and suggests involvement in transcriptional regulation</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-3/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural and functional characterizations of SsgB, a conserved activator of developmental cell division in morphologically complex actinomycetes</title>
+      <link>https://ellrottlab.org/publication/xu-2009-structural/</link>
+      <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2009-structural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

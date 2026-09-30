@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabel Quesada | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/quesadai/</link>
+      <atom:link href="https://ellrottlab.org/authors/quesadai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Isabel Quesada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://ellrottlab.org/authors/quesadai/avatar_hu_f1c11ac1acbecc0d.png</url>
+      <title>Isabel Quesada</title>
+      <link>https://ellrottlab.org/authors/quesadai/</link>
+    </image>
+    
+  </channel>
+</rss>

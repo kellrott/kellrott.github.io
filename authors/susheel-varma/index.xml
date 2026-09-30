@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Susheel Varma | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/susheel-varma/</link>
+      <atom:link href="https://ellrottlab.org/authors/susheel-varma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Susheel Varma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Susheel Varma</title>
+      <link>https://ellrottlab.org/authors/susheel-varma/</link>
+    </image>
+    
+    <item>
+      <title>Towards a decentralized future for open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2026-decentralized/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2026-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decentralized future for the open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-decentralized/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
+      <link>https://ellrottlab.org/publication/rehm-2021-ga4gh/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/rehm-2021-ga4gh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anton Nekrutenko | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/anton-nekrutenko/</link>
+      <atom:link href="https://ellrottlab.org/authors/anton-nekrutenko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anton Nekrutenko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Anton Nekrutenko</title>
+      <link>https://ellrottlab.org/authors/anton-nekrutenko/</link>
+    </image>
+    
+    <item>
+      <title>Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space</title>
+      <link>https://ellrottlab.org/publication/schatz-2022-inverting/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/schatz-2022-inverting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

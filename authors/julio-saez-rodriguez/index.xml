@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio Saez-Rodriguez | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/julio-saez-rodriguez/</link>
+      <atom:link href="https://ellrottlab.org/authors/julio-saez-rodriguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio Saez-Rodriguez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Julio Saez-Rodriguez</title>
+      <link>https://ellrottlab.org/authors/julio-saez-rodriguez/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
+      <link>https://ellrottlab.org/publication/ellrott-2019-reproducible/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2019-reproducible/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

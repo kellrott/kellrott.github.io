@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander G Lucaci | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/alexander-g-lucaci/</link>
+      <atom:link href="https://ellrottlab.org/authors/alexander-g-lucaci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander G Lucaci</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Alexander G Lucaci</title>
+      <link>https://ellrottlab.org/authors/alexander-g-lucaci/</link>
+    </image>
+    
+    <item>
+      <title>Towards a decentralized future for open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2026-decentralized/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2026-decentralized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

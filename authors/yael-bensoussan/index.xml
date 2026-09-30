@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yael Bensoussan | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/yael-bensoussan/</link>
+      <atom:link href="https://ellrottlab.org/authors/yael-bensoussan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yael Bensoussan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Yael Bensoussan</title>
+      <link>https://ellrottlab.org/authors/yael-bensoussan/</link>
+    </image>
+    
+    <item>
+      <title>Eleven quick tips for Biomedical Federated Learning</title>
+      <link>https://ellrottlab.org/publication/ellrott-2026-eleven/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2026-eleven/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenna R Mills Shaw | Data Science Garage</title>
+    <link>https://ellrottlab.org/authors/kenna-r-mills-shaw/</link>
+      <atom:link href="https://ellrottlab.org/authors/kenna-r-mills-shaw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenna R Mills Shaw</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
+      <title>Kenna R Mills Shaw</title>
+      <link>https://ellrottlab.org/authors/kenna-r-mills-shaw/</link>
+    </image>
+    
+    <item>
+      <title>The Cancer Genome Atlas Pan-Cancer analysis project</title>
+      <link>https://ellrottlab.org/publication/network-2013-cancer/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/network-2013-cancer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
