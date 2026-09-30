@@ -5,18 +5,26 @@
     <link>https://ellrottlab.org/authors/anab-kemal/</link>
       <atom:link href="https://ellrottlab.org/authors/anab-kemal/index.xml" rel="self" type="application/rss+xml" />
     <description>Anab Kemal</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
       <title>Anab Kemal</title>
       <link>https://ellrottlab.org/authors/anab-kemal/</link>
     </image>
     
     <item>
+      <title>Pan-cancer immune and stromal deconvolution predicts clinical outcomes and mutation profiles</title>
+      <link>https://ellrottlab.org/publication/bhinder-2025-pan/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bhinder-2025-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
-      <link>https://ellrottlab.org/publication/ellrott-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2025/</guid>
+      <link>https://ellrottlab.org/publication/ellrott-2025-classification/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2025-classification/</guid>
       <description></description>
     </item>
     

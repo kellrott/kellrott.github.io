@@ -5,25 +5,33 @@
     <link>https://ellrottlab.org/authors/kami-e-chiotti/</link>
       <atom:link href="https://ellrottlab.org/authors/kami-e-chiotti/index.xml" rel="self" type="application/rss+xml" />
     <description>Kami E Chiotti</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
       <title>Kami E Chiotti</title>
       <link>https://ellrottlab.org/authors/kami-e-chiotti/</link>
     </image>
     
     <item>
+      <title>Pan-cancer immune and stromal deconvolution predicts clinical outcomes and mutation profiles</title>
+      <link>https://ellrottlab.org/publication/bhinder-2025-pan/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bhinder-2025-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A community challenge to evaluate RNA-seq, fusion detection, and isoform quantification methods for cancer discovery</title>
       <link>https://ellrottlab.org/publication/creason-2021-community/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/creason-2021-community/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable open science approach for mutation calling of tumor exomes using multiple genomic pipelines</title>
+      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
       <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
       <description></description>
     </item>

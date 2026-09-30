@@ -4,379 +4,1175 @@
   
   
   <url>
-    <loc>https://ellrottlab.org/authors/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/project/gdan-tmp/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/project/calypr/</loc><lastmod>2026-09-30T00:00:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/</loc><lastmod>2026-09-30T00:00:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/tag/data-systems/</loc><lastmod>2026-09-30T00:00:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/project/</loc><lastmod>2026-09-30T00:00:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/tags/</loc><lastmod>2026-09-30T00:00:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication-type/2/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/elharouni-2026-compendium/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alessandro-vasciaveo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/andrea-califano/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/andrew-d-cherniack/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/andrew-mcpherson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/bahar-tercan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/calvin-j-kuo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/cindy-w-kyi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/claire-sinai/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/daniela-s-gerhard/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-a-tuveson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-l-spector/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dennis-plenker/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dina-elharouni/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/eva-tonsing-carter/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/hardik-patel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/hayley-e-francies/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/hcmi-network/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/heeju-noh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/james-m-clinton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/james-m-crawford/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jean-claude-zenklusen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jennifer-m-shelton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jesse-s-boehm/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jordan-tagle/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/julyann-perez-mayoral/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/katherine-a-hoadley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/keith-l-ligon/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kyle-ellrott/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lorenzo-tomassoni/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/louis-m-staudt/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/luca-zanella/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/maria-antonietta-cerone/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/martin-l-ferguson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mathew-j-garnett/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/megan-j-stine/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/merve-dede/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mushriq-al-jazrawe/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nicolas-robine/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/olivier-elemento/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/paul-t-spellman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/paula-keskula/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peter-w-laird/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peyton-c-kuhlers/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/priya-sridevi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication_types/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rachana-agarwal/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rameen-beroukhim/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sean-a-misek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/semir-beyaz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/seongmin-choi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shawna-walsh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sonam-bhatia/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sylvia-f-boj/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/timothy-r-chu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/toshinori-hinoue/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vincenzo-corbo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/william-f-hooper/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xavi-loinaz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yuen-yi-tseng/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alex-a-t-bui/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/ellrott-2026-eleven/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/emek-demir/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jean-christophe-belisle-pipon/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/paul-c-boutros/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/serghei-mangul/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/venkat-s-malladi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yael-bensoussan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alba-tull/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alexander-g-lucaci/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/arunkumar-krishnan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-e-mason/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/despoina-sousoni/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dumitru-ciorba/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/fabio-g-liberante/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gaurav-sharma/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gustavo-stolovitzky/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jason-h-moore/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jineta-banerjee/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/luca-foschini/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mihai-dimian/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nika-mansouri-ghiasi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/onur-mutlu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/roel-a-ophoff/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/susheel-varma/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/taras-k-oleksyk/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/sharma-2026-decentralized/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/utkarsha-mahanta/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/viorel-bostan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/viorel-munteanu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kaya-keutler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/kirchgaessner-2026-pooling/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/raphael-kirchgaessner/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shruthilayaa-sivakumar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xubo-song/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/sharma-2025-decentralized/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/can-alkan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dhrithi-deshpande/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dumitru-ciorba/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ecem-ilgun/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/elisha-myoung/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/karishma-chhugani/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/matteo-pellegrini/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mohammed-alser/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/naznin-nahar-alpana/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/olga-burduniuc/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/pawel-p-labaj/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/sharma-2025-robust/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sanskruti-sharma/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tatiana-v-tatarinova/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tuna-okcu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vitalina-bashynska/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vladyslav-ostash/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/aditya-deshpande/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alexander-j-lazar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/anab-kemal/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/anil-korkut/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/bhavneet-bhinder/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/cancer-genome-atlas-analysis-network/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-k-wong/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/d-neil-hayes/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/daniel-cui-zhou/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/davide-risso/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/hui-shen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ina-felau/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jean-c-zenklusen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jen-jen-yeh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jingchun-zhu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/john-a-demchok/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jordan-a-lee/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/josh-stuart/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kami-e-chiotti/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kofi-gyan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kyle-p-ellrott/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/li-ding/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/liming-yang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/marcin-imielinski/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mark-rubin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mary-goldman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/matthew-h-bailey/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-k-a-mensah/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/myron-peto/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nidhi-sahni/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/oliver-f-bathe/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/bhinder-2025-pan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/paul-spellman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/r-jay-mashl/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rohan-bareja/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/roy-tarnuzzer/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/samantha-caesar-johnson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shaolong-cao/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sunantha-sethuraman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/verena-friedl/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vesteinn-thorsson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/wanding-zhou/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/wenyi-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xianlu-l-peng/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yongsheng-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/zhining-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/a-gordon-robertson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/brian-j-karlberg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christina-yau/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-c-benz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jasleen-k-grewal/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/joshua-m-stuart/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mauro-a-a-castro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/tercan-2025-protocol/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/grewal-2025-protocol/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/steven-j-m-jones/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/victor-h-apolonio/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vinicius-s-chagas/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/kirchgaessner-2025-aggregating/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/layaa-sivakumar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/adriana-salcedo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alex-buchanan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/amit-g-deshwar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/clemency-jolly/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/salcedo-2025-crowd/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-c-wedge/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dimitris-anastassiou/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gun-ho-jang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/hongjiu-zhang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ignaty-leshchiner/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/imaad-umar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jeff-a-wintersinger/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jonas-demeulemeester/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kaiyi-zhu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kami-chiotti/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kerstin-haase/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lesia-sycza/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/maxime-tarabichi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/minjeong-ko/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mohammed-f-e-mootor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/pcawg-evolution-and-heterogeneity-working-group/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peter-van-loo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/quaid-d-morris/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shadrielle-m-g-espiritu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/smc-het-participants/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/stefan-dentro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tai-hsien-ou-yang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/william-zou/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yuanfang-guan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/tag/cancer-biology/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/ellrott-2025-classification/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ilya-shmulevich/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ioannis-tsamardinos/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lindsay-westlake/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peggy-i-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/samantha-j-caesar-johnson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/theo-a-knijnenburg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vincenzo-lagani/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vladislav-uzunangelov/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xavier-loinaz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/tmp-paper/</loc><lastmod>2025-01-02T12:00:00-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brian-karlberg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kyle-ellrott/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jeremy-goecks/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication-type/2/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jordan-lee/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/a.-gordon-robertson/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/liam-beckman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alexander-j.-lazar/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/matthew-peterkort/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/anab-kemal/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/andrew-d.-cherniack/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/artificial-intelligence/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/bahar-tercan/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/biomarkers/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/brian-j.-karlberg/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/cancer/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/christina-yau/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/christopher-c.-benz/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/christopher-k.-wong/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/classification/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2025/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/epigenomic/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/genomic/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/ilya-shmulevich/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/ina-felau/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/ioannis-tsamardinos/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/jasleen-k.-grewal/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/jean-c.-zenklusen/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/jordan-a.-lee/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/joshua-m.-stuart/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/katherine-a.-hoadley/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/lindsay-westlake/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/machine-learning/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/mauro-a.-a.-castro/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/molecular/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/pathology/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/peggy-i.-wang/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/peter-w.-laird/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication_types/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/samantha-j.-caesar-johnson/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tags/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/tcga/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/theo-a.-knijnenburg/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/toshinori-hinoue/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/verena-friedl/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/vincenzo-lagani/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/vladislav-uzunangelov/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/xavier-loinaz/</loc><lastmod>2025-02-09T12:24:20-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/tes-paper/</loc><lastmod>2024-12-01T12:00:00-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alexander-kanitz/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alexander-kanitz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brian-karlberg/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ga4gh-cloud-workstream/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jeremy-goecks/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/matthew-h-mcloughlin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jordan-lee/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/kanitz-2024-ga4gh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/liam-beckman/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/abhinav-nellore/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/matthew-h.-mcloughlin/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brian-walsh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/matthew-peterkort/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kasper-d-hansen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/raphael-kirchgaessner/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/maden-2023-recountmethylation/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</loc><lastmod>2024-12-09T20:29:42+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/reid-f-thompson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/tag/task-analysiscloud-computinggenomicsbioinformaticssoftwarelibrariesthroughput/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/10564576/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/venkat-s.-malladi/</loc><lastmod>2025-02-09T12:22:45-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sean-k-maden/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/bridge2ai/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/tag/development/</loc><lastmod>2022-10-01T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/others/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alessandro-culotti/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/abhinav-nellore/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anne-odonnell-luria/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alessandro-culotti/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anthony-a-philippakis/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/anthony-a-philippakis/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anton-nekrutenko/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brian-walsh/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/benedict-paten/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/enis-afgan/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brian-d-oconnor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/eric-banks/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/candace-patterson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/schatz-2022-inverting/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/casey-overby-taylor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kasper-d-hansen/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/enis-afgan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-c-schatz/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/eric-banks/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/maden-2022-recountmethylation/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/frederick-j-tan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/reid-thompson/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/schatz-2022-inverting/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/robert-j-carroll/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ira-m-hall/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/robert-l-grossman/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jeffrey-t-leek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sean-k-maden/</loc><lastmod>2022-07-20T10:05:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jennifer-vessio/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/vincent-j-carey/</loc><lastmod>2022-07-20T10:05:40-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jonathan-lawson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/creason-2021-community/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kevin-osborn/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alex-buchanan/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kristin-wuichet/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/allison-creason/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/levi-waldron/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/andrew-lamb/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/martin-morgan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/angela-jh-page/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/michael-c-schatz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/david-haan/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/robert-j-carroll/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/robert-l-grossman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gil-alterovitz/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/stephen-mosher/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/heidi-l-rehm/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ting-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jeremy-b-adams/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/vincent-j-carey/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kami-e-chiotti/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ada-hamosh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kristen-dang/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/adrian-thorogood/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lawrence-j-babb/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/aina-jene/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lindsay-smith/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alan-f-rubin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/matthew-inkman/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alastair-a-thomson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/maxmillian-p-barkley/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/albert-v-smith/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-baudis/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alejandro-metke-jimenez/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-js-beauvais/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alex-h-wagner/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/thea-c-norman/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alexander-bernier/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/thomas-yu/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alexander-senf/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/tim-beck/</loc><lastmod>2022-07-20T10:05:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alfonso-valencia/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/yin-hu/</loc><lastmod>2022-07-20T10:05:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alice-l-mann/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/salcedo-2020-community/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/amanda-b-spurdle/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/wagner-2020-harmonized/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/amber-l-johns/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-j-struck/</loc><lastmod>2022-07-20T10:05:22-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ammar-husami/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-struck/</loc><lastmod>2022-07-20T10:05:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/amy-nisselle/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adriana-salcedo/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/andreas-prlic/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alex-h-wagner/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/andrew-d-yates/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alexander-buchanan/</loc><lastmod>2022-07-20T10:05:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/angel-d-pizarro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/amila-weerasinghe/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/angela-j-h-page/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/amit-g-deshwar/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ania-niewielska/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/andrew-v-biankin/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anna-middleton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/austin-nguyen/</loc><lastmod>2022-07-20T10:05:22-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anneke-m-lucassen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/benjamin-raeder/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anthony-j-brookes/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brian-patrick-oneill/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/arcadi-navarro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/yakneen-2020-butler/</loc><lastmod>2022-07-20T10:05:38-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ashley-e-hobb/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/colin-a-purdie/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/augusto-rendon/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/d-neil-hayes/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/barbara-j-wold/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/david-tamborero/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/bartha-m-knoppers/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/dmitriy-sonkin/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/bimal-p-chaudhari/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/elli-papaemmanuil/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brian-p-walsh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/struck-2020-exploring/</loc><lastmod>2022-07-20T10:05:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/calvin-w-l-ho/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/fatima-al-shahrour/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chisato-yamasaki/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/fouad-yousif/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christina-k-yung/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/georgia-mayfield/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/clara-l-gaff/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/guanlan-dong/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/coby-viner/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gurnit-atwal/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/craig-voisin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jan-o-korbel/</loc><lastmod>2022-07-20T10:05:38-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daniel-l-cameron/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jeff-a-wintersinger/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/danielle-denisko/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jianjiong-gao/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/danya-f-vears/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jordan-a-lee/</loc><lastmod>2022-07-20T10:05:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-bernick/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jordi-deu-pons/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-bujold/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/joshua-m-stuart/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-glazer/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/julie-mcmurry/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-haussler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kilannin-krysiak/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-p-hansen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lewis-jonathan-dursi/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-torrents/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/liang-bo-wang/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dean-mitchell-hartley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lixing-yang/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/debyani-chakravarty/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lydia-y-liu/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dipayan-gupta/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/malene-juul/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dylan-spalding/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mary-a-wood/</loc><lastmod>2022-07-20T10:05:22-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/edward-s-dove/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/matei-david/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/elena-m-ghanaim/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/matthew-h-bailey/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/elizabeth-l-janes/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/maxime-tarabichi/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/emilio-palumbo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-gertz/</loc><lastmod>2022-07-20T10:05:38-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/esmeralda-casas-silva/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/minjeong-ko/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/eva-c-winkler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/nathan-m-wilson/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ewan-birney/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/nathaniel-schmitz/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/fiona-cunningham/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/wood-2020-neoepiscope/</loc><lastmod>2022-07-20T10:05:22-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/francis-jeanson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/hirano-2020-pan/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/fruzsina-molnar-gabor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/paul-c-boutros/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/rehm-2021-ga4gh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/peter-j-bailey/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gary-i-saunders/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/peter-j-campbell/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gil-alterovitz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/reid-f-thompson/</loc><lastmod>2022-07-20T10:05:22-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/giselle-kerry/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/ren-x-sun/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/grant-m-wood/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/bailey-2020-retrospective/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gregory-a-rushton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/rolf-kabbe/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/guillaume-bourque/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/ryan-p-duren/</loc><lastmod>2022-07-20T10:05:34-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hayley-l-clissold/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/ryan-spangler/</loc><lastmod>2022-07-20T10:05:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/heidi-j-sofia/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/satoshi-hirano/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/heidi-l-rehm/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sean-kelso/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/helen-e-parkinson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sebastian-m-waszak/</loc><lastmod>2022-07-20T10:05:38-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/helen-schuilenburg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sergei-yakneen/</loc><lastmod>2022-07-20T10:05:38-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/helen-v-firth/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/prokopec-2020-sex/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hidewaki-nakagawa/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/shadrielle-melijah-g-espiritu/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ian-m-fore/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/shantao-li/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/isuru-udara-liyanage/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/stefan-dentro/</loc><lastmod>2022-07-20T10:05:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/j-michael-cherry/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/stephenie-d-prokopec/</loc><lastmod>2022-07-20T10:05:36-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/j-patrick-woolley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/wen-wei-liang/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jacob-shujui-hsu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/william-u-meyerson/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jacques-s-beckmann/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/yize-li/</loc><lastmod>2022-07-20T10:05:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jaime-m-guidry-auvil/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/yu-fan/</loc><lastmod>2022-07-20T10:05:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jamal-nasir/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/tag/cancer-biology/</loc><lastmod>2019-01-27T10:34:25-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/james-a-eddy/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/project/gdan/</loc><lastmod>2019-01-27T10:34:25-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/james-k-bonfield/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/project/</loc><lastmod>2019-01-27T10:34:25-08:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/javier-lopez/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jean-pierre-hubaux/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jeffrey-niu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jeremy-b-adams/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jerome-kelleher/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jessica-vamathevan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/john-marshall/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jonathan-a-tedds/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jonathan-fuerth/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jordi-rambla/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/juha-tornroos/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/julius-o-jacobsen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/junjun-zhang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/justina-chung/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/karen-eilbeck/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kathryn-north/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/katsushi-tokunaga/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kazuto-kato/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kenjiro-kosaki/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/khalid-a-fakhro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kristina-kekesi-lafrance/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ksenia-zaytseva/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kurt-w-rodarmer/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/l-jonathan-dursi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/laura-a-d-paglione/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/laura-lyman-rodriguez/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lauren-a-fromont/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lawrence-j-babb/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lena-i-dolman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lincoln-d-stein/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lindsay-smith/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lyndon-j-zass/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/makoto-suematsu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/malachi-griffith/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mallory-a-freeberg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/manuel-rueda/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/marc-fiume/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/marc-s-williams/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/martin-kuba/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/matthew-h-brush/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/maxmillian-p-barkley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/megan-j-doerr/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/melanie-courtot/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/melissa-a-haendel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/melissa-a-konopko/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/melissa-cline/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-baudis/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-brudno/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-f-lin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-j-s-beauvais/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-lukowski/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-m-hoffman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-s-fitzsimons/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michele-mattioni/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mikael-linden/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/miro-cupak/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/monica-c-munoz-torres/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/moran-n-cabili/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nathan-c-sheffield/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/neerjah-skantharajah/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nicola-mulder/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/obi-l-griffith/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/oliver-m-hofmann/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/orion-j-buske/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/patrick-tan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/paul-flicek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peter-goodhand/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/peter-n-robinson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/petr-holub/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rachele-m-hendricks-sturrup/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rasko-leinonen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/reece-k-hart/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/renee-a-rider/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/richard-j-milne/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rishi-nag/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/robert-c-green/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/robert-m-cook-deegan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/robert-m-davies/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/robert-r-freimuth/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/roderic-guigo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/roman-valls-guimera/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rosalyn-s-ryan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sabine-oesterle/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sarah-e-hunt/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sarion-r-bowers/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/saumya-s-jamuar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sean-upchurch/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/seik-soon-khor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/serena-scollen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sergi-beltran/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shu-hui-chen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/soichi-ogishima/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/stephanie-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/stephanie-o-m-dyke/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/susan-e-wallace/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/susan-fairley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/thomas-m-keane/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tiffany-f-boughtwood/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tim-beck/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/timothy-l-tickle/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tommi-h-nyronen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tony-burdett/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/torsten-schwede/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tristan-h-nelson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tudor-groza/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vivian-ota-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/weiniu-gan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xianglin-liu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yann-joly/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/zornitza-stark/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/creason-2021-community/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/allison-creason/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/andrew-lamb/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/brian-j-haas/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-a-maher/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/cristian-caloian/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-haan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dmitri-rozanov/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jin-zhang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/john-d-watson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/justin-guinney/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kristen-dang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/m-rick-rollins/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/marijke-j-van-baren/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mark-akeson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/matthew-inkman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mehmet-eren-ahsen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/miten-jain/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ryan-spangler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sebastian-uhrig/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/smc-rna-challenge-participants/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/thea-c-norman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/thomas-yu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yin-hu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/amila-weerasinghe/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/bailey-2020-author/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-a-wheeler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gad-getz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gordon-saksena/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/guanlan-dong/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jared-t-simpson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lewis-jonathan-dursi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/liang-bo-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mark-b-gerstein/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mc3-working-group/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-c-wendl/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/pcawg-consortium/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/pcawg-novel-somatic-mutation-calling-methods-working-group/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sean-kelso/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shantao-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/wen-wei-liang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/william-u-meyerson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/yize-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/bailey-2020-retrospective/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/wagner-2020-harmonized/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/adam-a-margolin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/beth-a-pitel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/catherine-del-vecchio-fitz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/damian-t-rieke/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/david-tamborero/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/deborah-i-ritter/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dmitriy-sonkin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ethan-cerami/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/georgia-mayfield/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/gordana-raca/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jeremy-l-warner/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jianjiong-gao/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/jordi-deu-pons/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/julie-mcmurry/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kilannin-krysiak/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lynn-m-schriml/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mark-lawler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/melissa-haendel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nikolaus-schultz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nuria-lopez-bigas/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ozman-u-sezerman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/rodrigo-dienstmann/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ryan-p-duren/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/sara-patterson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/subha-madhavan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/susan-mockus/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/tero-aittokallio/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/variant-interpretation-for-cancer-consortium/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/xuan-shirley-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/adam-j-struck/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/adam-struck/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/alexander-buchanan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/austin-nguyen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/struck-2020-exploring/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/mary-a-wood/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/wood-2020-neoepiscope/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/salcedo-2020-community/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/adam-d-ewing/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/bryan-lo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/catalina-v-anghel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christine-png/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-m-lalansingh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dream-smc-het-participants/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/john-m-chilton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/lydia-y-liu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/matei-david/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/nathan-m-wilson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/quaid-morris/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/shadrielle-melijah-g-espiritu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/srinivasan-sivanandan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/bruce-hoff/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/james-eddy/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/julio-saez-rodriguez/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-mason/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/ellrott-2019-reproducible/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/thomas-schaffter/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/project/anvil/</loc><lastmod>2019-01-27T10:27:20-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/tag/data-systems/</loc><lastmod>2019-01-27T10:27:20-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ellrottlab.org/authors/walsh/</loc><lastmod>2019-01-25T16:44:24-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/bruce-hoff/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/salcedo-2019-creating/</loc><lastmod>2022-07-20T10:05:16-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/james-eddy/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/john-m-chilton/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/michael-mason/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2019-reproducible/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/thomas-schaffter/</loc><lastmod>2022-07-20T10:05:29-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/anvil/</loc><lastmod>2018-11-25T15:12:50-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ellrottlab.org/authors/anna-y-lee/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/lee-2018-combining/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/icgc-tcga-dream-somatic-mutation-calling-challenge-participants/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/j-christopher-bare/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/kathleen-e-houlahan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/ken-chen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-r-kellen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/stephen-h-friend/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/vincent-huang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/zechen-chong/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/christopher-i-cooper/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/delia-yao/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/dorota-h-sendorek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/michael-fraser/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/robert-g-bristow/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/smc-dna-challenge-participants/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/cooper-2018-valection/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ellrottlab.org/post/network-failures/</loc><lastmod>2018-08-25T11:09:22-08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/tag/api/</loc><lastmod>2018-08-22T09:02:16-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/project/g2p/</loc><lastmod>2018-08-22T09:02:16-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/smith/</loc><lastmod>2018-08-22T08:43:02-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -394,139 +1190,143 @@
   <url>
     <loc>https://ellrottlab.org/project/grip/</loc><lastmod>2018-08-19T23:19:31-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/korkut-2018-pan/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/adam-margolin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-a-margolin/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mayur-paralkar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-d-ewing/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mihir-p-paralkar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-margolin/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/wood-2018-population/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/allison-p-heath/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/cancer-genome-atlas-research-network/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/andre-schultz/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/carolyn-hutter/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/angela-j-waanders/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chip-stewart/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/anil-korkut/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/cyriac-kandoth/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/anna-y-lee/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-wheeler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/annette-kolodzie/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/julian-hess/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/ashton-c-berger/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kyle-r-covington/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brett-johnson/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/michael-mclellan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/carolyn-hutter/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2018-scalable/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/chip-stewart/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/singer-ma/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christine-png/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/sendorek-2018-germline/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-i-cooper/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/bernd-lepenies/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/lee-2018-combining/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/mayer-2018-c/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cristian-caloian/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christine-josenhans/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cyriac-kandoth/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/joao-t-monteiro/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/deanne-taylor/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kerstin-ellrott/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/delia-yao/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/rebecca-moeller/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/dorota-h-sendorek/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sabine-mayer/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gad-getz/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/gonen-2017-community/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/sendorek-2018-germline/</loc><lastmod>2022-07-20T10:05:03-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/adrian-bivol/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gordon-robertson/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alden-deran/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gordon-saksena/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alok-jaiswal/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/heidi-sofia/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/antti-airola/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/j-christopher-bare/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/artem-sokolov/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jamie-keck/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/aviad-tsherniak/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jena-v-lilly/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/barbara-a-weir/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jessica-riesterer/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/broad-dream-community/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/julian-hess/</loc><lastmod>2022-07-20T10:05:14-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daniel-carlin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kathleen-e-houlahan/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daniel-marbach/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kiara-siex/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-e-root/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/koei-chin/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/evan-paull/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kyle-covington/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/fan-zhu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kyle-r-covington/</loc><lastmod>2022-07-20T10:05:14-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/francisca-vazquez/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/laura-heiser/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/glenn-s-cowley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lincoln-stein/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/guanghua-xiao/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mathew-bailey/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hao-tang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/max-morris/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hiroshi-mamitsuka/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mayur-paralkar/</loc><lastmod>2022-07-20T10:05:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jing-tang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-fraser/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kerstin-bunte/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-mclellan/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kiley-graim/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mihir-p-paralkar/</loc><lastmod>2022-07-20T10:05:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/krister-wennerberg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2018-multi/</loc><lastmod>2022-07-20T10:05:17-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/masayuki-karasuyama/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/nancy-r-gough/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mehmet-gonen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/philip-l-lorenzi/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/peddinti-gopalacharyulu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/phillip-b-storm/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sahil-chopra/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/pichai-raman/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sam-ng/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/wood-2018-population/</loc><lastmod>2022-07-20T10:05:00-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/samuel-kaski/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/rupa-s-kanchi/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sara-howell/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sam-volchenboum/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/suleiman-a-khan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2018-scalable/</loc><lastmod>2022-07-20T10:05:14-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/tao-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/shuyun-rao/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/tapio-pahikkala/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/singer-ma/</loc><lastmod>2022-07-20T10:05:14-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/william-c-hahn/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/johnson-2018-smmart/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/xiaowei-zhan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sobia-zaidi/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/yang-xie/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/summer-gibbs/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/yulia-newton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/swapnil-parmar/</loc><lastmod>2022-07-20T10:05:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/adam-m-novak/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/takafumi-n-yamaguchi/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alana-s-weinstein/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/heath-2018-tbio/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/duncan-c-mccoll/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cooper-2018-valection/</loc><lastmod>2022-07-20T10:05:11-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/manu-chopra/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/vincent-huang/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/olena-morozova/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/xubin-li/</loc><lastmod>2022-07-20T10:05:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/robert-baertsch/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/yuankun-zhu/</loc><lastmod>2022-07-20T10:05:20-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sofie-r-salama/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/zechen-chong/</loc><lastmod>2022-07-20T10:05:06-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/teresa-swatloski/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/theodore-c-goldstein/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/publication/newton-2017-tumormap/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/tag/g2p/</loc><lastmod>2017-01-01T11:06:01-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -534,87 +1334,21 @@
   <url>
     <loc>https://ellrottlab.org/tag/ga4gh/</loc><lastmod>2017-01-01T11:06:01-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/josh-stuart/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/gonen-2017-community/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/adam-m-novak/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/adrian-bivol/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/alana-s-weinstein/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/alok-jaiswal/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/artem-sokolov/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/aviad-tsherniak/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/barbara-a-weir/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/brian-d-oconnor/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/christina-k-yung/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/christopher-k-wong/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://ellrottlab.org/tag/content-tagged-as-academic/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/daniel-e-carlin/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daniel-e-carlin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/duncan-c-mccoll/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/evan-o-paull/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/evan-o-paull/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/talk/example-talk/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/francisca-vazquez/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/glenn-s-cowley/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/gordon-b-saksena/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/junjun-zhang/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/keiran-m-raine/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/kiley-graim/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/kortine-kleinheinz/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/yung-2017-large/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/masayuki-karasuyama/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/mehmet-gonen/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/naoki-miyoshi/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/peter-ryabinin/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/peter-ryabinin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/carlin-2017-prophetic/</loc><lastmod>2022-07-20T10:05:07-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/carlin-2017-prophetic/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/talk/</loc><lastmod>2017-01-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/robert-baertsch/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/romina-royo/</loc><lastmod>2022-07-20T10:04:59-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/sahil-chopra/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/sofie-r-salama/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/tao-wang/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/teresa-swatloski/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/newton-2017-tumormap/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/yuanfang-guan/</loc><lastmod>2022-07-20T10:05:02-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/yulia-newton/</loc><lastmod>2022-07-20T10:05:05-07:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/post/reproducible-cloud/</loc><lastmod>2016-09-06T11:01:41-08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -628,369 +1362,295 @@
   <url>
     <loc>https://ellrottlab.org/project/mc3/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/graim-2015-abstract/</loc><lastmod>2022-07-20T10:04:56-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ewing-2015-combining/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/uzunangelov-2015-abstract/</loc><lastmod>2022-07-20T10:04:54-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daryl-waggott/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/anna-ying-wah-lee/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/veronica-y-sabelnykova/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-bare/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christine-suver/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/stuart-2015-combining/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/boutros-2014-global/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/ewing-2015-combining/</loc><lastmod>2022-07-20T10:04:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kristen-k-dang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/daniel-carlin/</loc><lastmod>2022-07-20T10:04:54-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brad-a-ozenberger/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/daryl-waggott/</loc><lastmod>2022-07-20T10:04:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chris-sander/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/evan-paull/</loc><lastmod>2022-07-20T10:04:54-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chris-wong/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/joshua-stuart/</loc><lastmod>2022-07-20T10:04:56-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/omberg-2013-enabling/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/justin-guinney/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/eric-a-collisson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kathleen-houlahan/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gordon-b-mills/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/paul-boutros/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/han-liang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sam-ng/</loc><lastmod>2022-07-20T10:04:54-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/john-n-weinstein/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/shadrielle-espiritu/</loc><lastmod>2022-07-20T10:05:27-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kenna-r-mills-shaw/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/veronica-y-sabelnykova/</loc><lastmod>2022-07-20T10:04:53-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/larsson-omberg/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christine-suver/</loc><lastmod>2022-07-20T10:04:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/network-2013-cancer/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/boutros-2014-global/</loc><lastmod>2022-07-20T10:04:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/yuan-yuan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kristen-k-dang/</loc><lastmod>2022-07-20T10:04:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/brian-craft/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lincoln-d-stein/</loc><lastmod>2022-07-20T10:04:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chris-wilks/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michael-r-kellen/</loc><lastmod>2022-07-20T10:04:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mark-diekhans/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication-type/4/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/goldman-2013-ucsc/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/aaron-mckenna/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/adam-godzik/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/bc-cancer-agency-gordon-robertson-a.-4-chu-andy-4/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christian-m-zmasek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/benito-campos/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/constantina-bakolitsa/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brad-a-ozenberger/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dana-weekes/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brian-craft/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/john-wooley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brigham-womens-hospital-signoretti-sabina-7-54-59/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/s-sri-krishna/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/broad-institute-beroukhim-rameen-5-6-cibulskis-kristian-6/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2011-topsan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brown-university-vandin-hsin-ta-wu-fabio-8-8-raphael-benjamin-j.-8/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/abhinav-kumar/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/c-bakolitsa/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/amanda-nopakun/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/c-chen/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/andrew-t-morse/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cameron-w-brennan/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/andrew-yeh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cancer-genome-atlas-research-network/</loc><lastmod>2022-07-20T10:04:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/anna-grzechnik/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cancer-genome-atlas-research-network-analysis-working-group-baylor-college-of-medicine-creighton-chad-j.-1-2-morgan-margaret-1-gunaratne-preethi-h.-1-3-wheeler-david-a.-1-gibbs-richard-a.-1/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ashley-m-deacon/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/chapel-hill-kimryn-rathmell-w.-16-university-of-north-carolina/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/carol-l-farr/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/chris-sander/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christina-puckett/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/chris-wilks/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christine-b-trame/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/chris-wong/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/connie-chen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cancer-2013-comprehensiverenal/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/david-marciano/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/d-carlton/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/debanu-das/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/david-haussler/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dennis-carlton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/debyani-chakravarty/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/edward-nigoghossian/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/omberg-2013-enabling/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gye-won-han/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/eric-a-collisson/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/heath-e-klock/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gordon-b-mills/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/henry-j-tien/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/h-j-chiu/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/henry-van-den-bedem/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/han-liang/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/herbert-l-axelrod/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/hl-axelrod/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hsiu-ju-chiu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/houtan-noushmehr/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ian-a-wilson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/j-zachary-sanborn/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jiadong-zhou/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/john-n-weinstein/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/joanna-c-grant/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kenna-r-shaw/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/julie-feuerhelm/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/larsson-omberg/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/keith-o-hodgson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/m-chiu/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kevin-k-jin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mark-diekhans/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/lian-duan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mary-goldman/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/linda-okach/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/melissa-cline/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/lukasz-jaroszewski/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/memorial-sloan-kettering-cancer-center-reuter-victor-11-hsieh-james-j.-12-rose-brannon-a.-11-ari-hakimi-a.-12-jacobsen-anders-13-ciriello-giovanni-13-reva-boris-13/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/marc-c-deller/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/national-cancer-institute-ricketts-christopher-j.-14-marston-linehan-w.-agibbs@-bcm.-edu-14-c/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/marc-andre-elsliger/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/p-abdubek/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mark-w-knuth/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/q-xu/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/michelle-chiu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/roel-gw-verhaak/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/mitchell-d-miller/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/samuel-h-berman/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/piotr-kozbial/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/siyuan-zheng/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/polat-abdubek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/stephen-h-friend/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/qingping-xu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/xu-2013-structure/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/robert-d-finn/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/t-astakhova/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ron-reyes/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/weinstein-2013-cancer/</loc><lastmod>2022-07-20T10:05:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/scott-a-lesley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/brennan-2013-somatic/</loc><lastmod>2022-07-20T10:05:09-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/tamara-astakhova/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/goldman-2013-ucsc/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/das-2010-crystal/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/university-of-california-santa-cruz-stuart-joshua-m.-15/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/thomas-clayton/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/university-of-texas-md-anderson-cancer-center-verhaak-roel-gw-9-tamboli-pheroze-10-torres-garcia-wandaliz-9-akbani-rehan-9-weinstein-john-n.-9/</loc><lastmod>2022-07-20T10:04:44-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/tiffany-wooten/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cancer-2013-weinstein/</loc><lastmod>2022-07-20T10:04:45-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/winnie-w-lam/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/x-cai/</loc><lastmod>2022-07-20T10:05:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/xiaohui-cai/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/yuan-yuan/</loc><lastmod>2022-07-20T10:04:46-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/xu-2010-conserved/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/brigham-womens-hospital-harvard-medical-school-chin-lynda-9-11-park-peter-j.-12-kucherlapati-raju-13/</loc><lastmod>2022-07-20T10:04:57-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/andrew-p-yeh/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/cancer-genome-atlas-network/</loc><lastmod>2022-07-20T10:04:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/aprilfawn-white/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/charles-vaske/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christina-v-trout/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-benz/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/christopher-l-rife/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-szeto/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/claire-acosta/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-wilks/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/daniel-mcmullan/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cancer-2012-comprehensivelung/</loc><lastmod>2022-07-20T10:04:42-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dustin-ernst/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</loc><lastmod>2022-07-20T10:04:43-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/hope-a-johnson/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/cancer-2012-comprehensivebreast/</loc><lastmod>2022-07-20T10:04:57-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jessica-paulsen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/eric-collisson/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/kevin-d-murphy/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/genome-data-analysis-baylor-college-of-medicine-creighton-chad-j.-22-23-donehower-lawrence-a.-22-23-24-25/</loc><lastmod>2022-07-20T10:04:57-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/marc-andre-elsliger/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/institute-for-systems-biology-reynolds-sheila-31-kreisberg-richard-b.-31-bernard-brady-31-bressler-ryan-31-erkkila-timo-32-lin-jake-31-thorsson-vesteinn-31-zhang-wei-33-shmulevich-ilya-31/</loc><lastmod>2022-07-20T10:04:57-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/natasha-sefcovic/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/janita-thusberg/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/nick-v-grishin/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jing-zhu/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/prasad-burra/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/jingchun-zhu/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/silvya-oommachen/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/ng-2012-predicting/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/slawomir-k-grzechnik/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/sean-mooney/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/xu-2010-structure-2/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/stephen-benz/</loc><lastmod>2022-07-20T10:04:51-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/yeh-2010-structure/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/zhu-2012-ucsc/</loc><lastmod>2022-07-20T10:04:50-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/bakolitsa-2010-structure/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/craft-2011-abstract/</loc><lastmod>2022-07-20T10:04:48-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/xu-2010-structure/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/xu-2010-conserved/</loc><lastmod>2022-07-20T10:04:33-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/bakolitsa-2010-structures/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/abhinav-kumar/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/axelrod-2010-structures/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/adam-godzik/</loc><lastmod>2022-07-20T10:04:35-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/das-2010-structure/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/alex-bateman/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/das-2010-structure-2/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/andrew-p-yeh/</loc><lastmod>2022-07-20T10:04:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/das-2010-structure-3/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/xu-2010-bacterial/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ylva-elias/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christian-m-zmasek/</loc><lastmod>2022-07-20T10:04:35-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2010-expansion/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/christopher-l-rife/</loc><lastmod>2022-07-20T10:04:25-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/john-c-wooley/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/claire-acosta/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/weizhong-li/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/connie-chen/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/alex-bateman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/constantina-bakolitsa/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/xu-2010-bacterial/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/dana-weekes/</loc><lastmod>2022-07-20T10:04:35-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/a-mieke-mommaas/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/daniel-mcmullan/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/bj%C3%B8rn-a-traag/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/debanu-das/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/gilles-p-van-wezel/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/dennis-carlton/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/joost-willemse/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2010-expansion/</loc><lastmod>2022-07-20T10:04:12-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/maksymilian-chruszcz/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/gye-won-han/</loc><lastmod>2022-07-20T10:04:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/shuren-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/herbert-l-axelrod/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/xu-2009-structural/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/hsiu-ju-chiu/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/wladek-minor/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/john-c-wooley/</loc><lastmod>2022-07-20T10:04:12-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2008-improving/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/john-wooley/</loc><lastmod>2022-07-20T10:04:35-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/jun-tao-guo/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/kevin-k-jin/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/victor-olman/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/l-herbert/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/ying-xu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/lukasz-jaroszewski/</loc><lastmod>2022-07-20T10:04:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/guo-2008-historical/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/marc-c-deller/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2007-improvement/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/michelle-chiu/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2006-generalized/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/mitchell-d-miller/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dong-xu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/nick-v-grishin/</loc><lastmod>2022-07-20T10:04:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/guo-2004-prospect/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/piotr-kozbial/</loc><lastmod>2022-07-20T10:04:26-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/serguei-passovets/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/polat-abdubek/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/won-jae-chung/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/prasad-burra/</loc><lastmod>2022-07-20T10:04:37-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/shah-2003-computational/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/qingping-xu/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/dongsup-kim/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/robert-d-finn/</loc><lastmod>2022-07-20T10:04:41-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/inna-vokler/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/s-sri-krishna/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/li-wang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/xu-2010-structure/</loc><lastmod>2022-07-20T10:04:18-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/manesh-shah/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/yeh-2010-structure/</loc><lastmod>2022-07-20T10:04:31-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/philip-locascio/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/bakolitsa-2010-structure/</loc><lastmod>2022-07-20T10:04:25-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/sergei-passovets/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</loc><lastmod>2022-07-20T10:04:24-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/kim-2003-prospect/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/astakhova-2010-structure/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/julie-k-a-kasarjian/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/bakolitsa-2010-structures/</loc><lastmod>2022-07-20T10:04:39-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/junichi-ryu/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/axelrod-2010-structures/</loc><lastmod>2022-07-20T10:04:23-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2002-restriction/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/authors/tamara-astakhova/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/tao-jiang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/das-2010-crystal/</loc><lastmod>2022-07-20T10:04:21-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/chuhu-yang/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</loc><lastmod>2022-07-20T10:04:30-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/authors/frances-m-sladek/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ellrottlab.org/publication/das-2010-structure-kpn-03535/</loc><lastmod>2022-07-20T10:04:26-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/das-2010-structure-pf-09836/</loc><lastmod>2022-07-20T10:04:37-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/thomas-clayton/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2010-topsan/</loc><lastmod>2022-07-20T10:04:35-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/weizhong-li/</loc><lastmod>2022-07-20T10:04:12-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/xiaohui-cai/</loc><lastmod>2022-07-20T10:05:47-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/bj%C3%B8rn-a-traag/</loc><lastmod>2022-07-20T10:04:18-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/joost-willemse/</loc><lastmod>2022-07-20T10:04:18-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/marc-andre-elsliger/</loc><lastmod>2022-07-20T10:04:18-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/xu-2009-structural/</loc><lastmod>2022-07-20T10:04:18-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication-type/6/</loc><lastmod>2022-07-20T10:04:19-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/guo-2008-historical/</loc><lastmod>2022-07-20T10:04:19-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2008-improving/</loc><lastmod>2022-07-20T10:04:21-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/jun-tao-guo/</loc><lastmod>2022-07-20T10:04:21-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/victor-olman/</loc><lastmod>2022-07-20T10:04:21-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/ying-xu/</loc><lastmod>2022-07-20T10:04:21-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2007-improvement/</loc><lastmod>2022-07-20T10:04:16-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/kyle-p-ellrott/</loc><lastmod>2022-07-20T10:04:40-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2007-protein/</loc><lastmod>2022-07-20T10:04:40-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2006-generalized/</loc><lastmod>2022-07-20T10:04:20-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/dong-xu/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/guo-2004-prospect/</loc><lastmod>2022-07-20T10:04:10-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/serguei-passovets/</loc><lastmod>2022-07-20T10:04:10-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/won-jae-chung/</loc><lastmod>2022-07-20T10:04:10-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/shah-2003-computational/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/dongsup-kim/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/inna-vokler/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/li-wang/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/manesh-shah/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/philip-locascio/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/kim-2003-prospect/</loc><lastmod>2022-07-20T10:04:07-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/sergei-passovets/</loc><lastmod>2022-07-20T10:04:11-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/chuhu-yang/</loc><lastmod>2022-07-20T10:04:09-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/frances-m-sladek/</loc><lastmod>2022-07-20T10:04:09-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2002-identifying/</loc><lastmod>2022-07-20T10:04:09-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/julie-ka-kasarjian/</loc><lastmod>2022-07-20T10:04:14-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/junichi-ryu/</loc><lastmod>2022-07-20T10:04:14-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/publication/ellrott-2002-restriction/</loc><lastmod>2022-07-20T10:04:14-07:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://ellrottlab.org/authors/tao-jiang/</loc><lastmod>2022-07-20T10:04:14-07:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ellrottlab.org/publication/ellrott-2002-identifying/</loc><lastmod>2026-09-23T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/struck-a/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/karlberg/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/categories/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ellrottlab.org/authors/quesadai/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ellrottlab.org/authors/lee-jordan/</loc><changefreq>weekly</changefreq></url>
   <url>

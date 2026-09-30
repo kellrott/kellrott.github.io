@@ -5,20 +5,30 @@
     <link>https://ellrottlab.org/project/</link>
       <atom:link href="https://ellrottlab.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:34:25 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
       <title>Projects</title>
       <link>https://ellrottlab.org/project/</link>
     </image>
     
     <item>
-      <title>GDAN</title>
-      <link>https://ellrottlab.org/project/gdan/</link>
-      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
-      <guid>https://ellrottlab.org/project/gdan/</guid>
-      <description>&lt;p&gt;The NCI&amp;rsquo;s &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/blog/2016/new-genomic-data-analysis-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Analysis Network (GDAN)&lt;/a&gt; was launched
-in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; in the analysis of large cancer cohorts.&lt;/p&gt;
+      <title>GDAN Tumor Molecular Pathology</title>
+      <link>https://ellrottlab.org/project/gdan-tmp/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0800</pubDate>
+      <guid>https://ellrottlab.org/project/gdan-tmp/</guid>
+      <description>&lt;p&gt;The Genomic Data Analysis Network (GDAN) Tumor Molecular Pathology (TMP) project developed machine-learning models that assign TCGA-defined molecular subtype labels to cancer samples from other studies and clinical trials. The study trained five modeling approaches on 8,791 TCGA tumors spanning 106 subtypes across 26 cancer cohorts, and validated selected classifiers using external datasets.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/NCICCGPO/gdan-tmp-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMP model repository&lt;/a&gt; provides containerized models for gene expression, DNA methylation, miRNA, somatic mutation, and copy-number data, along with tools and instructions for preparing data and running predictions. Read the &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2824%2900477-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cell paper&lt;/a&gt; for the study and its results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALYPR</title>
+      <link>https://ellrottlab.org/project/calypr/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 -0700</pubDate>
+      <guid>https://ellrottlab.org/project/calypr/</guid>
+      <description>&lt;p&gt;CALYPR is a genomics data science platform built for hybrid cloud and on-premises infrastructure. Based on the Gen3 Data Commons architecture, it combines open standards with tools for managing data, running workflows, and supporting biological discovery.&lt;/p&gt;
+&lt;p&gt;Its open-source tools include &lt;a href=&#34;https://calypr.org/tools/grip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP&lt;/a&gt; for graph-based data integration, &lt;a href=&#34;https://calypr.org/tools/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel&lt;/a&gt; for distributed task execution, &lt;a href=&#34;https://calypr.org/tools/syfon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syfon&lt;/a&gt; for data registration and transfer, and &lt;a href=&#34;https://calypr.org/tools/git-drs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git-DRS&lt;/a&gt; for versioned data workflows. Learn more at &lt;a href=&#34;https://calypr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calypr.org&lt;/a&gt; or browse the &lt;a href=&#34;https://github.com/calypr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALYPR GitHub organization&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -27,20 +37,9 @@ in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome
       <link>https://ellrottlab.org/project/anvil/</link>
       <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
       <guid>https://ellrottlab.org/project/anvil/</guid>
-      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) is a
-project to build a data commons to allow researchers to efficiently analyze and visualize
-genomics data on the cloud.
-This project is a collaboration with Oregon Health and Science University, University of California Santa Cruz,
-University of Chicago, The Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University and Pennsylvania State University.&lt;/p&gt;
+      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) provides a shared environment for working with genomic data in the cloud. By bringing data and scalable computing together, AnVIL supports collaborative analysis without requiring researchers to move large datasets between institutions.&lt;/p&gt;
+&lt;p&gt;AnVIL is a collaboration among Oregon Health &amp;amp; Science University, the University of California, Santa Cruz, the University of Chicago, the Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University, and Pennsylvania State University. See the &lt;a href=&#34;https://anvilproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnVIL project site&lt;/a&gt; for current tools and data resources.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>GA4GH G2P</title>
-      <link>https://ellrottlab.org/project/g2p/</link>
-      <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
-      <guid>https://ellrottlab.org/project/g2p/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -48,15 +47,19 @@ University of Chicago, The Broad Institute, Washington University in St. Louis, 
       <link>https://ellrottlab.org/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       <guid>https://ellrottlab.org/project/smc-het/</guid>
-      <description></description>
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling Tumor Heterogeneity Challenge (SMC-Het) focused on subclonal reconstruction: determining which cancer-cell populations are present in a tumor and which mutations belong to each population.&lt;/p&gt;
+&lt;p&gt;Participants were asked to estimate tumor purity and the number and prevalence of subclones, assign mutations to those subclones, and infer their evolutionary relationships. The challenge aimed to compare methods and identify conditions that affect their performance. See the &lt;a href=&#34;https://synapse.org/SMCHet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMC-Het project on Synapse&lt;/a&gt; for challenge materials.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Grip</title>
+      <title>GRIP</title>
       <link>https://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       <guid>https://ellrottlab.org/project/grip/</guid>
-      <description></description>
+      <description>&lt;p&gt;GRaph Integration Platform (GRIP) provides a graph interface over several database technologies, including PostgreSQL, MySQL, MongoDB, Badger, and LevelDB. Vertices and edges can carry properties and represent different kinds of relationships.&lt;/p&gt;
+&lt;p&gt;GRIP includes an API for traversing, analyzing, and updating graphs, with a query syntax inspired by Apache TinkerPop. The &lt;a href=&#34;https://github.com/bmeg/grip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP project on GitHub&lt;/a&gt; contains the code and documentation.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -64,8 +67,8 @@ University of Chicago, The Broad Institute, Washington University in St. Louis, 
       <link>https://ellrottlab.org/project/bmeg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/bmeg/</guid>
-      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) integrates different types of biomedical data into a unified graph for efficient application of machine learning and discovery algorithms across heterogeneous data types. BMEG will leverage the petabytes of genomics data available for tumor samples from repositories like the &lt;a href=&#34;https://www.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Cancer Institute&lt;/a&gt;’s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt; to predict drug sensitivity, patient outcomes, and other clinically relevant phenotypes.
-The BMEG data model is instantiated in a scalable graph database optimized for storing and querying graphs containing terabytes of vertices and edges distributed across a multi-machine cluster.   This graph is the store of record for the BMEG. It maintains the connections between projects, donors, samples, molecular data and treatment evidence and assures that these entities are associated correctly.&lt;/p&gt;
+      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) was designed to bring heterogeneous biomedical data into a unified graph for discovery and machine-learning analyses. Its model connects projects, donors, samples, molecular measurements, and treatment evidence, making relationships across data sources queryable together.&lt;/p&gt;
+&lt;p&gt;The project focused on cancer genomics data, including resources such as the National Cancer Institute&amp;rsquo;s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt;, with the goal of supporting analyses of clinically relevant outcomes. Its distributed graph database was designed to store and query large graphs across multiple machines.&lt;/p&gt;
 </description>
     </item>
     
@@ -74,13 +77,8 @@ The BMEG data model is instantiated in a scalable graph database optimized for s
       <link>https://ellrottlab.org/project/dream-smc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/dream-smc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/DREAM_SMC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.synapse.org/DREAM_SMC&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
-is an international effort to improve standard methods for identifying
-cancer-associated mutations and rearrangements in whole-genome sequencing (WGS)
-data. Leaders of the International Cancer Genome Consortium (ICGC) and
-The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage
-Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.&lt;/p&gt;
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling Challenge evaluated methods for identifying cancer-associated mutations from whole-genome sequencing data. Participants analyzed matched tumor and normal samples and submitted calls for single-nucleotide variants and larger genomic rearrangements.&lt;/p&gt;
+&lt;p&gt;The challenge brought together the International Cancer Genome Consortium, The Cancer Genome Atlas, Sage Bionetworks, and IBM-DREAM to compare algorithms against validation data. The challenge is closed; see the &lt;a href=&#34;https://www.synapse.org/DREAM_SMC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DREAM-SMC project on Synapse&lt;/a&gt; for its materials.&lt;/p&gt;
 </description>
     </item>
     
@@ -89,13 +87,8 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/dream-rna/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/dream-rna/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/SMC_RNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.synapse.org/SMC_RNA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
-is an international effort to improve standard methods for identifying
-cancer-associated mutations and rearrangements in whole-genome sequencing (WGS)
-data. Leaders of the International Cancer Genome Consortium (ICGC) and
-The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage
-Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.&lt;/p&gt;
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling RNA Challenge (SMC-RNA) compared computational methods for analyzing cancer RNA-sequencing data. Participants developed methods to detect gene fusions and quantify transcript isoforms, both of which can reveal changes in tumor biology.&lt;/p&gt;
+&lt;p&gt;The challenge was organized with the International Cancer Genome Consortium, The Cancer Genome Atlas, Sage Bionetworks, and IBM-DREAM. It is now closed. Visit the &lt;a href=&#34;https://www.synapse.org/SMC_RNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMC-RNA project on Synapse&lt;/a&gt; for its challenge materials.&lt;/p&gt;
 </description>
     </item>
     
@@ -104,21 +97,8 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/funnel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/funnel/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ohsu-comp-bio.github.io/funnel/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API.&lt;/p&gt;
-&lt;p&gt;A task describes metadata, state, input/output files, resource requests, commands, and logs. The task API has four actions: create, get, list, and cancel. Given a task, Funnel will queue it, schedule it to a worker, and track its state and logs. A worker will download input files, run a sequence of Docker containers, upload output files, and emits events and logs along the way.&lt;/p&gt;
-&lt;p&gt;A wide variety of options make Funnel easily adaptable:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BoltDB&lt;/li&gt;
-&lt;li&gt;Elasticsearch&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;AWS Batch, S3, DynamoDB&lt;/li&gt;
-&lt;li&gt;OpenStack Swift&lt;/li&gt;
-&lt;li&gt;Google Cloud Storage, Datastore&lt;/li&gt;
-&lt;li&gt;Kafka&lt;/li&gt;
-&lt;li&gt;HPC support: HTCondor, Slurm, etc.&lt;/li&gt;
-&lt;li&gt;and more&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API. A task records its metadata, state, input and output files, resource requests, commands, and logs. Funnel queues tasks, schedules them to workers, and tracks their progress.&lt;/p&gt;
+&lt;p&gt;A worker downloads task inputs, runs the requested containerized commands, uploads outputs, and emits events and logs. Funnel supports a range of storage and scheduling back ends, including cloud services and HPC schedulers such as HTCondor and Slurm. Read the &lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel documentation&lt;/a&gt; for details.&lt;/p&gt;
 </description>
     </item>
     
@@ -127,7 +107,8 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/mc3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/mc3/</guid>
-      <description>&lt;p&gt;The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis. We recognize the advantage to doing a uniform analysis where all the TCGA exome data was called on a standardized set of mutation callers. Further, we recognize the value of “containerizing” the procedures used, so that the methods are transparent and reproducible and sharable with the community. As detailed on this wikipage, the TCGA MC3dataset represents a uniform set of mutation calls. The BAM files used underwent a standardized local re-alignment to hg19 (Genome Reference Consortium GRCh37), six calling algorithms were applied, and a number of automated filters were applied. We strongly recommend that users review the information provided on caveats, data processing, filters, best practices, and acknowledgements before using this file.&lt;/p&gt;
+      <description>&lt;p&gt;The TCGA PanCancer Atlas MC3 project re-called mutations across TCGA exome data to provide a more uniform resource for cross-cancer analysis. Earlier TCGA studies used different calling methods over time and across centers, making direct comparisons difficult.&lt;/p&gt;
+&lt;p&gt;MC3 applied multiple mutation-calling algorithms to standardized, realigned data and used automated filters to produce a harmonized call set. Before using the data, consult its documentation for processing details, filters, caveats, and recommended practices.&lt;/p&gt;
 </description>
     </item>
     

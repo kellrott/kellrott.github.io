@@ -5,12 +5,128 @@
     <link>https://ellrottlab.org/</link>
       <atom:link href="https://ellrottlab.org/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Science Garage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jan 2025 12:00:00 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
       <title>Data Science Garage</title>
       <link>https://ellrottlab.org/</link>
     </image>
+    
+    <item>
+      <title>GDAN Tumor Molecular Pathology</title>
+      <link>https://ellrottlab.org/project/gdan-tmp/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 -0800</pubDate>
+      <guid>https://ellrottlab.org/project/gdan-tmp/</guid>
+      <description>&lt;p&gt;The Genomic Data Analysis Network (GDAN) Tumor Molecular Pathology (TMP) project developed machine-learning models that assign TCGA-defined molecular subtype labels to cancer samples from other studies and clinical trials. The study trained five modeling approaches on 8,791 TCGA tumors spanning 106 subtypes across 26 cancer cohorts, and validated selected classifiers using external datasets.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/NCICCGPO/gdan-tmp-models&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TMP model repository&lt;/a&gt; provides containerized models for gene expression, DNA methylation, miRNA, somatic mutation, and copy-number data, along with tools and instructions for preparing data and running predictions. Read the &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2824%2900477-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cell paper&lt;/a&gt; for the study and its results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CALYPR</title>
+      <link>https://ellrottlab.org/project/calypr/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 -0700</pubDate>
+      <guid>https://ellrottlab.org/project/calypr/</guid>
+      <description>&lt;p&gt;CALYPR is a genomics data science platform built for hybrid cloud and on-premises infrastructure. Based on the Gen3 Data Commons architecture, it combines open standards with tools for managing data, running workflows, and supporting biological discovery.&lt;/p&gt;
+&lt;p&gt;Its open-source tools include &lt;a href=&#34;https://calypr.org/tools/grip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP&lt;/a&gt; for graph-based data integration, &lt;a href=&#34;https://calypr.org/tools/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel&lt;/a&gt; for distributed task execution, &lt;a href=&#34;https://calypr.org/tools/syfon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syfon&lt;/a&gt; for data registration and transfer, and &lt;a href=&#34;https://calypr.org/tools/git-drs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git-DRS&lt;/a&gt; for versioned data workflows. Learn more at &lt;a href=&#34;https://calypr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calypr.org&lt;/a&gt; or browse the &lt;a href=&#34;https://github.com/calypr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALYPR GitHub organization&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A compendium of next-generation patient-derived models for diverse cancers</title>
+      <link>https://ellrottlab.org/publication/elharouni-2026-compendium/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/elharouni-2026-compendium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleven quick tips for Biomedical Federated Learning</title>
+      <link>https://ellrottlab.org/publication/ellrott-2026-eleven/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2026-eleven/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a decentralized future for open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2026-decentralized/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2026-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pooling multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal</title>
+      <link>https://ellrottlab.org/publication/kirchgaessner-2026-pooling/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/kirchgaessner-2026-pooling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decentralized future for the open-science databases</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-decentralized/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust software development practices improve citations of RNA-seq tools</title>
+      <link>https://ellrottlab.org/publication/sharma-2025-robust/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/sharma-2025-robust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-cancer immune and stromal deconvolution predicts clinical outcomes and mutation profiles</title>
+      <link>https://ellrottlab.org/publication/bhinder-2025-pan/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bhinder-2025-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for assessing distances in pathway space for classifier feature sets from machine learning methods</title>
+      <link>https://ellrottlab.org/publication/tercan-2025-protocol/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/tercan-2025-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for obtaining cancer type and subtype predictions using subSCOPE</title>
+      <link>https://ellrottlab.org/publication/grewal-2025-protocol/</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/grewal-2025-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregating multimodal cancer data across unaligned embedding spaces maintains tumor of origin signal</title>
+      <link>https://ellrottlab.org/publication/kirchgaessner-2025-aggregating/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/kirchgaessner-2025-aggregating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-sourced benchmarking of single-sample tumor subclonal reconstruction</title>
+      <link>https://ellrottlab.org/publication/salcedo-2025-crowd/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/salcedo-2025-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
+      <link>https://ellrottlab.org/publication/ellrott-2025-classification/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2025-classification/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
@@ -22,10 +138,10 @@
     </item>
     
     <item>
-      <title>Classification of non-TCGA cancer samples to TCGA molecular subtypes using compact feature sets</title>
-      <link>https://ellrottlab.org/publication/ellrott-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2025/</guid>
+      <title>SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions</title>
+      <link>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</guid>
       <description></description>
     </item>
     
@@ -39,18 +155,18 @@
     </item>
     
     <item>
-      <title>SyntheVAEiser: augmenting traditional machine learning methods with VAE-based gene expression sample generation for improved cancer subtype predictions</title>
-      <link>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</link>
+      <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
+      <link>https://ellrottlab.org/publication/kanitz-2024-ga4gh/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/karlberg-2024-synthevaeiser/</guid>
+      <guid>https://ellrottlab.org/publication/kanitz-2024-ga4gh/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The GA4GH Task Execution Application Programming Interface: Enabling Easy Multicloud Task Execution</title>
-      <link>https://ellrottlab.org/publication/10564576/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/10564576/</guid>
+      <title>recountmethylation enables flexible analysis of public blood DNA methylation array data</title>
+      <link>https://ellrottlab.org/publication/maden-2023-recountmethylation/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/maden-2023-recountmethylation/</guid>
       <description></description>
     </item>
     
@@ -66,32 +182,64 @@
     <item>
       <title>Inverting the model of genomics data sharing with the NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-space</title>
       <link>https://ellrottlab.org/publication/schatz-2022-inverting/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/schatz-2022-inverting/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>recountmethylation enables flexible analysis of public blood DNA methylation array data</title>
-      <link>https://ellrottlab.org/publication/maden-2022-recountmethylation/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/maden-2022-recountmethylation/</guid>
+      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
+      <link>https://ellrottlab.org/publication/rehm-2021-ga4gh/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/rehm-2021-ga4gh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A community challenge to evaluate RNA-seq, fusion detection, and isoform quantification methods for cancer discovery</title>
       <link>https://ellrottlab.org/publication/creason-2021-community/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/creason-2021-community/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GA4GH: International policies and standards for data sharing across genomic research and healthcare</title>
-      <link>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/rehm-2021-ga-4-gh/</guid>
+      <title>Author Correction: Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
+      <link>https://ellrottlab.org/publication/bailey-2020-author/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bailey-2020-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
+      <link>https://ellrottlab.org/publication/bailey-2020-retrospective/</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/bailey-2020-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer</title>
+      <link>https://ellrottlab.org/publication/wagner-2020-harmonized/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wagner-2020-harmonized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Integrative Analysis Using the BioMedical Evidence Graph</title>
+      <link>https://ellrottlab.org/publication/struck-2020-exploring/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/struck-2020-exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>neoepiscope improves neoepitope prediction with multivariant phasing</title>
+      <link>https://ellrottlab.org/publication/wood-2020-neoepiscope/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wood-2020-neoepiscope/</guid>
       <description></description>
     </item>
     
@@ -104,69 +252,11 @@
     </item>
     
     <item>
-      <title>A harmonized meta-knowledgebase of clinical interpretations of somatic genomic variants in cancer</title>
-      <link>https://ellrottlab.org/publication/wagner-2020-harmonized/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/wagner-2020-harmonized/</guid>
+      <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
+      <link>https://ellrottlab.org/publication/ellrott-2019-reproducible/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2019-reproducible/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Butler enables rapid cloud-based analysis of thousands of human genomes</title>
-      <link>https://ellrottlab.org/publication/yakneen-2020-butler/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/yakneen-2020-butler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Exploring integrative analysis using the BioMedical evidence graph</title>
-      <link>https://ellrottlab.org/publication/struck-2020-exploring/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/struck-2020-exploring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neoepiscope improves neoepitope prediction with multivariant phasing</title>
-      <link>https://ellrottlab.org/publication/wood-2020-neoepiscope/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/wood-2020-neoepiscope/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pan-cancer analysis of whole genomes.</title>
-      <link>https://ellrottlab.org/publication/hirano-2020-pan/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/hirano-2020-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retrospective evaluation of whole exome and genome mutation calls in 746 cancer samples</title>
-      <link>https://ellrottlab.org/publication/bailey-2020-retrospective/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/bailey-2020-retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sex differences in oncogenic mutational processes</title>
-      <link>https://ellrottlab.org/publication/prokopec-2020-sex/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/prokopec-2020-sex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GDAN</title>
-      <link>https://ellrottlab.org/project/gdan/</link>
-      <pubDate>Sun, 27 Jan 2019 10:34:25 -0800</pubDate>
-      <guid>https://ellrottlab.org/project/gdan/</guid>
-      <description>&lt;p&gt;The NCI&amp;rsquo;s &lt;a href=&#34;https://www.cancer.gov/about-nci/organization/ccg/blog/2016/new-genomic-data-analysis-network&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Analysis Network (GDAN)&lt;/a&gt; was launched
-in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome.nih.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TCGA&lt;/a&gt; in the analysis of large cancer cohorts.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -174,28 +264,9 @@ in 2016 to continue the work started by the &lt;a href=&#34;https://cancergenome
       <link>https://ellrottlab.org/project/anvil/</link>
       <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
       <guid>https://ellrottlab.org/project/anvil/</guid>
-      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) is a
-project to build a data commons to allow researchers to efficiently analyze and visualize
-genomics data on the cloud.
-This project is a collaboration with Oregon Health and Science University, University of California Santa Cruz,
-University of Chicago, The Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University and Pennsylvania State University.&lt;/p&gt;
+      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) provides a shared environment for working with genomic data in the cloud. By bringing data and scalable computing together, AnVIL supports collaborative analysis without requiring researchers to move large datasets between institutions.&lt;/p&gt;
+&lt;p&gt;AnVIL is a collaboration among Oregon Health &amp;amp; Science University, the University of California, Santa Cruz, the University of Chicago, the Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University, and Pennsylvania State University. See the &lt;a href=&#34;https://anvilproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnVIL project site&lt;/a&gt; for current tools and data resources.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Creating standards for evaluating tumour subclonal reconstruction</title>
-      <link>https://ellrottlab.org/publication/salcedo-2019-creating/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/salcedo-2019-creating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reproducible biomedical benchmarking in the cloud: lessons from crowd-sourced data challenges</title>
-      <link>https://ellrottlab.org/publication/ellrott-2019-reproducible/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2019-reproducible/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -207,6 +278,22 @@ University of Chicago, The Broad Institute, Washington University in St. Louis, 
 will provide a platform for researchers to study Genomic data in the cloud. As part of this project, we will
 be providing methods to enable analysis APIs.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection</title>
+      <link>https://ellrottlab.org/publication/lee-2018-combining/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/lee-2018-combining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valection: design optimization for validation and verification studies</title>
+      <link>https://ellrottlab.org/publication/cooper-2018-valection/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/cooper-2018-valection/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -319,98 +406,70 @@ funnel storage put swift://buchanan/funnel-test/service-unavailable
     </item>
     
     <item>
-      <title>GA4GH G2P</title>
-      <link>https://ellrottlab.org/project/g2p/</link>
-      <pubDate>Wed, 22 Aug 2018 09:02:16 -0700</pubDate>
-      <guid>https://ellrottlab.org/project/g2p/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>SMC  Het</title>
       <link>https://ellrottlab.org/project/smc-het/</link>
       <pubDate>Wed, 22 Aug 2018 08:37:15 -0700</pubDate>
       <guid>https://ellrottlab.org/project/smc-het/</guid>
-      <description></description>
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling Tumor Heterogeneity Challenge (SMC-Het) focused on subclonal reconstruction: determining which cancer-cell populations are present in a tumor and which mutations belong to each population.&lt;/p&gt;
+&lt;p&gt;Participants were asked to estimate tumor purity and the number and prevalence of subclones, assign mutations to those subclones, and infer their evolutionary relationships. The challenge aimed to compare methods and identify conditions that affect their performance. See the &lt;a href=&#34;https://synapse.org/SMCHet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMC-Het project on Synapse&lt;/a&gt; for challenge materials.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Grip</title>
+      <title>GRIP</title>
       <link>https://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       <guid>https://ellrottlab.org/project/grip/</guid>
+      <description>&lt;p&gt;GRaph Integration Platform (GRIP) provides a graph interface over several database technologies, including PostgreSQL, MySQL, MongoDB, Badger, and LevelDB. Vertices and edges can carry properties and represent different kinds of relationships.&lt;/p&gt;
+&lt;p&gt;GRIP includes an API for traversing, analyzing, and updating graphs, with a query syntax inspired by Apache TinkerPop. The &lt;a href=&#34;https://github.com/bmeg/grip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP project on GitHub&lt;/a&gt; contains the code and documentation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population-level distribution and putative immunogenicity of cancer neoepitopes</title>
+      <link>https://ellrottlab.org/publication/wood-2018-population/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/wood-2018-population/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A pan-cancer analysis reveals high-frequency genetic alterations in mediators of signaling by the TGF-$β$ superfamily</title>
-      <link>https://ellrottlab.org/publication/korkut-2018-pan/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/korkut-2018-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining accurate tumor genome simulation with crowdsourcing to benchmark somatic structural variant detection</title>
-      <link>https://ellrottlab.org/publication/lee-2018-combining/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/lee-2018-combining/</guid>
+      <title>Scalable Open Science Approach for Mutation Calling of Tumor Exomes Using Multiple Genomic Pipelines</title>
+      <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
+      <pubDate>Wed, 28 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Germline contamination and leakage in whole genome somatic single nucleotide variant detection</title>
       <link>https://ellrottlab.org/publication/sendorek-2018-germline/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/sendorek-2018-germline/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-center mutation calling in multiple cancers: the MC3 project</title>
-      <link>https://ellrottlab.org/publication/ellrott-2018-multi/</link>
+      <title>C-Type Lectin Receptor (CLR)-Fc Fusion Proteins As Tools to Screen for Novel CLR/Bacteria Interactions: An Exemplary Study on Preselected Campylobacter jejuni Isolates</title>
+      <link>https://ellrottlab.org/publication/mayer-2018-c/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2018-multi/</guid>
+      <guid>https://ellrottlab.org/publication/mayer-2018-c/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Population-level distribution and putative immunogenicity of cancer neoepitopes</title>
-      <link>https://ellrottlab.org/publication/wood-2018-population/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/wood-2018-population/</guid>
+      <title>A Community Challenge for Inferring Genetic Predictors of Gene Essentialities through Analysis of a Functional Screen of Cancer Cell Lines</title>
+      <link>https://ellrottlab.org/publication/gonen-2017-community/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/gonen-2017-community/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scalable open science approach for mutation calling of tumor exomes using multiple genomic pipelines</title>
-      <link>https://ellrottlab.org/publication/ellrott-2018-scalable/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2018-scalable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMMART: Serial measurements of molecular and architectural responses to therapy</title>
-      <link>https://ellrottlab.org/publication/johnson-2018-smmart/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/johnson-2018-smmart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TBIO-27. GABRIELLA MILLER KIDS FIRST DATA RESOURCE CENTER ADVANCING GENETIC RESEARCH IN CHILDHOOD CANCER AND STRUCTURAL BIRTH DEFECTS THROUGH LARGE SCALE INTEGRATED DATA-DRIVEN DISCOVERY AND CLOUD-BASED PLATFORMS FOR COLLABORATIVE ANALYSIS</title>
-      <link>https://ellrottlab.org/publication/heath-2018-tbio/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/heath-2018-tbio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Valection: design optimization for validation and verification studies</title>
-      <link>https://ellrottlab.org/publication/cooper-2018-valection/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cooper-2018-valection/</guid>
+      <title>TumorMap: Exploring the Molecular Similarities of Cancer Samples in an Interactive Portal</title>
+      <link>https://ellrottlab.org/publication/newton-2017-tumormap/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/newton-2017-tumormap/</guid>
       <description></description>
     </item>
     
@@ -448,7 +507,7 @@ By assessing the distribution of Corr_Y in subsets of tumor types, we will deter
 By comparing the distribution of Corr_Y to Corr_other we will determine the extent to which clinically actionable G2P relationships are tumor type dependent versus dependent on cell-type-independent genetic alterations.
 By comparing the distribution of Corr_Y to Corr_subset we will recommend potential opportunities to expand the indication for a given drug to other tumor types.&lt;/p&gt;
 &lt;p&gt;In addition to meeting the technical goal of harmonizing G2P derived from literature and computation, we believe this will represent the most comprehensive study to date assessing the extent to which clinically actionable G2P associations are dependent on tumor type vs. pan-tumor genetic alterations. We believe this will provide valuable information on the feasibility of running genomically guided, cross-tissue-type clinical trials.&lt;/p&gt;
-&lt;h2 id=&#34;project-3----using-data-from-the-beat-aml-functional-genomics-program-develop-an-initial-specification-allowing-models-to-be-trained-on-a-given-dataset-stored-in-a-central-system-queried-for-predictions-in-a-new-dataset-and-re-trained-on-a-different-dataset&#34;&gt;Project 3 &amp;ndash; Using data from the Beat-AML functional genomics program, develop an initial specification allowing: models to be trained on a given dataset; stored in a central system; queried for predictions in a new dataset; and re-trained on a different dataset.&lt;/h2&gt;
+&lt;h2 id=&#34;project-3--using-data-from-the-beat-aml-functional-genomics-program-develop-an-initial-specification-allowing-models-to-be-trained-on-a-given-dataset-stored-in-a-central-system-queried-for-predictions-in-a-new-dataset-and-re-trained-on-a-different-dataset&#34;&gt;Project 3 &amp;ndash; Using data from the Beat-AML functional genomics program, develop an initial specification allowing: models to be trained on a given dataset; stored in a central system; queried for predictions in a new dataset; and re-trained on a different dataset.&lt;/h2&gt;
 &lt;p&gt;In project 3 we will tackle the problem of representing complex computationally inferred predictive models consisting of many variables and input data types. We will build this implementation using data from OHSU’s Beat-AML program &amp;ndash; which will ultimately collect data on 1,000 primary AML patient samples, including RNA-seq and whole exome sequencing, and ex vivo viability screens after treatment with 200 siRNAs and 100 small molecules. Data currently exists on ~100 patients and will grow at the rate of 200 additional patients per year, reaching 1,000 patients within 5 years.&lt;/p&gt;
 &lt;p&gt;The ongoing accrual of patient samples throughout the duration of the project provides an opportunity to perform prospective assessment of model predictions and iteratively refine models as new data is accrued. Moreover, the genomic profiling information generated for  patients enrolled in this study will be used to provide them with cutting-edge genomically guided treatment options. Therefore, this study provides an ideal use case for integrating information from the clinical genomics database (project 1) with computationally derived predictions on the same patients.
 We envision that our model specification will borrow from or extend existing language independent machine learning APIs, such as the Google prediction API. We will assess and leverage such existing tools to create a standard model specification, including capabilities such as methods for train and predict, and structured representations of performance statistics such as cross validation accuracy. We envision that other aspects of the specification will be specific to G2P applications, including specifications for representing biomarkers or predictive signatures inferred by the model. Such a specification should be context-aware of the input data types, and thus able to represent biomarkers inferred at the gene level, data type level (e.g. mutation vs. copy number), or possibly pathway level. G2P associations inferred by such predictive models should be compatible with G2P association stored in the clinical genomics database, allowing comparison of computationally inferred predictors with those used in clinical care or reported in the literature.
@@ -472,19 +531,11 @@ The API will describe the types of G2P relations over which possible queries can
 &lt;p&gt;Use Case 6 - Given a sample’s specific combination of variants and/or omics profiles, return the most associated phenotypes (predicted or assayed). UC6 would be coded as &lt;code&gt;MaxLink_P( [ G_gene1, *, * ], [ G_gene2, *, *], …, [G_geneN, *, *] )&lt;/code&gt;, where the would be an N element description profiling the genomic elements of query, and &lt;code&gt;MapLink_P&lt;/code&gt; would find the top hits that match these genomic features.&lt;/p&gt;
 &lt;p&gt;Appendix A &amp;ndash; Engineering notes
 We feel that the best way to represent large scale relational data would be through the use a of Graph Database. SQL based systems are inflexible and hard to evolve, while also being very difficult to scale onto distributed systems. The alternative to SQL, key-value or document based NoSQL systems, are flexible and scale well, but most NoSQL based datastores only have soft relational data constructs. Graph Databases have many of the NoSQL benefits, the flexibility to deal with changing requirements, the ability to distribute data and scale horizontally while maintaining relationships as a core construct in the data store.&lt;/p&gt;
-&lt;p&gt;Such a system would be easy to design against, and would be ready for continually evolving data relationships. Most ontological descriptions of phenotypes would be available in RDF (&lt;a href=&#34;http://www.bioontology.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bioontology.org/)&lt;/a&gt;, and many biological projects already distribute data in this graph based format (&lt;a href=&#34;ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/&#34;&gt;ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/&lt;/a&gt; &lt;a href=&#34;http://bio2rdf.org/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bio2rdf.org/)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Such a system would be easy to design against, and would be ready for continually evolving data relationships. Most ontological descriptions of phenotypes would be available in RDF (&lt;a href=&#34;http://www.bioontology.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.bioontology.org/&lt;/a&gt;), and many biological projects already distribute data in this graph based format (&lt;a href=&#34;ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/&#34;&gt;ftp://ftp.uniprot.org/pub/databases/uniprot/current_release/rdf/&lt;/a&gt; &lt;a href=&#34;http://bio2rdf.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://bio2rdf.org/&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;RDF is a triple based graph description. This means that the entire graph is described in statements or &amp;lsquo;source node A connects via edge type B to node C&amp;rsquo;. This means that the resulting graph is only composed of nodes and edges. This graph model is much simpler then a full property graph, where each node and edge is allowed to have a set of key/value pairs attached to it. For dense genomic data a property graph would be a more concise way of describing complex relationships that involve many properties, coefficients and edge weights.
 We also believe that it is important to not only define the data transfer standards but the APIs to make remote interrogation of the data available.&lt;/p&gt;
-&lt;p&gt;There exists APIs for graph queries, such as SPARQL, which have been designed directly for RDF. However this system does not directly apply to the property based graphs we have proposed using. Our work with Graph Databases indicate that Gremlin may be more in line with the idea of a property graph based system. In addition, gremlin has already been shown to be easily convertable to a Map-Reduce based architecture (&lt;a href=&#34;http://thinkaurelius.github.io/faunus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thinkaurelius.github.io/faunus/&lt;/a&gt; &lt;a href=&#34;https://github.com/kellrott/sparkgraph%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/kellrott/sparkgraph)&lt;/a&gt;, so it will be easier to scale to extremely large datasets.&lt;/p&gt;
+&lt;p&gt;There exists APIs for graph queries, such as SPARQL, which have been designed directly for RDF. However this system does not directly apply to the property based graphs we have proposed using. Our work with Graph Databases indicate that Gremlin may be more in line with the idea of a property graph based system. In addition, gremlin has already been shown to be easily convertable to a Map-Reduce based architecture (&lt;a href=&#34;http://thinkaurelius.github.io/faunus/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thinkaurelius.github.io/faunus/&lt;/a&gt; &lt;a href=&#34;https://github.com/kellrott/sparkgraph&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/kellrott/sparkgraph&lt;/a&gt;), so it will be easier to scale to extremely large datasets.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>A community challenge for inferring genetic predictors of gene essentialities through analysis of a functional screen of cancer cell lines</title>
-      <link>https://ellrottlab.org/publication/gonen-2017-community/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/gonen-2017-community/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -497,26 +548,10 @@ We also believe that it is important to not only define the data transfer standa
     </item>
     
     <item>
-      <title>Large-scale uniform analysis of cancer whole genomes in multiple computing environments</title>
-      <link>https://ellrottlab.org/publication/yung-2017-large/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/yung-2017-large/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Prophetic Granger Causality to infer gene regulatory networks</title>
       <link>https://ellrottlab.org/publication/carlin-2017-prophetic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/carlin-2017-prophetic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TumorMap: exploring the molecular similarities of cancer samples in an interactive portal</title>
-      <link>https://ellrottlab.org/publication/newton-2017-tumormap/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/newton-2017-tumormap/</guid>
       <description></description>
     </item>
     
@@ -534,8 +569,8 @@ We also believe that it is important to not only define the data transfer standa
       <link>https://ellrottlab.org/project/bmeg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/bmeg/</guid>
-      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) integrates different types of biomedical data into a unified graph for efficient application of machine learning and discovery algorithms across heterogeneous data types. BMEG will leverage the petabytes of genomics data available for tumor samples from repositories like the &lt;a href=&#34;https://www.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Cancer Institute&lt;/a&gt;’s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt; to predict drug sensitivity, patient outcomes, and other clinically relevant phenotypes.
-The BMEG data model is instantiated in a scalable graph database optimized for storing and querying graphs containing terabytes of vertices and edges distributed across a multi-machine cluster.   This graph is the store of record for the BMEG. It maintains the connections between projects, donors, samples, molecular data and treatment evidence and assures that these entities are associated correctly.&lt;/p&gt;
+      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) was designed to bring heterogeneous biomedical data into a unified graph for discovery and machine-learning analyses. Its model connects projects, donors, samples, molecular measurements, and treatment evidence, making relationships across data sources queryable together.&lt;/p&gt;
+&lt;p&gt;The project focused on cancer genomics data, including resources such as the National Cancer Institute&amp;rsquo;s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt;, with the goal of supporting analyses of clinically relevant outcomes. Its distributed graph database was designed to store and query large graphs across multiple machines.&lt;/p&gt;
 </description>
     </item>
     
@@ -544,13 +579,8 @@ The BMEG data model is instantiated in a scalable graph database optimized for s
       <link>https://ellrottlab.org/project/dream-smc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/dream-smc/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/DREAM_SMC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.synapse.org/DREAM_SMC&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
-is an international effort to improve standard methods for identifying
-cancer-associated mutations and rearrangements in whole-genome sequencing (WGS)
-data. Leaders of the International Cancer Genome Consortium (ICGC) and
-The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage
-Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.&lt;/p&gt;
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling Challenge evaluated methods for identifying cancer-associated mutations from whole-genome sequencing data. Participants analyzed matched tumor and normal samples and submitted calls for single-nucleotide variants and larger genomic rearrangements.&lt;/p&gt;
+&lt;p&gt;The challenge brought together the International Cancer Genome Consortium, The Cancer Genome Atlas, Sage Bionetworks, and IBM-DREAM to compare algorithms against validation data. The challenge is closed; see the &lt;a href=&#34;https://www.synapse.org/DREAM_SMC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DREAM-SMC project on Synapse&lt;/a&gt; for its materials.&lt;/p&gt;
 </description>
     </item>
     
@@ -559,13 +589,8 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/dream-rna/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/dream-rna/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.synapse.org/SMC_RNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.synapse.org/SMC_RNA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;The ICGC-TCGA DREAM Genomic Mutation Calling Challenge (herein, The Challenge)
-is an international effort to improve standard methods for identifying
-cancer-associated mutations and rearrangements in whole-genome sequencing (WGS)
-data. Leaders of the International Cancer Genome Consortium (ICGC) and
-The Cancer Genome Atlas (TCGA) cancer genomics projects are joining with Sage
-Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challenge.&lt;/p&gt;
+      <description>&lt;p&gt;The ICGC-TCGA DREAM Somatic Mutation Calling RNA Challenge (SMC-RNA) compared computational methods for analyzing cancer RNA-sequencing data. Participants developed methods to detect gene fusions and quantify transcript isoforms, both of which can reveal changes in tumor biology.&lt;/p&gt;
+&lt;p&gt;The challenge was organized with the International Cancer Genome Consortium, The Cancer Genome Atlas, Sage Bionetworks, and IBM-DREAM. It is now closed. Visit the &lt;a href=&#34;https://www.synapse.org/SMC_RNA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMC-RNA project on Synapse&lt;/a&gt; for its challenge materials.&lt;/p&gt;
 </description>
     </item>
     
@@ -574,21 +599,8 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/funnel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/funnel/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ohsu-comp-bio.github.io/funnel/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API.&lt;/p&gt;
-&lt;p&gt;A task describes metadata, state, input/output files, resource requests, commands, and logs. The task API has four actions: create, get, list, and cancel. Given a task, Funnel will queue it, schedule it to a worker, and track its state and logs. A worker will download input files, run a sequence of Docker containers, upload output files, and emits events and logs along the way.&lt;/p&gt;
-&lt;p&gt;A wide variety of options make Funnel easily adaptable:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BoltDB&lt;/li&gt;
-&lt;li&gt;Elasticsearch&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;AWS Batch, S3, DynamoDB&lt;/li&gt;
-&lt;li&gt;OpenStack Swift&lt;/li&gt;
-&lt;li&gt;Google Cloud Storage, Datastore&lt;/li&gt;
-&lt;li&gt;Kafka&lt;/li&gt;
-&lt;li&gt;HPC support: HTCondor, Slurm, etc.&lt;/li&gt;
-&lt;li&gt;and more&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API. A task records its metadata, state, input and output files, resource requests, commands, and logs. Funnel queues tasks, schedules them to workers, and tracks their progress.&lt;/p&gt;
+&lt;p&gt;A worker downloads task inputs, runs the requested containerized commands, uploads outputs, and emits events and logs. Funnel supports a range of storage and scheduling back ends, including cloud services and HPC schedulers such as HTCondor and Slurm. Read the &lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel documentation&lt;/a&gt; for details.&lt;/p&gt;
 </description>
     </item>
     
@@ -597,38 +609,15 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/project/mc3/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/mc3/</guid>
-      <description>&lt;p&gt;The TCGA project combined DNA sequence data from three centers generated at Broad, Baylor, and Washington University. Mutation calling was performed independently at one or more of these centers for each of the tumor specific marker papers. The methods used for mutation calling varied as the project evolved over the years. The TCGA PanCancer Atlas MC3 set is a re-calling of uniform files to remove batch effects and enable pancancer analysis. We recognize the advantage to doing a uniform analysis where all the TCGA exome data was called on a standardized set of mutation callers. Further, we recognize the value of “containerizing” the procedures used, so that the methods are transparent and reproducible and sharable with the community. As detailed on this wikipage, the TCGA MC3dataset represents a uniform set of mutation calls. The BAM files used underwent a standardized local re-alignment to hg19 (Genome Reference Consortium GRCh37), six calling algorithms were applied, and a number of automated filters were applied. We strongly recommend that users review the information provided on caveats, data processing, filters, best practices, and acknowledgements before using this file.&lt;/p&gt;
+      <description>&lt;p&gt;The TCGA PanCancer Atlas MC3 project re-called mutations across TCGA exome data to provide a more uniform resource for cross-cancer analysis. Earlier TCGA studies used different calling methods over time and across centers, making direct comparisons difficult.&lt;/p&gt;
+&lt;p&gt;MC3 applied multiple mutation-calling algorithms to standardized, realigned data and used automated filters to produce a harmonized call set. Before using the data, consult its documentation for processing details, filters, caveats, and recommended practices.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Abstract B1-37: A signature catalog to classify tumor mixtures: application to recognition of metastatic disease in prostate cancer</title>
-      <link>https://ellrottlab.org/publication/graim-2015-abstract/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/graim-2015-abstract/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abstract PR02: Multiple Pathway Learning accurately predicts gene essentiality in the Cancer Cell Line Encyclopedia</title>
-      <link>https://ellrottlab.org/publication/uzunangelov-2015-abstract/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/uzunangelov-2015-abstract/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining accurate tumour genome simulation with crowd-sourcing to benchmark somatic variant detection</title>
-      <link>https://ellrottlab.org/publication/stuart-2015-combining/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/stuart-2015-combining/</guid>
-      <description></description>
     </item>
     
     <item>
       <title>Combining tumor genome simulation with crowdsourcing to benchmark somatic single-nucleotide-variant detection</title>
       <link>https://ellrottlab.org/publication/ewing-2015-combining/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/ewing-2015-combining/</guid>
       <description></description>
     </item>
@@ -636,53 +625,29 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     <item>
       <title>Global optimization of somatic variant identification in cancer genomes with a global community challenge</title>
       <link>https://ellrottlab.org/publication/boutros-2014-global/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/boutros-2014-global/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comprehensive molecular characterization of clear cell renal cell carcinoma</title>
-      <link>https://ellrottlab.org/publication/cancer-2013-comprehensiverenal/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cancer-2013-comprehensiverenal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling transparent and collaborative computational analysis of 12 tumor types within The Cancer Genome Atlas</title>
       <link>https://ellrottlab.org/publication/omberg-2013-enabling/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/omberg-2013-enabling/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Structure of the gamma D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala--D-Glu: Insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
-      <link>https://ellrottlab.org/publication/xu-2013-structure/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/xu-2013-structure/</guid>
+      <title>The Cancer Genome Atlas Pan-Cancer analysis project</title>
+      <link>https://ellrottlab.org/publication/network-2013-cancer/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/network-2013-cancer/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The cancer genome atlas pan-cancer analysis project</title>
-      <link>https://ellrottlab.org/publication/weinstein-2013-cancer/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/weinstein-2013-cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The somatic genomic landscape of glioblastoma</title>
-      <link>https://ellrottlab.org/publication/brennan-2013-somatic/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/brennan-2013-somatic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The UCSC cancer genomics browser: update 2013</title>
+      <title>The UCSC Cancer Genomics Browser: update 2013</title>
       <link>https://ellrottlab.org/publication/goldman-2013-ucsc/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/goldman-2013-ucsc/</guid>
@@ -690,97 +655,41 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     </item>
     
     <item>
-      <title>Weinstein JN</title>
-      <link>https://ellrottlab.org/publication/cancer-2013-weinstein/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cancer-2013-weinstein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comprehensive genomic characterization of squamous cell lung cancers</title>
-      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivelung/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivelung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comprehensive molecular characterization of human colon and rectal cancer</title>
-      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivecolon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comprehensive molecular portraits of human breast tumours</title>
-      <link>https://ellrottlab.org/publication/cancer-2012-comprehensivebreast/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/cancer-2012-comprehensivebreast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting the impact of mutations in cancer using an integrated pathway approach</title>
-      <link>https://ellrottlab.org/publication/ng-2012-predicting/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ng-2012-predicting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UCSC Cancer Genomics Browser 2.0</title>
-      <link>https://ellrottlab.org/publication/zhu-2012-ucsc/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/zhu-2012-ucsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abstract A39: The UCSC Cancer Genomics Browser</title>
-      <link>https://ellrottlab.org/publication/craft-2011-abstract/</link>
+      <title>TOPSAN: a dynamic web database for structural genomics</title>
+      <link>https://ellrottlab.org/publication/ellrott-2011-topsan/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/craft-2011-abstract/</guid>
+      <guid>https://ellrottlab.org/publication/ellrott-2011-topsan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A conserved fold for fimbrial components revealed by the crystal structure of a putative fimbrial assembly protein (BT1062) from Bacteroides thetaiotaomicron at 2.2 Å resolution</title>
+      <title>The crystal structure of a bacterial Sufu-like protein defines a novel group of bacterial proteins that are similar to the N-terminal domain of human Sufu</title>
+      <link>https://ellrottlab.org/publication/das-2010-crystal/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-crystal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A conserved fold for fimbrial components revealed by the crystal structure of a putative fimbrial assembly protein (BT1062) from Bacteroides thetaiotaomicron at 2.2 Å resolution</title>
       <link>https://ellrottlab.org/publication/xu-2010-conserved/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/xu-2010-conserved/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
-      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Expansion of the protein repertoire in newly explored environments: human gut microbiome specific protein families</title>
-      <link>https://ellrottlab.org/publication/ellrott-2010-expansion/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2010-expansion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Structure of a membrane-attack complex/perforin (MACPF) family protein from the human gut symbiont Bacteroides thetaiotaomicron</title>
-      <link>https://ellrottlab.org/publication/xu-2010-structure/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/xu-2010-structure/</guid>
+      <link>https://ellrottlab.org/publication/xu-2010-structure-2/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Structure of Bacteroides thetaiotaomicron BT2081 at 2.05 Å resolution: the first structural representative of a new protein family that may play a role in carbohydrate metabolism</title>
+      <title>Structure of Bacteroides thetaiotaomicron BT2081 at 2.05 Å resolution: the first structural representative of a new protein family that may play a role in carbohydrate metabolism</title>
       <link>https://ellrottlab.org/publication/yeh-2010-structure/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/yeh-2010-structure/</guid>
       <description></description>
     </item>
@@ -788,88 +697,88 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     <item>
       <title>Structure of BT_3984, a member of the SusD/RagB family of nutrient-binding molecules</title>
       <link>https://ellrottlab.org/publication/bakolitsa-2010-structure/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/bakolitsa-2010-structure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Structure of the $γ$-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-$γ$-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
-      <link>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/xu-2010-structure-ykf-c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structure of the c-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-c-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
-      <link>https://ellrottlab.org/publication/astakhova-2010-structure/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/astakhova-2010-structure/</guid>
+      <title>Structure of the γ-D-glutamyl-L-diamino acid endopeptidase YkfC from Bacillus cereus in complex with L-Ala-γ-D-Glu: insights into substrate recognition by NlpC/P60 cysteine peptidases</title>
+      <link>https://ellrottlab.org/publication/xu-2010-structure/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-structure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structures of the first representatives of Pfam family PF06684 (DUF1185) reveal a novel variant of the Bacillus chorismate mutase fold and suggest a role in amino-acid metabolism</title>
       <link>https://ellrottlab.org/publication/bakolitsa-2010-structures/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/bakolitsa-2010-structures/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Structures of three members of Pfam PF02663 (FmdE) implicated in microbial methanogenesis reveal a conserved $α$&#43; $β$ core domain and an auxiliary C-terminal treble-clef zinc finger</title>
+      <title>Structures of three members of Pfam PF02663 (FmdE) implicated in microbial methanogenesis reveal a conserved α&#43;β core domain and an auxiliary C-terminal treble-clef zinc finger</title>
       <link>https://ellrottlab.org/publication/axelrod-2010-structures/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/axelrod-2010-structures/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The crystal structure of a bacterial Sufu-like protein defines a novel group of bacterial proteins that are similar to the N-terminal domain of human Sufu</title>
-      <link>https://ellrottlab.org/publication/das-2010-crystal/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/das-2010-crystal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The structure of BVU2987 from Bacteroides vulgatus reveals a superfamily of bacterial periplasmic proteins with possible inhibitory function</title>
-      <link>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/das-2010-structure-bvu-2987/</guid>
+      <link>https://ellrottlab.org/publication/das-2010-structure/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The structure of KPN03535 (gi| 152972051), a novel putative lipoprotein from Klebsiella pneumoniae, reveals an OB-fold</title>
-      <link>https://ellrottlab.org/publication/das-2010-structure-kpn-03535/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/das-2010-structure-kpn-03535/</guid>
+      <title>The structure of KPN03535 (gi|152972051), a novel putative lipoprotein from Klebsiella pneumoniae, reveals an OB-fold</title>
+      <link>https://ellrottlab.org/publication/das-2010-structure-2/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The structure of the first representative of Pfam family PF09836 reveals a two-domain organization and suggests involvement in transcriptional regulation</title>
-      <link>https://ellrottlab.org/publication/das-2010-structure-pf-09836/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/das-2010-structure-pf-09836/</guid>
+      <link>https://ellrottlab.org/publication/das-2010-structure-3/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/das-2010-structure-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>TOPSAN: a dynamic web database for structural genomics</title>
-      <link>https://ellrottlab.org/publication/ellrott-2010-topsan/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2010-topsan/</guid>
+      <title>Expansion of the protein repertoire in newly explored environments: human gut microbiome specific protein families</title>
+      <link>https://ellrottlab.org/publication/ellrott-2010-expansion/</link>
+      <pubDate>Thu, 03 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2010-expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bacterial pleckstrin homology domains: a prokaryotic origin for the PH domain</title>
+      <link>https://ellrottlab.org/publication/xu-2010-bacterial/</link>
+      <pubDate>Fri, 12 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/xu-2010-bacterial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Structural and functional characterizations of SsgB, a conserved activator of developmental cell division in morphologically complex actinomycetes</title>
       <link>https://ellrottlab.org/publication/xu-2009-structural/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Sep 2009 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/xu-2009-structural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the performance of protein threading using insertion/deletion frequency arrays</title>
+      <link>https://ellrottlab.org/publication/ellrott-2008-improving/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2008-improving/</guid>
       <description></description>
     </item>
     
@@ -882,14 +791,6 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     </item>
     
     <item>
-      <title>Improving the performance of protein threading using insertion/deletion frequency arrays</title>
-      <link>https://ellrottlab.org/publication/ellrott-2008-improving/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2008-improving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improvement in protein sequence-structure alignment using insertion/deletion frequency arrays</title>
       <link>https://ellrottlab.org/publication/ellrott-2007-improvement/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
@@ -898,15 +799,7 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     </item>
     
     <item>
-      <title>Protein Threading for Genome-Scale Structural Analysis</title>
-      <link>https://ellrottlab.org/publication/ellrott-2007-protein/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2007-protein/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Generalized Threading Model Using Integer Programming that Allows for Secondary Structure Element Deletion</title>
+      <title>A generalized threading model using integer programming that allows for secondary structure element deletion</title>
       <link>https://ellrottlab.org/publication/ellrott-2006-generalized/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/ellrott-2006-generalized/</guid>
@@ -916,7 +809,7 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     <item>
       <title>PROSPECT-PSPP: an automatic computational pipeline for protein structure prediction</title>
       <link>https://ellrottlab.org/publication/guo-2004-prospect/</link>
-      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2004 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/guo-2004-prospect/</guid>
       <description></description>
     </item>
@@ -924,7 +817,7 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     <item>
       <title>A computational pipeline for protein structure prediction and analysis at genome scale</title>
       <link>https://ellrottlab.org/publication/shah-2003-computational/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Oct 2003 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/shah-2003-computational/</guid>
       <description></description>
     </item>
@@ -932,8 +825,16 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
     <item>
       <title>PROSPECT II: protein structure prediction program for genome-scale applications</title>
       <link>https://ellrottlab.org/publication/kim-2003-prospect/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/kim-2003-prospect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restriction enzyme recognition sequence search program</title>
+      <link>https://ellrottlab.org/publication/ellrott-2002-restriction/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>https://ellrottlab.org/publication/ellrott-2002-restriction/</guid>
       <description></description>
     </item>
     
@@ -942,14 +843,6 @@ Bionetworks and IBM-DREAM to initiate this innovative open crowd-sourced Challen
       <link>https://ellrottlab.org/publication/ellrott-2002-identifying/</link>
       <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/publication/ellrott-2002-identifying/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restriction enzyme recognition sequence search program</title>
-      <link>https://ellrottlab.org/publication/ellrott-2002-restriction/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>https://ellrottlab.org/publication/ellrott-2002-restriction/</guid>
       <description></description>
     </item>
     

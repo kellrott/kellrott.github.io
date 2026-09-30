@@ -5,32 +5,41 @@
     <link>https://ellrottlab.org/tag/data-systems/</link>
       <atom:link href="https://ellrottlab.org/tag/data-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Systems</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Jan 2019 10:27:20 -0800</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 30 Sep 2026 00:00:00 -0700</lastBuildDate>
     <image>
-      <url>https://ellrottlab.org/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ellrottlab.org/media/icon_hu_e1b28b85badc33b7.png</url>
       <title>Data Systems</title>
       <link>https://ellrottlab.org/tag/data-systems/</link>
     </image>
+    
+    <item>
+      <title>CALYPR</title>
+      <link>https://ellrottlab.org/project/calypr/</link>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 -0700</pubDate>
+      <guid>https://ellrottlab.org/project/calypr/</guid>
+      <description>&lt;p&gt;CALYPR is a genomics data science platform built for hybrid cloud and on-premises infrastructure. Based on the Gen3 Data Commons architecture, it combines open standards with tools for managing data, running workflows, and supporting biological discovery.&lt;/p&gt;
+&lt;p&gt;Its open-source tools include &lt;a href=&#34;https://calypr.org/tools/grip/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP&lt;/a&gt; for graph-based data integration, &lt;a href=&#34;https://calypr.org/tools/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel&lt;/a&gt; for distributed task execution, &lt;a href=&#34;https://calypr.org/tools/syfon/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Syfon&lt;/a&gt; for data registration and transfer, and &lt;a href=&#34;https://calypr.org/tools/git-drs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Git-DRS&lt;/a&gt; for versioned data workflows. Learn more at &lt;a href=&#34;https://calypr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;calypr.org&lt;/a&gt; or browse the &lt;a href=&#34;https://github.com/calypr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CALYPR GitHub organization&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AnVIL</title>
       <link>https://ellrottlab.org/project/anvil/</link>
       <pubDate>Sun, 27 Jan 2019 10:27:20 -0800</pubDate>
       <guid>https://ellrottlab.org/project/anvil/</guid>
-      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) is a
-project to build a data commons to allow researchers to efficiently analyze and visualize
-genomics data on the cloud.
-This project is a collaboration with Oregon Health and Science University, University of California Santa Cruz,
-University of Chicago, The Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University and Pennsylvania State University.&lt;/p&gt;
+      <description>&lt;p&gt;The NHGRI Genomic Data Science Analysis, Visualization, and Informatics Lab-Space (AnVIL) provides a shared environment for working with genomic data in the cloud. By bringing data and scalable computing together, AnVIL supports collaborative analysis without requiring researchers to move large datasets between institutions.&lt;/p&gt;
+&lt;p&gt;AnVIL is a collaboration among Oregon Health &amp;amp; Science University, the University of California, Santa Cruz, the University of Chicago, the Broad Institute, Washington University in St. Louis, Vanderbilt University Medical Center, Johns Hopkins University, and Pennsylvania State University. See the &lt;a href=&#34;https://anvilproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AnVIL project site&lt;/a&gt; for current tools and data resources.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Grip</title>
+      <title>GRIP</title>
       <link>https://ellrottlab.org/project/grip/</link>
       <pubDate>Sun, 19 Aug 2018 23:19:31 -0700</pubDate>
       <guid>https://ellrottlab.org/project/grip/</guid>
-      <description></description>
+      <description>&lt;p&gt;GRaph Integration Platform (GRIP) provides a graph interface over several database technologies, including PostgreSQL, MySQL, MongoDB, Badger, and LevelDB. Vertices and edges can carry properties and represent different kinds of relationships.&lt;/p&gt;
+&lt;p&gt;GRIP includes an API for traversing, analyzing, and updating graphs, with a query syntax inspired by Apache TinkerPop. The &lt;a href=&#34;https://github.com/bmeg/grip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRIP project on GitHub&lt;/a&gt; contains the code and documentation.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +47,8 @@ University of Chicago, The Broad Institute, Washington University in St. Louis, 
       <link>https://ellrottlab.org/project/bmeg/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/bmeg/</guid>
-      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) integrates different types of biomedical data into a unified graph for efficient application of machine learning and discovery algorithms across heterogeneous data types. BMEG will leverage the petabytes of genomics data available for tumor samples from repositories like the &lt;a href=&#34;https://www.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Cancer Institute&lt;/a&gt;’s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt; to predict drug sensitivity, patient outcomes, and other clinically relevant phenotypes.
-The BMEG data model is instantiated in a scalable graph database optimized for storing and querying graphs containing terabytes of vertices and edges distributed across a multi-machine cluster.   This graph is the store of record for the BMEG. It maintains the connections between projects, donors, samples, molecular data and treatment evidence and assures that these entities are associated correctly.&lt;/p&gt;
+      <description>&lt;p&gt;The BioMedical Evidence Graph (BMEG) was designed to bring heterogeneous biomedical data into a unified graph for discovery and machine-learning analyses. Its model connects projects, donors, samples, molecular measurements, and treatment evidence, making relationships across data sources queryable together.&lt;/p&gt;
+&lt;p&gt;The project focused on cancer genomics data, including resources such as the National Cancer Institute&amp;rsquo;s &lt;a href=&#34;https://gdc.cancer.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic Data Commons&lt;/a&gt;, with the goal of supporting analyses of clinically relevant outcomes. Its distributed graph database was designed to store and query large graphs across multiple machines.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,21 +57,8 @@ The BMEG data model is instantiated in a scalable graph database optimized for s
       <link>https://ellrottlab.org/project/funnel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://ellrottlab.org/project/funnel/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ohsu-comp-bio.github.io/funnel/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API.&lt;/p&gt;
-&lt;p&gt;A task describes metadata, state, input/output files, resource requests, commands, and logs. The task API has four actions: create, get, list, and cancel. Given a task, Funnel will queue it, schedule it to a worker, and track its state and logs. A worker will download input files, run a sequence of Docker containers, upload output files, and emits events and logs along the way.&lt;/p&gt;
-&lt;p&gt;A wide variety of options make Funnel easily adaptable:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BoltDB&lt;/li&gt;
-&lt;li&gt;Elasticsearch&lt;/li&gt;
-&lt;li&gt;MongoDB&lt;/li&gt;
-&lt;li&gt;AWS Batch, S3, DynamoDB&lt;/li&gt;
-&lt;li&gt;OpenStack Swift&lt;/li&gt;
-&lt;li&gt;Google Cloud Storage, Datastore&lt;/li&gt;
-&lt;li&gt;Kafka&lt;/li&gt;
-&lt;li&gt;HPC support: HTCondor, Slurm, etc.&lt;/li&gt;
-&lt;li&gt;and more&lt;/li&gt;
-&lt;/ul&gt;
+      <description>&lt;p&gt;Funnel is a toolkit for distributed task execution with a simple API. A task records its metadata, state, input and output files, resource requests, commands, and logs. Funnel queues tasks, schedules them to workers, and tracks their progress.&lt;/p&gt;
+&lt;p&gt;A worker downloads task inputs, runs the requested containerized commands, uploads outputs, and emits events and logs. Funnel supports a range of storage and scheduling back ends, including cloud services and HPC schedulers such as HTCondor and Slurm. Read the &lt;a href=&#34;https://ohsu-comp-bio.github.io/funnel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funnel documentation&lt;/a&gt; for details.&lt;/p&gt;
 </description>
     </item>
     
